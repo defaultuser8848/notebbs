@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[ProtectNote 页面保护模板 1.0]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/407" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/407/" />
+    <id>https://notebbs.dynv6.net/atom/d/407</id>
+    <updated>2024-07-16T14:13:57+00:00</updated>
+
+        <entry>
+        <title><![CDATA[ProtectNote 页面保护模板 1.0]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/407/9"/>
+        <id>https://notebbs.dynv6.net/d/407/9</id>
+        <updated>2024-07-03T05:00:05+00:00</updated>
+        <content
+        ><![CDATA[注意！不按照ProtectNote模板保护的，或声称是毁灭而不是保护的，均为假冒]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[ProtectNote 页面保护模板 1.0]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/407/8"/>
+        <id>https://notebbs.dynv6.net/d/407/8</id>
+        <updated>2024-06-27T06:09:30+00:00</updated>
+        <content
+        ><![CDATA[注意！所有新闻错误的页面模板，均为假冒！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[ProtectNote 页面保护模板 1.0]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/407/7"/>
+        <id>https://notebbs.dynv6.net/d/407/7</id>
+        <updated>2024-06-16T08:11:32+00:00</updated>
+        <content
+        ><![CDATA[模板更新！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[ProtectNote 页面保护模板 1.0]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/407/5"/>
+        <id>https://notebbs.dynv6.net/d/407/5</id>
+        <updated>2024-06-15T04:32:07+00:00</updated>
+        <content
+        ><![CDATA[14569 先不了]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[ProtectNote 页面保护模板 1.0]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/407/4"/>
+        <id>https://notebbs.dynv6.net/d/407/4</id>
+        <updated>2024-06-14T15:14:48+00:00</updated>
+        <content
+        ><![CDATA[那个 URL 太长了，强烈建议为论坛加 ID Slug 插件并配置「固定链接驱动：Flarum\Discussion\Discussion」。
+配置完成后将 URL 改为：
+ProtectNote 正在邀请您加入我们！前往：https://note.freeflarum.com/d/325/7
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[ProtectNote 页面保护模板 1.0]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/407/3"/>
+        <id>https://notebbs.dynv6.net/d/407/3</id>
+        <updated>2024-06-14T09:46:47+00:00</updated>
+        <content
+        ><![CDATA[q8cnm8uyfb 哪里破坏了？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[ProtectNote 页面保护模板 1.0]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/407/1"/>
+        <id>https://notebbs.dynv6.net/d/407/1</id>
+        <updated>2024-06-13T10:38:11+00:00</updated>
+        <content
+        ><![CDATA[本页面由于&lt;原因&gt;，故ProtectNote目前保护这个页面
+————————————————新闻——————————————
+ProtectNote 正在邀请您加入我们！前往：https://note.freeflarum.com/d/325-protectnote%E7%BB%84%E7%BB%87%E4%BB%8B%E7%BB%8D%E5%8F%8A%E5%8A%A0%E5%85%A5/7
+最近有人恶意冒充 ProtectNote 毁灭页面，参见：https://note.freeflarum.com/d/434-有人冒充-protectnote
+————————————————正文——————————————
+&lt;原页面内容&gt;
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+其他情况均属冒充，内容中声称ProtectNote是毁灭组织的，或者声称CleanNote是保护组织的，均为虚假内容。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

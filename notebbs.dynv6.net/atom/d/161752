@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[“Googol在下面网站进行了破坏行为而且拒不承认（按时间排序；恕不提供链接）：”]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161752" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161752/" />
+    <id>https://notebbs.dynv6.net/atom/d/161752</id>
+    <updated>2024-07-16T14:14:26+00:00</updated>
+
+        <entry>
+        <title><![CDATA[“Googol在下面网站进行了破坏行为而且拒不承认（按时间排序；恕不提供链接）：”]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161752/1"/>
+        <id>https://notebbs.dynv6.net/d/161752/1</id>
+        <updated>2024-07-03T00:17:48+00:00</updated>
+        <content
+        ><![CDATA[MelonCmd在自己的Googol罪行列表写下：
+Googol在下面网站进行了破坏行为而且拒不承认（按时间排序；恕不提供链接）：
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+
+首先，你怎么证明是Googol破坏的？证据确实表明遭到破坏了，但是怎么证明破坏行为是Googol做的？？？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

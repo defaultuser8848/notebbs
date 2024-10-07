@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[更新日志]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/398" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/398/" />
+    <id>https://notebbs.dynv6.net/atom/d/398</id>
+    <updated>2024-07-16T14:08:04+00:00</updated>
+
+        <entry>
+        <title><![CDATA[更新日志]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/398/7"/>
+        <id>https://notebbs.dynv6.net/d/398/7</id>
+        <updated>2024-07-06T09:28:22+00:00</updated>
+        <content
+        ><![CDATA[v1.1.2
+使用了 ChillRoundF 字体。
+增加了更美观的字体。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[更新日志]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/398/6"/>
+        <id>https://notebbs.dynv6.net/d/398/6</id>
+        <updated>2024-07-06T03:34:43+00:00</updated>
+        <content
+        ><![CDATA[v1.1.1
+
+更改了主题色
+使用了 HubUi-X]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[更新日志]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/398/5"/>
+        <id>https://notebbs.dynv6.net/d/398/5</id>
+        <updated>2024-07-02T05:22:16+00:00</updated>
+        <content
+        ><![CDATA[v1.1.0
+增加了 Fluent 主题
+启用了 Pusher
+修复已知 Bug]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[更新日志]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/398/3"/>
+        <id>https://notebbs.dynv6.net/d/398/3</id>
+        <updated>2024-06-13T01:32:14+00:00</updated>
+        <content
+        ><![CDATA[v1.0.1
+更新如下：
+修复部分bug
+增加tag和功能，让论坛更进一步优化！
+我们强烈反对 yu22c，论坛正在被DDoS攻击。如果受灾请前往备用论坛。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[更新日志]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/398/1"/>
+        <id>https://notebbs.dynv6.net/d/398/1</id>
+        <updated>2024-06-12T11:41:15+00:00</updated>
+        <content
+        ><![CDATA[此页面记录了论坛的更新日志，请关注本贴了解更多更新信息。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

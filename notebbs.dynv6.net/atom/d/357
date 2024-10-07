@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[关于封禁22c系列IP的通知]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/357" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/357/" />
+    <id>https://notebbs.dynv6.net/atom/d/357</id>
+    <updated>2024-07-16T14:38:40+00:00</updated>
+
+        <entry>
+        <title><![CDATA[关于封禁22c系列IP的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/357/1"/>
+        <id>https://notebbs.dynv6.net/d/357/1</id>
+        <updated>2024-06-07T02:17:22+00:00</updated>
+        <content
+        ><![CDATA[22c继续发布大量政治敏感内容，已经删除内容并封禁IP。
+
+依据：
+敏感政治或可能导致本站被GFW（Great Firewall）封禁（即被墙）的行为。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

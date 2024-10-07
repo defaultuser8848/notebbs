@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[PiboPibo Forum 友链推广]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/51" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/51/" />
+    <id>https://notebbs.dynv6.net/atom/d/51</id>
+    <updated>2024-07-16T14:52:46+00:00</updated>
+
+        <entry>
+        <title><![CDATA[PiboPibo Forum 友链推广]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/51/2"/>
+        <id>https://notebbs.dynv6.net/d/51/2</id>
+        <updated>2024-02-15T03:51:59+00:00</updated>
+        <content
+        ><![CDATA[为啥发广告？]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[PiboPibo Forum 友链推广]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/51/1"/>
+        <id>https://notebbs.dynv6.net/d/51/1</id>
+        <updated>2023-12-23T19:17:57+00:00</updated>
+        <content
+        ><![CDATA[
+PiboPibo论坛
+
+
+
+社区地址: https://forum.litecat.buzz
+
+社区介绍:
+欢迎来到皮波皮波（PiboPibo）论坛，这是一个现代化、自由开放的多元化交流平台。我们汇聚了游戏玩家、开发者和爱好者，这里是畅所欲言、分享游戏心得及资源的理想之地。我们不断努力，打造更自由、包容的环境，希望让这里成为游戏圈内更有温度的社区。加入我们，一同探索无尽的游戏乐趣！]]></content>
+        <author>
+            <name><![CDATA[PiboPibo]]></name>
+        </author>
+    </entry>
+    
+</feed>

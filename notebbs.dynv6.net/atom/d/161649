@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[分享几个TiddlyWiki链接]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161649" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161649/" />
+    <id>https://notebbs.dynv6.net/atom/d/161649</id>
+    <updated>2024-07-16T14:29:22+00:00</updated>
+
+        <entry>
+        <title><![CDATA[分享几个TiddlyWiki链接]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161649/1"/>
+        <id>https://notebbs.dynv6.net/d/161649/1</id>
+        <updated>2024-06-24T02:50:27+00:00</updated>
+        <content
+        ><![CDATA[https://dongrentianyu.github.io/a-tiddlywiki-odyssey/guide/tutorials/talk.html 教程
+https://talk.tiddlywiki.org/ 英文官方论坛
+https://talk.tidgi.fun/recent 中文论坛]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

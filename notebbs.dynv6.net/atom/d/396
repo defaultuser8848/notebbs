@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[有人DDoS本论坛的通知]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/396" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/396/" />
+    <id>https://notebbs.dynv6.net/atom/d/396</id>
+    <updated>2024-07-16T14:36:17+00:00</updated>
+
+        <entry>
+        <title><![CDATA[有人DDoS本论坛的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/396/4"/>
+        <id>https://notebbs.dynv6.net/d/396/4</id>
+        <updated>2024-06-13T00:09:05+00:00</updated>
+        <content
+        ><![CDATA[freeflarum的站长说有好几万的被CloudFlare查到的恶意事件。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[有人DDoS本论坛的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/396/3"/>
+        <id>https://notebbs.dynv6.net/d/396/3</id>
+        <updated>2024-06-13T00:07:41+00:00</updated>
+        <content
+        ><![CDATA[14569 现在也可以。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[有人DDoS本论坛的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/396/2"/>
+        <id>https://notebbs.dynv6.net/d/396/2</id>
+        <updated>2024-06-12T16:58:20+00:00</updated>
+        <content
+        ><![CDATA[Googol 终于好了，只有深夜才能访问论坛。其他时间服务器显示错误。]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[有人DDoS本论坛的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/396/1"/>
+        <id>https://notebbs.dynv6.net/d/396/1</id>
+        <updated>2024-06-12T11:25:10+00:00</updated>
+        <content
+        ><![CDATA[最近22c对本论坛进行DDoS，我们联系了FreeFlarum，要求开启I'm Under Attack模式。这暂时解决了DDoS的情况。
+对于登录出现“xxxx错误，请查看控制台”的，请重新访问 https://note.freeflarum.com]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

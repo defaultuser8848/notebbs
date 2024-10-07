@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[验证码重新开启]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161639" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161639/" />
+    <id>https://notebbs.dynv6.net/atom/d/161639</id>
+    <updated>2024-07-16T14:31:02+00:00</updated>
+
+        <entry>
+        <title><![CDATA[验证码重新开启]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161639/1"/>
+        <id>https://notebbs.dynv6.net/d/161639/1</id>
+        <updated>2024-06-23T08:46:16+00:00</updated>
+        <content
+        ><![CDATA[最近处罚了一波轰炸机，全部删号了。为了防止再次发生，重新开验证码。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

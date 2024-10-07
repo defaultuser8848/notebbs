@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[关于本站用户 yu22c 是冒充者的通知]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/241" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/241/" />
+    <id>https://notebbs.dynv6.net/atom/d/241</id>
+    <updated>2024-07-16T14:44:44+00:00</updated>
+
+        <entry>
+        <title><![CDATA[关于本站用户 yu22c 是冒充者的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/241/2"/>
+        <id>https://notebbs.dynv6.net/d/241/2</id>
+        <updated>2024-04-30T14:13:31+00:00</updated>
+        <content
+        ><![CDATA[换博客了：
+https://googol3.wordpress.com/]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于本站用户 yu22c 是冒充者的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/241/1"/>
+        <id>https://notebbs.dynv6.net/d/241/1</id>
+        <updated>2024-04-28T11:07:37+00:00</updated>
+        <content
+        ><![CDATA[经过多个渠道的调查，本站用户 @yu22c-fake 是冒充用户，是否是22c故意冒充导致封禁2个iFastNet用户的准确性还有待考察。对于违规行为，我们将进行以下处罚：
+根据规则1.4，封禁30天。
+更改用户名为 yu22c-fake。
+撤销验证成员资格。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

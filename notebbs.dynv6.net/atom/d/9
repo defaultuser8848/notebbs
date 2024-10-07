@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[验证码开启了]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/9" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/9/" />
+    <id>https://notebbs.dynv6.net/atom/d/9</id>
+    <updated>2024-07-16T13:57:32+00:00</updated>
+
+        <entry>
+        <title><![CDATA[验证码开启了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/9/4"/>
+        <id>https://notebbs.dynv6.net/d/9/4</id>
+        <updated>2024-07-16T13:02:05+00:00</updated>
+        <content
+        ><![CDATA[I can help you to spam this site, do you want?]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[验证码开启了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/9/2"/>
+        <id>https://notebbs.dynv6.net/d/9/2</id>
+        <updated>2023-11-05T03:07:23+00:00</updated>
+        <content
+        ><![CDATA[我是验证用户不需要验证码。然后最好验证用户需要长时间没有刷屏轰炸行为]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[验证码开启了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/9/1"/>
+        <id>https://notebbs.dynv6.net/d/9/1</id>
+        <updated>2023-11-05T03:06:49+00:00</updated>
+        <content
+        ><![CDATA[太好了！这样就能防止轰炸机了。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

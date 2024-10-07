@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[googol 又整活了]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/165" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/165/" />
+    <id>https://notebbs.dynv6.net/atom/d/165</id>
+    <updated>2024-07-16T14:02:11+00:00</updated>
+
+        <entry>
+        <title><![CDATA[googol 又整活了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/165/2"/>
+        <id>https://notebbs.dynv6.net/d/165/2</id>
+        <updated>2024-04-01T07:02:14+00:00</updated>
+        <content
+        ><![CDATA[code:
+function read(pagename){
+  fetch("https://note.ms/"+pagename, {
+    "headers": {
+      "accept": "*/*",
+      "accept-language": "zh-CN,zh;q=0.9",
+      "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+      "sec-ch-ua": "\";Not A Brand\";v=\"99\", \"Chromium\";v=\"94\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "x-requested-with": "XMLHttpRequest"
+    },
+    "referrer": "https://note.ms/"+pagename,
+    "referrerPolicy": "no-referrer-when-downgrade",
+    "mode": "cors",
+    "credentials": "omit"
+  }).then(res =&gt; res.text())
+    .then(text =&gt; this.a = text);
+    dom = document.createElement("html");
+    dom.innerHTML = a;
+  try{
+    text = dom.getElementsByTagName("textarea")[0].value;
+  }catch{
+    return "error 403";
+  }
+    return text;
+}
+function set(pagename, content){
+  fetch("https://note.ms/"+pagename, {
+    "headers": {
+      "accept": "*/*",
+      "accept-language": "zh-CN,zh;q=0.9",
+      "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+      "sec-ch-ua": "\";Not A Brand\";v=\"99\", \"Chromium\";v=\"94\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "x-requested-with": "XMLHttpRequest"
+    },
+    "referrer": "https://note.ms/"+pagename,
+    "referrerPolicy": "no-referrer-when-downgrade",
+    "body": "&amp;t="+content,
+    "method": "POST",
+    "mode": "cors",
+    "credentials": "omit"
+  });
+}
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[googol 又整活了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/165/1"/>
+        <id>https://notebbs.dynv6.net/d/165/1</id>
+        <updated>2024-03-23T15:50:27+00:00</updated>
+        <content
+        ><![CDATA[https://github.com/Googologyer/notems
+JavaScript 技术也太低了吧~]]></content>
+        <author>
+            <name><![CDATA[yu22c-fake]]></name>
+        </author>
+    </entry>
+    
+</feed>

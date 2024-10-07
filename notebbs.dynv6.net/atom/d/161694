@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[关于/chating被脚本的通知]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161694" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161694/" />
+    <id>https://notebbs.dynv6.net/atom/d/161694</id>
+    <updated>2024-07-16T14:26:07+00:00</updated>
+
+        <entry>
+        <title><![CDATA[关于/chating被脚本的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161694/1"/>
+        <id>https://notebbs.dynv6.net/d/161694/1</id>
+        <updated>2024-06-28T02:15:49+00:00</updated>
+        <content
+        ><![CDATA[我们ProtectNote试图恢复/chating，可是被脚本恶意覆盖。我们考虑暂时迁址至：/Chating]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

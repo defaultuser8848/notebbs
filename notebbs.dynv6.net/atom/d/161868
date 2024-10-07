@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[打DDoS游击战]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161868" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161868/" />
+    <id>https://notebbs.dynv6.net/atom/d/161868</id>
+    <updated>2024-07-16T13:58:08+00:00</updated>
+
+        <entry>
+        <title><![CDATA[打DDoS游击战]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161868/3"/>
+        <id>https://notebbs.dynv6.net/d/161868/3</id>
+        <updated>2024-07-16T12:53:48+00:00</updated>
+        <content
+        ><![CDATA[What did you say?]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[打DDoS游击战]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161868/2"/>
+        <id>https://notebbs.dynv6.net/d/161868/2</id>
+        <updated>2024-07-16T10:13:58+00:00</updated>
+        <content
+        ><![CDATA[以后的更多情况请访问：https://note4.freeflarum.com/d/10-ddosri-zhi]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[打DDoS游击战]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161868/1"/>
+        <id>https://notebbs.dynv6.net/d/161868/1</id>
+        <updated>2024-07-16T10:12:43+00:00</updated>
+        <content
+        ><![CDATA[我们最近打了DDoS游击战，有一些进展]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

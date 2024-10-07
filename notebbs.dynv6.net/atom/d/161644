@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[污蔑！]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161644" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161644/" />
+    <id>https://notebbs.dynv6.net/atom/d/161644</id>
+    <updated>2024-07-16T14:29:30+00:00</updated>
+
+        <entry>
+        <title><![CDATA[污蔑！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161644/2"/>
+        <id>https://notebbs.dynv6.net/d/161644/2</id>
+        <updated>2024-06-23T11:32:46+00:00</updated>
+        <content
+        ><![CDATA[Chat Chating Club 的 /chating 内容是未经授权的，我们有权利覆盖。如果再说@@Guess By User@@，Note.ms是在线的无规则的网络记事本。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[污蔑！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161644/1"/>
+        <id>https://notebbs.dynv6.net/d/161644/1</id>
+        <updated>2024-06-23T11:31:44+00:00</updated>
+        <content
+        ><![CDATA[cmd1152在这里污蔑：
+Googol写道
+/chating，被Chat Chating Club覆盖为未经授权的聊天室。其实支援建设是可以的。
+
+Googol我告诉你，你不要得寸进尺了啊，先是破坏 0号页面，然后又破坏 /chating ，原来我关了cmdSafe后这里突然这么乱
+怎么破坏0号页面？/chating怎么是破坏了？建立聊天室就是破坏？？？？？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

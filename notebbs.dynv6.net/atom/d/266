@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[反CleanNote保证理财]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/266" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/266/" />
+    <id>https://notebbs.dynv6.net/atom/d/266</id>
+    <updated>2024-07-16T14:42:57+00:00</updated>
+
+        <entry>
+        <title><![CDATA[反CleanNote保证理财]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/266/2"/>
+        <id>https://notebbs.dynv6.net/d/266/2</id>
+        <updated>2024-05-14T08:13:09+00:00</updated>
+        <content
+        ><![CDATA[挺好的。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[反CleanNote保证理财]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/266/1"/>
+        <id>https://notebbs.dynv6.net/d/266/1</id>
+        <updated>2024-05-12T12:07:33+00:00</updated>
+        <content
+        ><![CDATA[ 注意：本理财与网站无关！ 
+本理财有1%利息/月，但只有满足以下情况才能获得本金和利息：
+领取日无充分证据表明你支持CleanNote
+本站相关管理还在
+
+注意事项：如果想要进行理财，请转账本账号理财金额（至少100 Note币），后备注“反CleanNote保证理财”，之后在本贴评论“我投资[Note 币数量]，时间为[存期]。”才能成功。
+
+
+注：关于本行为必须保证守信，如果没有守信请艾特@Googol 或者@MoneyBanker]]></content>
+        <author>
+            <name><![CDATA[MoneyBanker]]></name>
+        </author>
+    </entry>
+    
+</feed>

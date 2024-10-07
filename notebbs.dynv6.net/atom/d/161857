@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[关于即将对 145Hub 处罚的通知]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161857" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161857/" />
+    <id>https://notebbs.dynv6.net/atom/d/161857</id>
+    <updated>2024-07-16T13:59:20+00:00</updated>
+
+        <entry>
+        <title><![CDATA[关于即将对 145Hub 处罚的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161857/2"/>
+        <id>https://notebbs.dynv6.net/d/161857/2</id>
+        <updated>2024-07-15T10:24:46+00:00</updated>
+        <content
+        ><![CDATA[测试：https://145hub.freeflarum.com https://hubs.tkfly.top]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于即将对 145Hub 处罚的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161857/1"/>
+        <id>https://notebbs.dynv6.net/d/161857/1</id>
+        <updated>2024-07-15T10:22:53+00:00</updated>
+        <content
+        ><![CDATA[由于 145Hub 进行恶意封禁，声称我们的内容为虚假信息，决定断绝一切合作。并进行以下处罚：
+ 待功能开发后，将 145Hub 移至仇恨链接
+ 将 145Hub 的链接拉入黑名单，无法在贴子正常显示
+ 鉴于 145Hub 支持 DDoS NoteBBS，决定按情况给予相关 [数据删除] 处罚。
+
+如果 14569 在本站继续发布相关虚假模因危害内容，将对 14569 封禁 3 天。
+
+如果能对14569执行A级记忆删除……]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

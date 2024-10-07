@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[日志又多了一条数据]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161760" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161760/" />
+    <id>https://notebbs.dynv6.net/atom/d/161760</id>
+    <updated>2024-07-16T14:13:51+00:00</updated>
+
+        <entry>
+        <title><![CDATA[日志又多了一条数据]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161760/1"/>
+        <id>https://notebbs.dynv6.net/d/161760/1</id>
+        <updated>2024-07-03T07:13:21+00:00</updated>
+        <content
+        ><![CDATA[
+游客 - user.password_change_requested
+请求修改 Googol 的密码
+2a09:bac1:19e0:50::1d3:1* - 20 分钟前]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

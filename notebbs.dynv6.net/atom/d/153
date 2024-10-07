@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[关于111破坏事件]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/153" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/153/" />
+    <id>https://notebbs.dynv6.net/atom/d/153</id>
+    <updated>2024-07-16T14:52:03+00:00</updated>
+
+        <entry>
+        <title><![CDATA[关于111破坏事件]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/153/5"/>
+        <id>https://notebbs.dynv6.net/d/153/5</id>
+        <updated>2024-03-21T12:19:18+00:00</updated>
+        <content
+        ><![CDATA[admin 太逊了，刷新了十多次，全是111]]></content>
+        <author>
+            <name><![CDATA[asdf]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于111破坏事件]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/153/4"/>
+        <id>https://notebbs.dynv6.net/d/153/4</id>
+        <updated>2024-03-21T12:18:16+00:00</updated>
+        <content
+        ><![CDATA[但是我们只能覆盖，别无他法。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于111破坏事件]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/153/3"/>
+        <id>https://notebbs.dynv6.net/d/153/3</id>
+        <updated>2024-03-21T12:17:45+00:00</updated>
+        <content
+        ><![CDATA[我用JavaScript都能覆盖。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于111破坏事件]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/153/2"/>
+        <id>https://notebbs.dynv6.net/d/153/2</id>
+        <updated>2024-03-21T12:15:28+00:00</updated>
+        <content
+        ><![CDATA[admin 111都打不过，太逊了吧]]></content>
+        <author>
+            <name><![CDATA[asdf]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于111破坏事件]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/153/1"/>
+        <id>https://notebbs.dynv6.net/d/153/1</id>
+        <updated>2024-03-21T07:51:27+00:00</updated>
+        <content
+        ><![CDATA[最近，/chating受到了111的恶意破坏，我们已经设置了覆盖。如果需要取消覆盖，请前往http://googol.ccccocccc.cc/index.php/User:Admin的讨论页留言。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+    
+</feed>

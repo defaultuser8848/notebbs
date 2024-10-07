@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[404 不等于 4n0n4me！]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/406" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/406/" />
+    <id>https://notebbs.dynv6.net/atom/d/406</id>
+    <updated>2024-07-16T14:35:22+00:00</updated>
+
+        <entry>
+        <title><![CDATA[404 不等于 4n0n4me！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/406/1"/>
+        <id>https://notebbs.dynv6.net/d/406/1</id>
+        <updated>2024-06-13T10:31:49+00:00</updated>
+        <content
+        ><![CDATA[由于没有证据支撑，所以目前 404 不等于 4n0n4me，4n0n4me 很可能被404冒充。所以，目前在他们提供证据之前，404 与 4n0n4me 不相等。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

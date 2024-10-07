@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[所有说我被维基百科封禁的看这里]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/438" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/438/" />
+    <id>https://notebbs.dynv6.net/atom/d/438</id>
+    <updated>2024-07-16T14:31:06+00:00</updated>
+
+        <entry>
+        <title><![CDATA[所有说我被维基百科封禁的看这里]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/438/2"/>
+        <id>https://notebbs.dynv6.net/d/438/2</id>
+        <updated>2024-06-17T11:15:52+00:00</updated>
+        <content
+        ><![CDATA[{{Support|strongest}}]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[所有说我被维基百科封禁的看这里]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/438/1"/>
+        <id>https://notebbs.dynv6.net/d/438/1</id>
+        <updated>2024-06-17T05:15:09+00:00</updated>
+        <content
+        ><![CDATA[维基的拥趸这时会出来解释说，维基封代理IP是有一定道理的，中国大陆的用户可以靠跟管理员申请账号的方式来编辑。我们尚且不说在本文撰写之日，申请账号需要等上41天才能处理，维基的拥趸仍然不能解释：凭什么用户翻了墙可以用所有网站，唯独维基用不了；凭什么中国大陆的用户要等41天才有管理员给“恩赐”账号。等你拿到了管理员赐给你的账号，你也最好夹着尾巴做人，因为管理员如果发现大陆新用户里出了几个“刺儿头”的话，可以拖延其他中国大陆的用户的申请，可以找借口故意不给你的“代理IP编辑权”续期，或者直接封了你了事。毕竟管理员都是港台的，或者已经被吓得不敢主持正义的少数大陆人。说白了，他们的办法和道理，就是用尽各种手段，在你发表你的观点，通过充分辩论来达成“中立”之前、在你做那么一些“不墨守陈规”的事之前，先把你的嘴堵上。
+
+来源：https://www.qiuwenbaike.cn/wiki/Qiuwen:%E4%BD%95%E8%B0%93%E2%80%9C%E4%B8%AD%E5%9B%BD%E4%BB%B7%E5%80%BC%E8%A7%82%E5%9F%BA%E7%A1%80%E4%B8%8A%E7%9A%84%E5%AE%A2%E8%A7%82%E8%A7%82%E7%82%B9%E2%80%9D%EF%BC%9F%E7%AE%80%E8%B0%88%E7%BB%B4%E5%9F%BA%E5%BC%8F%E2%80%9C%E4%B8%AD%E7%AB%8B%E2%80%9D%E7%9A%84%E8%99%9A%E4%BC%AA]]></content>
+        <author>
+            <name><![CDATA[Gongxiang01]]></name>
+        </author>
+    </entry>
+    
+</feed>

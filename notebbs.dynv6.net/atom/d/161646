@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[评价4n0n4me的wiki技术]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161646" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161646/" />
+    <id>https://notebbs.dynv6.net/atom/d/161646</id>
+    <updated>2024-07-16T14:29:24+00:00</updated>
+
+        <entry>
+        <title><![CDATA[评价4n0n4me的wiki技术]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161646/1"/>
+        <id>https://notebbs.dynv6.net/d/161646/1</id>
+        <updated>2024-06-24T00:56:32+00:00</updated>
+        <content
+        ><![CDATA[我认为4n0n4me不知道什么是宏，什么是小工具（Widget）。但是没有使用Markdown。说明WikiText还是知道的。我认为目录代码是抄的，大多数的wiki都是这样而成的。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

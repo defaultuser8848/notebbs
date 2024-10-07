@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Note.ms Licence]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/259" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/259/" />
+    <id>https://notebbs.dynv6.net/atom/d/259</id>
+    <updated>2024-07-16T14:43:55+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Note.ms Licence]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/259/1"/>
+        <id>https://notebbs.dynv6.net/d/259/1</id>
+        <updated>2024-05-04T15:17:46+00:00</updated>
+        <content
+        ><![CDATA[本内容采用正常的Licence，普通用户可以：
+  随意对本页面更改再分发，但如果未修改核心代码需要注明是本项目开发；
+但如果你是 22c 组成员（Anonymous_user、404等成员），或 CleanNote 成员，亦或是 Googol 的反对者，你不被允许使用本项目。
+如果违反，我们有权利在虚拟的 Note.ms 法院起诉。
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

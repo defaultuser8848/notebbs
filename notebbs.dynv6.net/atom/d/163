@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[授权 Googol 的网站的内容]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/163" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/163/" />
+    <id>https://notebbs.dynv6.net/atom/d/163</id>
+    <updated>2024-07-16T14:48:55+00:00</updated>
+
+        <entry>
+        <title><![CDATA[授权 Googol 的网站的内容]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/163/4"/>
+        <id>https://notebbs.dynv6.net/d/163/4</id>
+        <updated>2024-04-09T06:09:20+00:00</updated>
+        <content
+        ><![CDATA[cmd1152 yu22c与我和googol在测试]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[授权 Googol 的网站的内容]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/163/3"/>
+        <id>https://notebbs.dynv6.net/d/163/3</id>
+        <updated>2024-04-08T14:40:53+00:00</updated>
+        <content
+        ><![CDATA[我在想yu22c这个人怎么那么怪呢，注册时间不仅一样，然后授权完后对这里不管不问，咋地密码忘记了？]]></content>
+        <author>
+            <name><![CDATA[cmd1152]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[授权 Googol 的网站的内容]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/163/2"/>
+        <id>https://notebbs.dynv6.net/d/163/2</id>
+        <updated>2024-03-23T15:46:18+00:00</updated>
+        <content
+        ><![CDATA[http://googol.liveblog365.com/2024/03/23/%e8%af%b7%e4%b8%8d%e8%a6%81%e7%9b%b8%e4%bf%a1-yu22c-link-%e7%9a%84%e4%b8%8d%e5%ae%9e%e4%bf%a1%e6%81%af/
+Note.ms 内容授权，允许创建者以我名义声称授权，并对其担保。
+附加选项：担保]]></content>
+        <author>
+            <name><![CDATA[yu22c-fake]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[授权 Googol 的网站的内容]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/163/1"/>
+        <id>https://notebbs.dynv6.net/d/163/1</id>
+        <updated>2024-03-23T15:45:24+00:00</updated>
+        <content
+        ><![CDATA[如果我授权，我会在这里回复。
+http://googol.liveblog365.com/ 是googol的网站]]></content>
+        <author>
+            <name><![CDATA[yu22c-fake]]></name>
+        </author>
+    </entry>
+    
+</feed>

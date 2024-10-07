@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[关于账号被盗的通知]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/380" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/380/" />
+    <id>https://notebbs.dynv6.net/atom/d/380</id>
+    <updated>2024-07-16T14:36:44+00:00</updated>
+
+        <entry>
+        <title><![CDATA[关于账号被盗的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/380/2"/>
+        <id>https://notebbs.dynv6.net/d/380/2</id>
+        <updated>2024-06-12T00:55:45+00:00</updated>
+        <content
+        ><![CDATA[经过站长团讨论，他们决定绝对不会转让给非大数组织/ProtectNote成员。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于账号被盗的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/380/1"/>
+        <id>https://notebbs.dynv6.net/d/380/1</id>
+        <updated>2024-06-11T07:11:15+00:00</updated>
+        <content
+        ><![CDATA[账号被reset_chen盗取@admin 并发布虚假消息，而我们联系FreeFlarum，成功重获账号。据部分消息，Anonymous_user是账号的盗取者，但是不知具体是否真实。
+
+我们也不可能转让。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

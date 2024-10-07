@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[12123qw]]></title>
+    <subtitle><![CDATA[Latest posts & comments by this user.]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/u/12123qw/posts" rel="self" />
+    <link href="https://notebbs.dynv6.net/u/12123qw/" />
+    <id>https://notebbs.dynv6.net/atom/u/12123qw/posts</id>
+    <updated>2024-07-16T14:19:12+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Re: Anonymous_user已经占领Note.msBBS！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/297/7"/>
+        <id>https://notebbs.dynv6.net/d/297/7</id>
+        <updated>2024-05-21T04:32:06+00:00</updated>
+        <content
+        ><![CDATA[Googol  向你 ok]]></content>
+        <author>
+            <name><![CDATA[12123qw]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: Anonymous_user已经占领Note.msBBS！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/297/5"/>
+        <id>https://notebbs.dynv6.net/d/297/5</id>
+        <updated>2024-05-20T04:34:39+00:00</updated>
+        <content
+        ><![CDATA[我投降 还知道note.msbbs的后台密码]]></content>
+        <author>
+            <name><![CDATA[12123qw]]></name>
+        </author>
+    </entry>
+    
+</feed>

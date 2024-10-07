@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[/chating 备份]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/390" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/390/" />
+    <id>https://notebbs.dynv6.net/atom/d/390</id>
+    <updated>2024-07-16T14:36:33+00:00</updated>
+
+        <entry>
+        <title><![CDATA[/chating 备份]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/390/1"/>
+        <id>https://notebbs.dynv6.net/d/390/1</id>
+        <updated>2024-06-12T02:54:59+00:00</updated>
+        <content
+        ><![CDATA[/chating 恢复！
+——————————————————————————————
+这是由Chat Chating Club开设的聊天室
+格式：
+发送人&gt;
+内容
+发送人&gt;要回复的人的名称&gt;
+内容
+——————————————————————————————
+
+Unknown&gt;
+233
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

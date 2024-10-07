@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[好消息！大家将无法加入 Note.msBBS]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161749" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161749/" />
+    <id>https://notebbs.dynv6.net/atom/d/161749</id>
+    <updated>2024-07-16T14:14:29+00:00</updated>
+
+        <entry>
+        <title><![CDATA[好消息！大家将无法加入 Note.msBBS]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161749/2"/>
+        <id>https://notebbs.dynv6.net/d/161749/2</id>
+        <updated>2024-07-02T11:42:29+00:00</updated>
+        <content
+        ><![CDATA[https://googolowo.github.io/notems/bbs-joinstats.html]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[好消息！大家将无法加入 Note.msBBS]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161749/1"/>
+        <id>https://notebbs.dynv6.net/d/161749/1</id>
+        <updated>2024-07-02T11:21:09+00:00</updated>
+        <content
+        ><![CDATA[Note.msBBS 的申请挤压时间非常长，甚至超过了48小时。这代表申请的时间非常的长，而且很容易被 Declined。而 NoteBBS 不需要申请，只需填写一个验证码，即可注册 NoteBBS。
+
+据此，大家加入 Note.msBBS 的难度逐渐增高，甚至无法加入。稍后，我会创建一个 GitHub Pages 来记录挤压情况。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

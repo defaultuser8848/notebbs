@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Note.msBBS的主题都没我的好看]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161795" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161795/" />
+    <id>https://notebbs.dynv6.net/atom/d/161795</id>
+    <updated>2024-07-16T14:07:54+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Note.msBBS的主题都没我的好看]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161795/4"/>
+        <id>https://notebbs.dynv6.net/d/161795/4</id>
+        <updated>2024-07-07T02:59:03+00:00</updated>
+        <content
+        ><![CDATA[dfgffgdfgdfgfdgff *{display:none !important;}
+
+这个最好看的样式你先留给 Note.msBBS 吧。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Note.msBBS的主题都没我的好看]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161795/2"/>
+        <id>https://notebbs.dynv6.net/d/161795/2</id>
+        <updated>2024-07-06T13:02:13+00:00</updated>
+        <content
+        ><![CDATA[Googol 
+
+Googol 我送你一个最好看的
+*{display:none !important;}]]></content>
+        <author>
+            <name><![CDATA[dfgffgdfgdfgfdgff]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Note.msBBS的主题都没我的好看]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161795/1"/>
+        <id>https://notebbs.dynv6.net/d/161795/1</id>
+        <updated>2024-07-06T08:39:19+00:00</updated>
+        <content
+        ><![CDATA[rt]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[本站权限分级]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161753" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161753/" />
+    <id>https://notebbs.dynv6.net/atom/d/161753</id>
+    <updated>2024-07-16T14:14:16+00:00</updated>
+
+        <entry>
+        <title><![CDATA[本站权限分级]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161753/1"/>
+        <id>https://notebbs.dynv6.net/d/161753/1</id>
+        <updated>2024-07-03T02:25:29+00:00</updated>
+        <content
+        ><![CDATA[本站有权限分级规则。一些权限在一定情况后会自动获得，或者通过申请获得。有对应的权限将可以进行对应的行为
+
+游客：仅能浏览论坛，不能发帖和回帖、进行对本论坛造成影响的行为。在有些板块可能会限制访问。仅能进行权限设置为“允许所有人”的行为。
+注册用户：当用户成功注册后，即可获得注册用户的权限。可以进行发帖、回帖，被BBCode设置为必须登录才能查看的内容。但发帖仍需要验证码。
+
+操作权限
+免验证码：发帖、回帖时将不再显示验证码，该权限需要进行申请。
+验证成员：被本站论坛信任的用户，通常对 Note.ms 有基本了解。可以通过申请贴进行申请，但申请较为困难。
+
+管理相关
+版主
+讨论区版主：讨论区版主可以对讨论区板块进行管理，这是目前管理行为所需的最低权限，通过申请获得。
+超级版主：最高的版主权限，权限仅次于管理员。
+
+管理
+管理员：这是目前最高的站长可获得的权限，可以管理用户组，管理权限，开启/关闭扩展，进行网站的操作等行为。一般不会随意发放。一般管理员权限拥有者为站长。
+FreeFlarum 管理员：本论坛基于 FreeFlarum，而 FreeFlarum 管理员可以直接操作数据库，PHP 文件等。盗号事件就是通过 FreeFlarum 管理员恢复的。FreeFlarum 管理员对每一个站长友善。
+
+辅助权限
+IP 信息查看组：此成员可以查看到 IP 信息。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

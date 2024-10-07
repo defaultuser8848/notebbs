@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Note.msBBS 后台强制身份验证方法存档]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161685" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161685/" />
+    <id>https://notebbs.dynv6.net/atom/d/161685</id>
+    <updated>2024-07-16T14:26:31+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Note.msBBS 后台强制身份验证方法存档]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161685/2"/>
+        <id>https://notebbs.dynv6.net/d/161685/2</id>
+        <updated>2024-06-27T06:34:32+00:00</updated>
+        <content
+        ><![CDATA[这与我无缘，因为我没有自定义域名]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Note.msBBS 后台强制身份验证方法存档]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161685/1"/>
+        <id>https://notebbs.dynv6.net/d/161685/1</id>
+        <updated>2024-06-27T06:34:07+00:00</updated>
+        <content
+        ><![CDATA[Anonymous_user：
+@14569 自定义域名+cf access
+
+原帖：https://bbs.notems.xyz/d/131-hou-tai-qiang-zhi-shen-fen-ren-zheng-yi-qi-yong/4]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

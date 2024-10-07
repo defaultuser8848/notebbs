@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[最新消息]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161842" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161842/" />
+    <id>https://notebbs.dynv6.net/atom/d/161842</id>
+    <updated>2024-07-16T13:59:24+00:00</updated>
+
+        <entry>
+        <title><![CDATA[最新消息]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161842/2"/>
+        <id>https://notebbs.dynv6.net/d/161842/2</id>
+        <updated>2024-07-15T03:47:32+00:00</updated>
+        <content
+        ><![CDATA[Googol Spammer秒了]]></content>
+        <author>
+            <name><![CDATA[loveGoogol1234234]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[最新消息]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161842/1"/>
+        <id>https://notebbs.dynv6.net/d/161842/1</id>
+        <updated>2024-07-11T09:03:43+00:00</updated>
+        <content
+        ><![CDATA[@Gongxiang01 启用了 Note.msBBS 王牌轰炸机来以其人之道还治其人之身。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

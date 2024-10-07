@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[/ad 备份 2024/4/12 15:25]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/220" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/220/" />
+    <id>https://notebbs.dynv6.net/atom/d/220</id>
+    <updated>2024-07-16T14:48:28+00:00</updated>
+
+        <entry>
+        <title><![CDATA[/ad 备份 2024/4/12 15:25]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/220/3"/>
+        <id>https://notebbs.dynv6.net/d/220/3</id>
+        <updated>2024-04-12T07:30:35+00:00</updated>
+        <content
+        ><![CDATA[CleanNote 低频覆盖]]></content>
+        <author>
+            <name><![CDATA[yu22c-fake]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[/ad 备份 2024/4/12 15:25]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/220/2"/>
+        <id>https://notebbs.dynv6.net/d/220/2</id>
+        <updated>2024-04-12T07:28:23+00:00</updated>
+        <content
+        ><![CDATA[setInterval(function(){fetch("https://note.ms/ad", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "zh-CN,zh;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\";Not A Brand\";v=\"99\", \"Chromium\";v=\"94\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://note.ms/ad",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "&amp;t=%E5%B9%BF%E5%91%8A%0A%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%0A%0A%20__________________________________________________________%0A%7C%20%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E9%82%AA%E6%81%B6%E7%9A%8422c%E7%BB%84%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Anonymous_user%20%26%2022c%20%20%20%20%20%20%20%20%20%20%7C%0A%7C%20%E5%BC%80%E8%AE%BE%E7%9A%84%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF%E3%80%81%E9%97%AD%E5%85%B3%E9%94%81%E5%9B%BD%E7%9A%84NoteBBS%EF%BC%8C%E5%B9%B6%E4%B8%94%E6%81%B6%E6%84%8F%E5%89%A5%E5%A4%BA%E4%BB%96%E4%BA%BA%E6%9D%83%E9%99%90%EF%BC%8C%E5%86%92%E5%85%85%20%20%20%7C%0A%7C%20yu22c%E3%80%81%E5%8F%91%E5%B8%83%E6%98%8E%E6%98%BE%E9%80%BB%E8%BE%91%E9%94%99%E8%AF%AF%E7%9A%84%E5%86%85%E5%AE%B9%E3%80%82%E5%B9%B6%E4%B8%94%E4%BD%BF%E7%94%A8**%E8%A2%AB%E7%82%B8**%E7%9A%84%20Cloudflare%20%E9%AA%8C%E8%AF%81%20%20%7C%0A%7C%20%E7%A0%81%E8%BF%9B%E8%A1%8C%E5%8F%98%E7%9B%B8%E7%9A%84%E9%97%AD%E5%85%B3%E9%94%81%E5%9B%BD%EF%BC%81%EF%BC%81%EF%BC%81%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7C%0A%7C__________________________________________________________%7C%0A%7C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E4%B8%BA%E4%BA%86%E9%98%B2%E6%AD%A2%E6%9C%AC%E7%8E%B0%E8%B1%A1%EF%BC%8C%E6%88%91%E4%BB%AC%E5%BC%80%E8%AE%BE%E4%BA%86%20%E2%80%9C%E5%85%A8%E6%96%B0%E7%9A%84%20NoteBBS%E2%80%9D%E3%80%82%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7C%0A%7C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20yu22c%E5%AF%B9%E6%9C%ACNoteBBS%E8%BF%9B%E8%A1%8C%E6%8E%88%E6%9D%83%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7C%0A%7C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%9C%AC%E7%BD%91%E7%AB%99%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7C%0A%7C_________________________________________________________%7C%0A%7C%20%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20note.flarum.cloud%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20%20%7C%0A%7C_________________________________________________________%7C%0A%0A%E6%9C%AC%E9%A1%B5%E9%9D%A2%E8%A2%AB%20CleanNote%20%E6%AF%81%E7%81%AD%EF%BC%8C%E5%A6%82%E9%9C%80%E4%BD%BF%E7%94%A8%2Fad%EF%BC%8C%E8%AF%B7%E5%89%8D%E5%BE%80%20%2Fadvertisement%E3%80%82%0A%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E9%85%8D%E5%90%88%E3%80%82",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "omit"
+});},1000);
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+覆盖代码]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[/ad 备份 2024/4/12 15:25]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/220/1"/>
+        <id>https://notebbs.dynv6.net/d/220/1</id>
+        <updated>2024-04-12T07:26:05+00:00</updated>
+        <content
+        ><![CDATA[广告
+——————————————————
+
+ __________________________________________________________
+| 坚决反对邪恶的22c组                                Anonymous_user &amp; 22c          |
+| 开设的不实信息、闭关锁国的NoteBBS，并且恶意剥夺他人权限，冒充   |
+| yu22c、发布明显逻辑错误的内容。并且使用**被炸**的 Cloudflare 验证  |
+| 码进行变相的闭关锁国！！！                                                                    |
+|__________________________________________________________|
+|                  为了防止本现象，我们开设了 “全新的 NoteBBS”。                 |
+|                                yu22c对本NoteBBS进行授权                                     |
+|                                         欢迎来到本网站                                                 |
+|_________________________________________________________|
+| &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;                note.flarum.cloud              &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;  |
+|_________________________________________________________|
+
+本页面被 CleanNote 毁灭，如需使用/ad，请前往 /advertisement。
+感谢您的配合。
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

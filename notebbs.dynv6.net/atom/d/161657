@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[站规更新通知]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161657" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161657/" />
+    <id>https://notebbs.dynv6.net/atom/d/161657</id>
+    <updated>2024-07-16T14:29:03+00:00</updated>
+
+        <entry>
+        <title><![CDATA[站规更新通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161657/1"/>
+        <id>https://notebbs.dynv6.net/d/161657/1</id>
+        <updated>2024-06-25T07:07:38+00:00</updated>
+        <content
+        ><![CDATA[鄙视站规的，声称站规是“废纸”的。违反此项规则管理员应当警告，若因此警告5次可处以封禁1天的处罚。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

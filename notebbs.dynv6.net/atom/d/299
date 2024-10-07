@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[论坛灌水区]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/299" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/299/" />
+    <id>https://notebbs.dynv6.net/atom/d/299</id>
+    <updated>2024-07-16T14:41:35+00:00</updated>
+
+        <entry>
+        <title><![CDATA[论坛灌水区]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/299/1"/>
+        <id>https://notebbs.dynv6.net/d/299/1</id>
+        <updated>2024-05-18T10:58:29+00:00</updated>
+        <content
+        ><![CDATA[在这里可以发布一些有意义但是意义不大的内容。
+请遵守站规，不要发布轰炸机！
+Spammer、captcha了解一下]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

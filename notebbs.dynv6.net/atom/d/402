@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[警告模板建议]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/402" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/402/" />
+    <id>https://notebbs.dynv6.net/atom/d/402</id>
+    <updated>2024-07-16T14:36:02+00:00</updated>
+
+        <entry>
+        <title><![CDATA[警告模板建议]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/402/1"/>
+        <id>https://notebbs.dynv6.net/d/402/1</id>
+        <updated>2024-06-13T02:28:51+00:00</updated>
+        <content
+        ><![CDATA[警告级别
+警告一般尽量假定善意，而警告需要根据严重性和次数警告。但是请不要仅仅根据次数警告，除非是恶意的。而且警告可以降级。
+1级：一个假定善意的提醒，包含善意的提示与礼貌的用语。
+2级：普通警告，没有任何恶意。要求他人注意。
+3级：要求对方立即停止行为，有一点恶意。所以一般情况下不建议使用本警告。
+4级：假定对方主观恶意，强烈要求对方禁止，否则可能会被处罚。
+5级：假定对方完全是为了毁灭论坛而来的。激烈的要求对方禁止，否则立即处罚。属于最后警告。
+唯一警告：在对方存在大量小号时使用。
+
+一般管理员可以使用 Moderator Warning 扩展发送站务警告，但是用户可针对某一帖子使用标签警告：
+1级：ASUCCESS
+2级：AINFO
+3级：Warning! AWARNING
+4级：ACUSTOM 包含参数 `white,red,blue,` 
+5级：ACUSTOM 包含参数 `red,black,red,`
+
+
+警告格式
+原因：{REASON}
+1级：您好，感谢您参与论坛，但是我不得不提醒您，请不要{DOWHAT}，谢谢配合。
+2级：您好，请不要随意{DOWHAT}，这种行为属于“{REASON}”。此类行为是本论坛{WHATDISABLED}的。谢谢配合。
+3级：请停止进行{REASON}行为！这涉嫌违反{WHATRULE}。谢谢。
+4级：请立即停止你的恶意{REASON}的行为！如果您再次进行此类行为将可能会被封禁！
+5级：请立即停止{WHAT}行为，这是我的最后一次警告！如果你再进行这类行为，我将立即对你封禁，届时将不予另行通知。
+唯一警告：请立即停止你的{REASON}行为！如果你继续进行此类行为，你将立即被封禁且不予另行通知！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

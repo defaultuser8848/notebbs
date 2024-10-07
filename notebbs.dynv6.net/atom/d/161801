@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[可以把 Fluent 主题关了]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161801" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161801/" />
+    <id>https://notebbs.dynv6.net/atom/d/161801</id>
+    <updated>2024-07-16T14:02:29+00:00</updated>
+
+        <entry>
+        <title><![CDATA[可以把 Fluent 主题关了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161801/2"/>
+        <id>https://notebbs.dynv6.net/d/161801/2</id>
+        <updated>2024-07-07T02:54:28+00:00</updated>
+        <content
+        ><![CDATA[还需要]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[可以把 Fluent 主题关了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161801/1"/>
+        <id>https://notebbs.dynv6.net/d/161801/1</id>
+        <updated>2024-07-06T14:25:56+00:00</updated>
+        <content
+        ><![CDATA[因为有 HubUi-X 主题，这个是能替代 Fluent 主题的，所以 Fluent 主题就不需要了。]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+    
+</feed>

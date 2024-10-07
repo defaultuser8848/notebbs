@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[admin]]></title>
+    <subtitle><![CDATA[Latest posts & comments by this user.]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/u/admin/posts" rel="self" />
+    <link href="https://notebbs.dynv6.net/u/admin/" />
+    <id>https://notebbs.dynv6.net/atom/u/admin/posts</id>
+    <updated>2024-07-16T14:01:05+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Re: OIer Wiki准备迁址公告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/265/8"/>
+        <id>https://notebbs.dynv6.net/d/265/8</id>
+        <updated>2024-06-28T12:03:13+00:00</updated>
+        <content
+        ><![CDATA[这都是旧新闻了，还是不要了吧]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 站长违规告示板]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161718/2"/>
+        <id>https://notebbs.dynv6.net/d/161718/2</id>
+        <updated>2024-06-28T12:02:03+00:00</updated>
+        <content
+        ><![CDATA[你们也可以举报我]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: Note.msBBS潜规则]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161717/2"/>
+        <id>https://notebbs.dynv6.net/d/161717/2</id>
+        <updated>2024-06-28T12:01:45+00:00</updated>
+        <content
+        ><![CDATA[Agree]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于论坛所有权转移给Googol的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161654/1"/>
+        <id>https://notebbs.dynv6.net/d/161654/1</id>
+        <updated>2024-06-24T12:26:09+00:00</updated>
+        <content
+        ><![CDATA[我将不在活跃，从此以后所有的帖子均为Googol发布。如有异议我们接受证明。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[管理贴集合]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/379/1"/>
+        <id>https://notebbs.dynv6.net/d/379/1</id>
+        <updated>2024-06-11T07:02:55+00:00</updated>
+        <content
+        ><![CDATA[规则
+站规
+本站权限分级
+
+管理规则
+警告规则
+
+其他
+补充解释
+本站 BBCode 语法
+更新日志
+权限变更记录
+关于本站承认组织的相关列表
+
+权限申请
+权限申请：免验证码
+权限申请：验证成员
+权限申请：讨论区版主]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: /0 **虚假信息** 备份]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/331/2"/>
+        <id>https://notebbs.dynv6.net/d/331/2</id>
+        <updated>2024-06-01T06:03:17+00:00</updated>
+        <content
+        ><![CDATA[反对MelonCmd发布虚假内容，Googol希望你能赶紧覆盖。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[全新 NoteBBS 正式开启]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/3/3"/>
+        <id>https://notebbs.dynv6.net/d/3/3</id>
+        <updated>2024-06-01T06:01:35+00:00</updated>
+        <content
+        ><![CDATA[目前已经迁址。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[权限申请区：讨论区版主]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/249/1"/>
+        <id>https://notebbs.dynv6.net/d/249/1</id>
+        <updated>2024-05-02T06:53:00+00:00</updated>
+        <content
+        ><![CDATA[申请讨论区版主，你可以管理讨论版。
+在申请前，你必须满足以下条件：
+你已经是验证成员
+有10个以上讨论贴（包括回复）
+你反对CleanNote、Fandom、22c组
+警告总分不超过15分
+
+另外，如果以下条件达到30分，你即可申请权限：
+因暴政的管理员导致您在Note.msBBS臭名昭著 +15
+加入保护组织并有管理员或成员列表证明 +10（权威级+20）
+有一个管理员/超级版主担保 +15
+帮助过处理轰炸机/违反站规内容 +5（每次轰炸机+10）
+保护过Note.ms页面累计运行脚本时长超过5h +20
+参与站务建设 +5（每一次成功站规修订 +10）
+提供 Googol 可用且有源代码/原理的，比 JS 高级的技术，无混淆的技术 +30
+Note.msBBS 管理员改邪归正的，加入 ProtectNote 的 +10
+有较为清楚的正确的 Note.ms 知识（见此） +10
+
+你如果申请即代表保证：
+我不会滥用职权
+我不会利用此权限威胁他人
+我不会随意修改帖子]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[权限变更记录]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/201/5"/>
+        <id>https://notebbs.dynv6.net/d/201/5</id>
+        <updated>2024-04-11T14:49:19+00:00</updated>
+        <content
+        ><![CDATA[封禁用户@[已注销]：恶意使用用户名辱骂用户没有母亲]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[封禁速通记录]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/209/1"/>
+        <id>https://notebbs.dynv6.net/d/209/1</id>
+        <updated>2024-04-11T14:40:22+00:00</updated>
+        <content
+        ><![CDATA[快速查出 @Anonymous_user 用于破坏的小号 @[已注销] 并成功封禁。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[权限变更记录]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/201/4"/>
+        <id>https://notebbs.dynv6.net/d/201/4</id>
+        <updated>2024-04-11T13:05:04+00:00</updated>
+        <content
+        ><![CDATA[封禁用户@[已注销] 并删除所有帖子：恶意发布长内容辱骂用户]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[权限变更记录]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/201/2"/>
+        <id>https://notebbs.dynv6.net/d/201/2</id>
+        <updated>2024-04-11T08:26:16+00:00</updated>
+        <content
+        ><![CDATA[示例：
+授予 @admin 管理员权限：论坛创建者]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[权限变更记录]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/201/1"/>
+        <id>https://notebbs.dynv6.net/d/201/1</id>
+        <updated>2024-04-11T08:25:48+00:00</updated>
+        <content
+        ><![CDATA[所有管理员对用户的权限变更必须在此登记，否则可以警告/取消管理员。
+格式：
+授予 {{用户名}} 的 {{用户组名称}} 权限/用户组
+或者 撤销/取消 {{用户组名称}} 权限/用户组
+封禁 {{用户名称}}
+原因：{{Reason}}]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[讨论区规则修订通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/198/4"/>
+        <id>https://notebbs.dynv6.net/d/198/4</id>
+        <updated>2024-04-11T08:13:30+00:00</updated>
+        <content
+        ><![CDATA[[未知用户] 这么做就封禁]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 怎么验证用户？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/191/3"/>
+        <id>https://notebbs.dynv6.net/d/191/3</id>
+        <updated>2024-04-11T06:45:44+00:00</updated>
+        <content
+        ><![CDATA[请前往 https://note.flarum.cloud/d/199-shen-qing-tie-yan-zheng-cheng-yuan/3 进行申请。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于本站承认组织的相关列表]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/200/1"/>
+        <id>https://notebbs.dynv6.net/d/200/1</id>
+        <updated>2024-04-11T06:42:11+00:00</updated>
+        <content
+        ><![CDATA[列表
+保护组织
+ndp
+ProtectNote
+
+中立组织
+Chat Chating Club
+Chat Club
+大数组织
+NoteBBS非官方规则督导组
+
+破坏组织
+邪恶组织
+
+毁灭组织
+CleanNote
+越过长城
+111（/chating 破坏）
+Orchid Cleaning Group
+
+相关信息
+修改
+如果需要修改，请您在本讨论区提出建议，经过采纳后可以更改本列表。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[申请贴：验证成员]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/199/3"/>
+        <id>https://notebbs.dynv6.net/d/199/3</id>
+        <updated>2024-04-11T06:37:45+00:00</updated>
+        <content
+        ><![CDATA[Googol 满足条件，批准。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[申请贴：验证成员]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/199/1"/>
+        <id>https://notebbs.dynv6.net/d/199/1</id>
+        <updated>2024-04-11T06:33:25+00:00</updated>
+        <content
+        ><![CDATA[基本条件
+不是轰炸机
+不fuckGoogol。
+支持Googol!=Gongxiang01、CleanNote的所有内容。
+
+申请
+至少达到50分即可通过，并且允许使用私密主题申请。验证成员可以免验证码，而且还可以参与部分社区投票或建设。
+有一个本站管理员担保 +30
+有一个本站（讨论区/普通）版主担保 +15
+有一个本站验证成员担保 +5
+加入毁灭组织（包含CleanNote） -4444
+加入被承认的保护组织并有证据证明（如有组织成员列表、有管理成员证明或超过5%的成员承认） +30（权威级再+20）
+加入被承认的中立组织并有证据证明（如有组织成员列表、有管理成员证明或超过5%的成员承认） +10
+保护 note.ms 页面3天，至少2h可用 +15（多一天+5，每天多1h +4）
+在 note.ms 比较活跃 +10
+在 Note.msBBS 因管理员的拒不讲理或诽谤导致臭名昭著 +5
+因辱骂用户而被处3分以上站务警告或封禁且未道歉 -20
+全部承认目前的Note Wiki的内容。+10]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 怎么验证用户？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/191/2"/>
+        <id>https://notebbs.dynv6.net/d/191/2</id>
+        <updated>2024-04-11T06:20:39+00:00</updated>
+        <content
+        ><![CDATA[至少需要保证不是轰炸机，我打算搞一个申请贴。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[讨论区规则修订通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/198/1"/>
+        <id>https://notebbs.dynv6.net/d/198/1</id>
+        <updated>2024-04-11T06:11:25+00:00</updated>
+        <content
+        ><![CDATA[用户不得利用漏洞使用被系统禁止的用户名。
+
+
+注：禁止的是fuck这个单词]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[感谢覆盖者保住了ad被封]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/187/1"/>
+        <id>https://notebbs.dynv6.net/d/187/1</id>
+        <updated>2024-04-09T13:01:04+00:00</updated>
+        <content
+        ><![CDATA[虽然他发布了骂cleannote的内容。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 授权 Googol 的网站的内容]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/163/4"/>
+        <id>https://notebbs.dynv6.net/d/163/4</id>
+        <updated>2024-04-09T06:09:20+00:00</updated>
+        <content
+        ><![CDATA[cmd1152 yu22c与我和googol在测试]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 正在被乐子当成乐子看]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/166/18"/>
+        <id>https://notebbs.dynv6.net/d/166/18</id>
+        <updated>2024-04-09T06:07:25+00:00</updated>
+        <content
+        ><![CDATA[cmd1152 是yu22c授权了]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 全新轰炸机正式开启！！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/10/8"/>
+        <id>https://notebbs.dynv6.net/d/10/8</id>
+        <updated>2024-04-09T06:05:04+00:00</updated>
+        <content
+        ><![CDATA[cmd1152 无障碍申请能不能过都是问题。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: U2FsdGVkX18MCpz/+Q0eZBqtiqDIJ4yfp8IKVfNWOis=   的MD5]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/174/4"/>
+        <id>https://notebbs.dynv6.net/d/174/4</id>
+        <updated>2024-04-01T05:32:46+00:00</updated>
+        <content
+        ><![CDATA[这不是md5]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: U2FsdGVkX18MCpz/+Q0eZBqtiqDIJ4yfp8IKVfNWOis=   的MD5]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/174/3"/>
+        <id>https://notebbs.dynv6.net/d/174/3</id>
+        <updated>2024-04-01T05:32:31+00:00</updated>
+        <content
+        ><![CDATA[admin万岁]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 申请管理]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/52/16"/>
+        <id>https://notebbs.dynv6.net/d/52/16</id>
+        <updated>2024-04-01T05:30:25+00:00</updated>
+        <content
+        ><![CDATA[fdp 知道了]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[终于发现了Note.ms使用的开源项目]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/167/27"/>
+        <id>https://notebbs.dynv6.net/d/167/27</id>
+        <updated>2024-04-01T05:29:49+00:00</updated>
+        <content
+        ><![CDATA[asdf hCaptcha says, "Googol is human"]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[1078a3b96c74119795ca06c222b58c5f 的md5解是什么？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/169/6"/>
+        <id>https://notebbs.dynv6.net/d/169/6</id>
+        <updated>2024-04-01T05:28:59+00:00</updated>
+        <content
+        ><![CDATA[asdf 找个人当jian'die呢]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: notebbs 分站开启了！！！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/175/3"/>
+        <id>https://notebbs.dynv6.net/d/175/3</id>
+        <updated>2024-04-01T05:27:53+00:00</updated>
+        <content
+        ><![CDATA[中英文都没改……]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 申请管理]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/52/14"/>
+        <id>https://notebbs.dynv6.net/d/52/14</id>
+        <updated>2024-03-27T01:46:50+00:00</updated>
+        <content
+        ><![CDATA[你目前只活跃在本贴。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 申请管理]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/52/13"/>
+        <id>https://notebbs.dynv6.net/d/52/13</id>
+        <updated>2024-03-27T01:38:03+00:00</updated>
+        <content
+        ><![CDATA[fdp 你活跃一段时间我考虑一下。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[反CleanNote组成员列表]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/171/3"/>
+        <id>https://notebbs.dynv6.net/d/171/3</id>
+        <updated>2024-03-26T15:32:51+00:00</updated>
+        <content
+        ><![CDATA[asdf 不对。乐子真好玩]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[1078a3b96c74119795ca06c222b58c5f 的md5解是什么？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/169/3"/>
+        <id>https://notebbs.dynv6.net/d/169/3</id>
+        <updated>2024-03-26T15:32:25+00:00</updated>
+        <content
+        ><![CDATA[asdf 验证什么身份啊]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[终于发现了Note.ms使用的开源项目]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/167/25"/>
+        <id>https://notebbs.dynv6.net/d/167/25</id>
+        <updated>2024-03-26T15:30:29+00:00</updated>
+        <content
+        ><![CDATA[asdf 因为他通过了验证码测试，所以他是人。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[终于发现了Note.ms使用的开源项目]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/167/24"/>
+        <id>https://notebbs.dynv6.net/d/167/24</id>
+        <updated>2024-03-26T15:29:51+00:00</updated>
+        <content
+        ><![CDATA[asdf Googol说的。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[反CleanNote组成员列表]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/171/1"/>
+        <id>https://notebbs.dynv6.net/d/171/1</id>
+        <updated>2024-03-26T12:47:18+00:00</updated>
+        <content
+        ><![CDATA[googol, yu22c, ice, gongxiang01 (fandom+wikidot), oier, gongxiang02, gongxiang03, abc, testh, oneOfGoogol, TwoOfGoogol, ThreeOfGoogol, ..., googol唯一小号, t1, t2, ..., t999等。
+成员大概在1000人+]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[不要再使用 FANDOM 了！！！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/170/1"/>
+        <id>https://notebbs.dynv6.net/d/170/1</id>
+        <updated>2024-03-26T12:44:30+00:00</updated>
+        <content
+        ><![CDATA[http://googol.liveblog365.com/2024/03/25/%e4%b8%8d%e8%a6%81%e5%86%8d%e7%94%a8-fandom-%e4%ba%86/]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[终于发现了Note.ms使用的开源项目]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/167/22"/>
+        <id>https://notebbs.dynv6.net/d/167/22</id>
+        <updated>2024-03-26T12:43:01+00:00</updated>
+        <content
+        ><![CDATA[asdf 炮就一定会爆炸]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[终于发现了Note.ms使用的开源项目]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/167/21"/>
+        <id>https://notebbs.dynv6.net/d/167/21</id>
+        <updated>2024-03-26T12:42:43+00:00</updated>
+        <content
+        ><![CDATA[asdf 《刑法》第二百三十四条规定，故意伤害他人身体的，处三年以下有期徒刑、拘役或者管制。
+犯前款罪，致人重伤的，处三年以上十年以下有期徒刑；致人死亡或者以特别残忍手段致人重伤造成严重残疾的，处十年以上有期徒刑、无期徒刑或者死刑。本法另有规定的，依照规定。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[1078a3b96c74119795ca06c222b58c5f 的md5解是什么？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/169/1"/>
+        <id>https://notebbs.dynv6.net/d/169/1</id>
+        <updated>2024-03-26T12:41:04+00:00</updated>
+        <content
+        ><![CDATA[解出来并且给出具体含义的我可以分享技术。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[新的wiki]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/154/4"/>
+        <id>https://notebbs.dynv6.net/d/154/4</id>
+        <updated>2024-03-26T12:40:03+00:00</updated>
+        <content
+        ><![CDATA[ipban]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 正在被乐子当成乐子看]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/166/16"/>
+        <id>https://notebbs.dynv6.net/d/166/16</id>
+        <updated>2024-03-26T12:39:35+00:00</updated>
+        <content
+        ><![CDATA[惊天大乐子！！！！！！！！！！！！！！！]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[终于发现了Note.ms使用的开源项目]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/167/19"/>
+        <id>https://notebbs.dynv6.net/d/167/19</id>
+        <updated>2024-03-26T12:38:06+00:00</updated>
+        <content
+        ><![CDATA[asdf 乐子！乐子！大乐子！[doge]]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[终于发现了Note.ms使用的开源项目]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/167/18"/>
+        <id>https://notebbs.dynv6.net/d/167/18</id>
+        <updated>2024-03-26T12:37:19+00:00</updated>
+        <content
+        ><![CDATA[asdf 这涉嫌违反《刑法》：犯爆炸罪，尚未造成严重后果的，处三年以上十年以下有期徒刑。这里严重后果，是指致人重伤、死亡或者使公私财产遭受重大损失。犯爆炸罪虽然已经造成一定的危害结果，但未达到上述严重程度，仍应依照本条处罚。
+]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[终于发现了Note.ms使用的开源项目]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/167/15"/>
+        <id>https://notebbs.dynv6.net/d/167/15</id>
+        <updated>2024-03-26T12:35:40+00:00</updated>
+        <content
+        ><![CDATA[asdf 有github吗？]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[终于发现了Note.ms使用的开源项目]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/167/14"/>
+        <id>https://notebbs.dynv6.net/d/167/14</id>
+        <updated>2024-03-26T12:33:31+00:00</updated>
+        <content
+        ><![CDATA[asdf 另外“Googol的小脑”无法被攻击在网络中]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[终于发现了Note.ms使用的开源项目]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/167/12"/>
+        <id>https://notebbs.dynv6.net/d/167/12</id>
+        <updated>2024-03-26T12:29:26+00:00</updated>
+        <content
+        ><![CDATA[asdf 哪里有 uwu language？]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[讨论区规则]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/2/24"/>
+        <id>https://notebbs.dynv6.net/d/2/24</id>
+        <updated>2024-03-26T12:24:53+00:00</updated>
+        <content
+        ><![CDATA[fuckGoogol001 是你修改的。你看历史啊。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[讨论区规则]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/2/23"/>
+        <id>https://notebbs.dynv6.net/d/2/23</id>
+        <updated>2024-03-26T12:24:27+00:00</updated>
+        <content
+        ><![CDATA[asdf IP探针必须是你的网站，这又不是你的网站。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[终于发现了Note.ms使用的开源项目]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/167/9"/>
+        <id>https://notebbs.dynv6.net/d/167/9</id>
+        <updated>2024-03-26T12:23:36+00:00</updated>
+        <content
+        ><![CDATA[asdf 请你说要用什么编程语言，大致思路。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[讨论区规则]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/2/20"/>
+        <id>https://notebbs.dynv6.net/d/2/20</id>
+        <updated>2024-03-26T12:23:03+00:00</updated>
+        <content
+        ><![CDATA[asdf 暴露了吧]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[讨论区规则]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/2/18"/>
+        <id>https://notebbs.dynv6.net/d/2/18</id>
+        <updated>2024-03-26T12:21:04+00:00</updated>
+        <content
+        ><![CDATA[asdf 你自己胡搅蛮缠，恶意编造谣言，制造伪证还不清楚吗？]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[终于发现了Note.ms使用的开源项目]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/167/7"/>
+        <id>https://notebbs.dynv6.net/d/167/7</id>
+        <updated>2024-03-26T12:20:12+00:00</updated>
+        <content
+        ><![CDATA[asdf 哈哈。随便编的词吧。
+Aisand Coping技术，Never Unediting 技术]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[讨论区规则]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/2/16"/>
+        <id>https://notebbs.dynv6.net/d/2/16</id>
+        <updated>2024-03-26T12:18:34+00:00</updated>
+        <content
+        ><![CDATA[asdf 是谣言。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 正在被乐子当成乐子看]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/166/14"/>
+        <id>https://notebbs.dynv6.net/d/166/14</id>
+        <updated>2024-03-26T12:17:21+00:00</updated>
+        <content
+        ><![CDATA[asdf 不听就封号]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 正在被乐子当成乐子看]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/166/12"/>
+        <id>https://notebbs.dynv6.net/d/166/12</id>
+        <updated>2024-03-26T12:13:25+00:00</updated>
+        <content
+        ><![CDATA[asdf 你不要造谣。我更新了一下规则。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 正在被乐子当成乐子看]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/166/11"/>
+        <id>https://notebbs.dynv6.net/d/166/11</id>
+        <updated>2024-03-26T12:13:01+00:00</updated>
+        <content
+        ><![CDATA[asdf 怎么探测的？
+
+权限不足！]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 正在被乐子当成乐子看]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/166/9"/>
+        <id>https://notebbs.dynv6.net/d/166/9</id>
+        <updated>2024-03-26T12:11:17+00:00</updated>
+        <content
+        ><![CDATA[asdf 根本无法探测，他们也不是版主。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 正在被乐子当成乐子看]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/166/8"/>
+        <id>https://notebbs.dynv6.net/d/166/8</id>
+        <updated>2024-03-26T12:09:29+00:00</updated>
+        <content
+        ><![CDATA[asdf 请勿造谣！警告一次。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[终于发现了Note.ms使用的开源项目]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/167/5"/>
+        <id>https://notebbs.dynv6.net/d/167/5</id>
+        <updated>2024-03-26T12:08:38+00:00</updated>
+        <content
+        ><![CDATA[asdf 你既然认为JS是最低级的技术，有本事你说来几个技术。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[终于发现了Note.ms使用的开源项目]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/167/1"/>
+        <id>https://notebbs.dynv6.net/d/167/1</id>
+        <updated>2024-03-26T11:26:13+00:00</updated>
+        <content
+        ><![CDATA[https://github.com/pereorga/minimalist-web-notepad]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 正在被乐子当成乐子看]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/166/5"/>
+        <id>https://notebbs.dynv6.net/d/166/5</id>
+        <updated>2024-03-26T09:10:48+00:00</updated>
+        <content
+        ><![CDATA[你知不知道MediaWiki有个扩展叫Nuke？]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 正在被乐子当成乐子看]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/166/4"/>
+        <id>https://notebbs.dynv6.net/d/166/4</id>
+        <updated>2024-03-26T09:09:38+00:00</updated>
+        <content
+        ><![CDATA[你ip被封了吧。
+还有不封号就是为了看你乐子。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 申请管理]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/52/10"/>
+        <id>https://notebbs.dynv6.net/d/52/10</id>
+        <updated>2024-03-26T09:09:01+00:00</updated>
+        <content
+        ><![CDATA[先活跃一段时间。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 申请管理]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/52/7"/>
+        <id>https://notebbs.dynv6.net/d/52/7</id>
+        <updated>2024-03-23T15:31:43+00:00</updated>
+        <content
+        ><![CDATA[先给个确认用户，另外我们不能随便给权限的。您是否承认以下观点：
+
+公平论坛轰炸机是破坏
+CleanNote不是保护组织，因为其清理页面。
+/chating中的“111”属于破坏。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[What's up?]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/162/2"/>
+        <id>https://notebbs.dynv6.net/d/162/2</id>
+        <updated>2024-03-21T14:32:22+00:00</updated>
+        <content
+        ><![CDATA[这是咋回事？]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[What's up?]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/162/1"/>
+        <id>https://notebbs.dynv6.net/d/162/1</id>
+        <updated>2024-03-21T14:31:22+00:00</updated>
+        <content
+        ><![CDATA[https://note.ms/bomber.md]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 承认罪行]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/157/5"/>
+        <id>https://notebbs.dynv6.net/d/157/5</id>
+        <updated>2024-03-21T14:02:25+00:00</updated>
+        <content
+        ><![CDATA[我不是已经锁帖了吗。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[asdf怎么承认罪行了？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/158/9"/>
+        <id>https://notebbs.dynv6.net/d/158/9</id>
+        <updated>2024-03-21T13:58:59+00:00</updated>
+        <content
+        ><![CDATA[不是。Googol有专门的账号@Googol。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[asdf怎么承认罪行了？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/158/7"/>
+        <id>https://notebbs.dynv6.net/d/158/7</id>
+        <updated>2024-03-21T13:55:18+00:00</updated>
+        <content
+        ><![CDATA[asdf 我在hcbbs没有账号。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: Hi! I haven't any mother!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/159/2"/>
+        <id>https://notebbs.dynv6.net/d/159/2</id>
+        <updated>2024-03-21T13:54:48+00:00</updated>
+        <content
+        ><![CDATA[自我介绍？]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[asdf怎么承认罪行了？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/158/5"/>
+        <id>https://notebbs.dynv6.net/d/158/5</id>
+        <updated>2024-03-21T13:51:47+00:00</updated>
+        <content
+        ><![CDATA[asdf 这我不知道]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[asdf怎么承认罪行了？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/158/3"/>
+        <id>https://notebbs.dynv6.net/d/158/3</id>
+        <updated>2024-03-21T13:48:53+00:00</updated>
+        <content
+        ><![CDATA[asdf 您好，FreeFlarum在不更改他人密码的情况下无法登录他人账号。请您知悉。
+如果不信你可以创建一个论坛。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[asdf怎么承认罪行了？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/158/1"/>
+        <id>https://notebbs.dynv6.net/d/158/1</id>
+        <updated>2024-03-21T13:41:20+00:00</updated>
+        <content
+        ><![CDATA[话说第一条有争议啊。是不是讽刺还是什么之类的。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 承认罪行]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/157/4"/>
+        <id>https://notebbs.dynv6.net/d/157/4</id>
+        <updated>2024-03-21T13:33:37+00:00</updated>
+        <content
+        ><![CDATA[怂了？
+赶紧去NoteBBS道歉吧。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】已完全被Chat Club占领！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/151/11"/>
+        <id>https://notebbs.dynv6.net/d/151/11</id>
+        <updated>2024-03-21T13:32:32+00:00</updated>
+        <content
+        ><![CDATA[asdf 这个网站是破坏的网站，fandom很坏。
+您可以参见：https://zh.minecraft.wiki 的迁址公告]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 承认罪行]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/157/2"/>
+        <id>https://notebbs.dynv6.net/d/157/2</id>
+        <updated>2024-03-21T13:31:46+00:00</updated>
+        <content
+        ><![CDATA[3是事实]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/39"/>
+        <id>https://notebbs.dynv6.net/d/152/39</id>
+        <updated>2024-03-21T13:19:31+00:00</updated>
+        <content
+        ><![CDATA[asdf 你可能是做出模拟法庭的这类行为。
+另外，你涉嫌构成诽谤罪我也有权追究。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/37"/>
+        <id>https://notebbs.dynv6.net/d/152/37</id>
+        <updated>2024-03-21T13:16:49+00:00</updated>
+        <content
+        ><![CDATA[我永远不可能认罪的！]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/36"/>
+        <id>https://notebbs.dynv6.net/d/152/36</id>
+        <updated>2024-03-21T13:16:34+00:00</updated>
+        <content
+        ><![CDATA[hcbbs**网站都炸了。
+一直卡死在验证页面。基本上已经无法访问了。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】已完全被Chat Club占领！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/151/9"/>
+        <id>https://notebbs.dynv6.net/d/151/9</id>
+        <updated>2024-03-21T13:15:35+00:00</updated>
+        <content
+        ><![CDATA[这不是事实！你声称这是“事实”就属于辱骂他人。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/34"/>
+        <id>https://notebbs.dynv6.net/d/152/34</id>
+        <updated>2024-03-21T13:14:44+00:00</updated>
+        <content
+        ><![CDATA[ip地址都是假的！]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/33"/>
+        <id>https://notebbs.dynv6.net/d/152/33</id>
+        <updated>2024-03-21T13:14:25+00:00</updated>
+        <content
+        ><![CDATA[刷赞是你给你自己大量投upvote。
+而且潜在威胁信息是指您发布的“人民法院判决书”中的内容存在威胁起诉他人的嫌疑。
+违规情形管理员有权编辑别人内容]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】已完全被Chat Club占领！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/151/7"/>
+        <id>https://notebbs.dynv6.net/d/151/7</id>
+        <updated>2024-03-21T13:11:39+00:00</updated>
+        <content
+        ><![CDATA[“XXX没有母亲”属于辱骂信息，警告一次。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/31"/>
+        <id>https://notebbs.dynv6.net/d/152/31</id>
+        <updated>2024-03-21T13:10:16+00:00</updated>
+        <content
+        ><![CDATA[正在考虑是否选择封禁行为……
+不封禁]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/28"/>
+        <id>https://notebbs.dynv6.net/d/152/28</id>
+        <updated>2024-03-21T12:57:10+00:00</updated>
+        <content
+        ><![CDATA[asdf 请您相信官方说法。且语气并非完全一样。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/27"/>
+        <id>https://notebbs.dynv6.net/d/152/27</id>
+        <updated>2024-03-21T12:56:49+00:00</updated>
+        <content
+        ><![CDATA[asdf 首先，请不要泄露他人个人隐私。另外这有可能是巧合。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/25"/>
+        <id>https://notebbs.dynv6.net/d/152/25</id>
+        <updated>2024-03-21T12:47:57+00:00</updated>
+        <content
+        ><![CDATA[asdf 聚众冲击根本就没有成功！]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/24"/>
+        <id>https://notebbs.dynv6.net/d/152/24</id>
+        <updated>2024-03-21T12:47:39+00:00</updated>
+        <content
+        ><![CDATA[asdf 不是Googol颠倒黑白，是testh！]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/22"/>
+        <id>https://notebbs.dynv6.net/d/152/22</id>
+        <updated>2024-03-21T12:42:03+00:00</updated>
+        <content
+        ><![CDATA[asdf 你有什么办法？]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/20"/>
+        <id>https://notebbs.dynv6.net/d/152/20</id>
+        <updated>2024-03-21T12:39:00+00:00</updated>
+        <content
+        ><![CDATA[admin 而且你也不是确认用户]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/19"/>
+        <id>https://notebbs.dynv6.net/d/152/19</id>
+        <updated>2024-03-21T12:37:35+00:00</updated>
+        <content
+        ><![CDATA[asdf 轰炸机？我开hCaptcha了。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/17"/>
+        <id>https://notebbs.dynv6.net/d/152/17</id>
+        <updated>2024-03-21T12:35:17+00:00</updated>
+        <content
+        ><![CDATA[asdf 你把内容复制过来]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[论目前已知的技术]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/156/2"/>
+        <id>https://notebbs.dynv6.net/d/156/2</id>
+        <updated>2024-03-21T12:34:35+00:00</updated>
+        <content
+        ><![CDATA[http请求怎么写啊？]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[论目前已知的技术]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/156/1"/>
+        <id>https://notebbs.dynv6.net/d/156/1</id>
+        <updated>2024-03-21T12:34:19+00:00</updated>
+        <content
+        ><![CDATA[JavaScript
+Python
+PHP（会报403错误）]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/14"/>
+        <id>https://notebbs.dynv6.net/d/152/14</id>
+        <updated>2024-03-21T12:31:13+00:00</updated>
+        <content
+        ><![CDATA[asdf 你使用vpn吧？这是违法的。
+另外我准备搞个 https://github.com/Googologyer/notems/]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/13"/>
+        <id>https://notebbs.dynv6.net/d/152/13</id>
+        <updated>2024-03-21T12:28:37+00:00</updated>
+        <content
+        ><![CDATA[asdf 你知不知道，discord在中国无法访问？？？]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/12"/>
+        <id>https://notebbs.dynv6.net/d/152/12</id>
+        <updated>2024-03-21T12:27:56+00:00</updated>
+        <content
+        ><![CDATA[111又加大破坏力度了。
+@asdf 是不是你整的111]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Re: 【不实信息】反对Chat Club!!!]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/152/10"/>
+        <id>https://notebbs.dynv6.net/d/152/10</id>
+        <updated>2024-03-21T12:27:34+00:00</updated>
+        <content
+        ><![CDATA[asdf 你多刷新几次。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+    
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[如何快速访问wikidot？]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161731" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161731/" />
+    <id>https://notebbs.dynv6.net/atom/d/161731</id>
+    <updated>2024-07-16T14:18:45+00:00</updated>
+
+        <entry>
+        <title><![CDATA[如何快速访问wikidot？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161731/2"/>
+        <id>https://notebbs.dynv6.net/d/161731/2</id>
+        <updated>2024-06-30T12:31:34+00:00</updated>
+        <content
+        ><![CDATA[这不比WOP的方法好多了]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[如何快速访问wikidot？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161731/1"/>
+        <id>https://notebbs.dynv6.net/d/161731/1</id>
+        <updated>2024-06-30T12:08:15+00:00</updated>
+        <content
+        ><![CDATA[https://write-in-paper.wikidot.com/wikidot-http]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

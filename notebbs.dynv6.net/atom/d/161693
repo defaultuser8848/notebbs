@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[ProtectNote 关于保护日志公开的通知]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161693" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161693/" />
+    <id>https://notebbs.dynv6.net/atom/d/161693</id>
+    <updated>2024-07-16T14:23:13+00:00</updated>
+
+        <entry>
+        <title><![CDATA[ProtectNote 关于保护日志公开的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161693/5"/>
+        <id>https://notebbs.dynv6.net/d/161693/5</id>
+        <updated>2024-06-28T12:07:01+00:00</updated>
+        <content
+        ><![CDATA[这个政策非常好]]></content>
+        <author>
+            <name><![CDATA[Googologyer]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[ProtectNote 关于保护日志公开的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161693/3"/>
+        <id>https://notebbs.dynv6.net/d/161693/3</id>
+        <updated>2024-06-28T01:58:29+00:00</updated>
+        <content
+        ><![CDATA[保护日志请前往 ProtectNote 信息公开：https://protectnote.freeflarum.com/d/5-protectnote-bao-hu-ri-zhi]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[ProtectNote 关于保护日志公开的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161693/1"/>
+        <id>https://notebbs.dynv6.net/d/161693/1</id>
+        <updated>2024-06-28T01:54:00+00:00</updated>
+        <content
+        ><![CDATA[从今以后，所有保护的页面都会公开透明。这是为了知道我们是保护组织，而非毁灭组织！如果需要私密保护的，请通过私密主题联系我。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

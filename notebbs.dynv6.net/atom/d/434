@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[有人冒充 ProtectNote]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/434" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/434/" />
+    <id>https://notebbs.dynv6.net/atom/d/434</id>
+    <updated>2024-07-16T14:29:12+00:00</updated>
+
+        <entry>
+        <title><![CDATA[有人冒充 ProtectNote]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/434/5"/>
+        <id>https://notebbs.dynv6.net/d/434/5</id>
+        <updated>2024-06-24T08:42:53+00:00</updated>
+        <content
+        ><![CDATA[@fdp 不需要置顶]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[有人冒充 ProtectNote]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/434/1"/>
+        <id>https://notebbs.dynv6.net/d/434/1</id>
+        <updated>2024-06-16T07:32:05+00:00</updated>
+        <content
+        ><![CDATA[最近有人冒充此格式进行破坏公用页面，请大家提高警惕！
+如果你在这里存了东西，请注意，不要在公共页面放重要内容！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

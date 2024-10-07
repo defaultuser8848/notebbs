@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[被GitHub标记的虚假理由]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161645" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161645/" />
+    <id>https://notebbs.dynv6.net/atom/d/161645</id>
+    <updated>2024-07-16T14:29:26+00:00</updated>
+
+        <entry>
+        <title><![CDATA[被GitHub标记的虚假理由]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161645/2"/>
+        <id>https://notebbs.dynv6.net/d/161645/2</id>
+        <updated>2024-06-23T11:44:42+00:00</updated>
+        <content
+        ><![CDATA[Googol 试试开小号]]></content>
+        <author>
+            <name><![CDATA[fxs]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[被GitHub标记的虚假理由]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161645/1"/>
+        <id>https://notebbs.dynv6.net/d/161645/1</id>
+        <updated>2024-06-23T11:36:25+00:00</updated>
+        <content
+        ><![CDATA[Your account has been flagged.
+ 
+Your public content is now hidden from other users.
+
+This moderation action was taken after we received a report and determined that your account violates our Acceptable Use Policy prohibiting behavior that significantly or continually disrupts the experience of other users. We do not allow behavior that significantly or continually disrupts the experience of other users. This includes: posting off-topic comments; opening empty or meaningless issues or pull requests; starring and/or following accounts or repositories in large volume in a short period of time; creating nonsensical or irrelevant code reviews; engaging with platform features in a way that causes excessive notifications for other users; and using any other platform feature in a way that creates disruption.
+
+When making content moderation decisions, we consider information from a variety of sources, including: account profile data, information contained in submitted reports/notices or discovered through our own voluntarily initiated investigations, and context around the contents of the repository.
+
+If you wish to regain access or would like to dispute that a violation occurred and can provide additional information to show that a different decision should have been reached, please review our Appeal and Reinstatement Policy and submit a request via our form.
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

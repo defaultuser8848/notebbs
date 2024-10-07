@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[一个网址]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/430" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/430/" />
+    <id>https://notebbs.dynv6.net/atom/d/430</id>
+    <updated>2024-07-16T14:32:35+00:00</updated>
+
+        <entry>
+        <title><![CDATA[一个网址]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/430/1"/>
+        <id>https://notebbs.dynv6.net/d/430/1</id>
+        <updated>2024-06-16T03:30:14+00:00</updated>
+        <content
+        ><![CDATA[https://bake.lyka.pro/
+放这里是为了防止忘记]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[还有什么notems论坛么]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/49" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/49/" />
+    <id>https://notebbs.dynv6.net/atom/d/49</id>
+    <updated>2024-07-16T14:52:52+00:00</updated>
+
+        <entry>
+        <title><![CDATA[还有什么notems论坛么]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/49/4"/>
+        <id>https://notebbs.dynv6.net/d/49/4</id>
+        <updated>2023-12-16T02:43:38+00:00</updated>
+        <content
+        ><![CDATA[另外请使用讨论版标签，除非你内容使用的是英语可以发English标签。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[还有什么notems论坛么]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/49/2"/>
+        <id>https://notebbs.dynv6.net/d/49/2</id>
+        <updated>2023-12-16T02:42:33+00:00</updated>
+        <content
+        ><![CDATA[https://note.flarum.cloud 这是NoteBBS的新址。
+但是你也可以去旧址，旧址“闭关锁国”了。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[还有什么notems论坛么]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/49/1"/>
+        <id>https://notebbs.dynv6.net/d/49/1</id>
+        <updated>2023-12-13T10:25:35+00:00</updated>
+        <content
+        ><![CDATA[除了hcbbs,note论坛之外的，我记得以前有现在都没了好像（） 还有么? 另外庆祝hcbbs恢复
+
+]]></content>
+        <author>
+            <name><![CDATA[helpr]]></name>
+        </author>
+    </entry>
+    
+</feed>

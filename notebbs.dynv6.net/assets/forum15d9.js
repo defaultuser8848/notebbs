@@ -1,0 +1,1 @@
+﻿window.onerror=()=>{};document.querySelector(".flarum-loading-error>div>div").innerHTML="为了加快浏览速度，已删除部分JavaScript，不过这不影响浏览帖子内容。\n这不是反代网站，这是 2024/07/16 的时候镜像的 NoteBBS"

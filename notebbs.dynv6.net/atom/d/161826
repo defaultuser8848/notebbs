@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Wikidot 如何打开 HTTP 网站？]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161826" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161826/" />
+    <id>https://notebbs.dynv6.net/atom/d/161826</id>
+    <updated>2024-07-16T14:03:50+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Wikidot 如何打开 HTTP 网站？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161826/12"/>
+        <id>https://notebbs.dynv6.net/d/161826/12</id>
+        <updated>2024-07-09T02:48:57+00:00</updated>
+        <content
+        ><![CDATA[Googol 你有那么多前科很难 不让我们怀疑你 ]]></content>
+        <author>
+            <name><![CDATA[mibbaxjsn]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 如何打开 HTTP 网站？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161826/11"/>
+        <id>https://notebbs.dynv6.net/d/161826/11</id>
+        <updated>2024-07-08T08:37:22+00:00</updated>
+        <content
+        ><![CDATA[是不是想恶意抹黑？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 如何打开 HTTP 网站？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161826/10"/>
+        <id>https://notebbs.dynv6.net/d/161826/10</id>
+        <updated>2024-07-08T08:20:26+00:00</updated>
+        <content
+        ><![CDATA[目前的代码是
+
+{
+    "request": [
+        {
+            "enable": true,
+            "name": "Wikidot自动切换HTTPS",
+            "ruleType": "redirect",
+            "matchType": "prefix",
+            "pattern": "http://d3g0gp89917ko0.cloudfront.net/",
+            "exclude": "",
+            "group": "Wikidot",
+            "isFunction": true,
+            "action": "redirect",
+            "to": "https://d3g0gp89917ko0.cloudfront.net/",
+            "code": "var res = val.replace(\"http\", \"https\");\nreturn res;"
+        },
+        {
+            "enable": true,
+            "name": "阻止被墙Font Awesome请求拖慢网站速度",
+            "ruleType": "cancel",
+            "matchType": "url",
+            "pattern": "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
+            "exclude": "",
+            "group": "Wikidot",
+            "isFunction": false,
+            "action": "cancel"
+        },
+        {
+            "enable": true,
+            "name": "阻止XSS漏洞（1）",
+            "ruleType": "cancel",
+            "matchType": "url",
+            "pattern": "https://deepforest-club.eu.org/count.js",
+            "exclude": "",
+            "group": "Wikidot",
+            "isFunction": false,
+            "action": "cancel"
+        },
+        {
+            "enable": true,
+            "name": "头像CDN设置HTTPS",
+            "ruleType": "redirect",
+            "matchType": "prefix",
+            "pattern": "http://d2qhngyckgiutd.cloudfront.net",
+            "exclude": "",
+            "group": "Wikidot",
+            "isFunction": true,
+            "code": "return val.replace(\"http\",\"https\");"
+        }
+    ],
+    "sendHeader": [
+        {
+            "enable": true,
+            "name": "wikidot主域名强制使用https",
+            "ruleType": "modifySendHeader",
+            "matchType": "prefix",
+            "pattern": "http://www.wikidot.com",
+            "exclude": "",
+            "group": "Wikidot",
+            "isFunction": true,
+            "code": "var res = val.replace(\"http\", \"https\");\nreturn res;"
+        }
+    ],
+    "receiveHeader": [],
+    "receiveBody": []
+}
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 如何打开 HTTP 网站？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161826/8"/>
+        <id>https://notebbs.dynv6.net/d/161826/8</id>
+        <updated>2024-07-08T08:17:27+00:00</updated>
+        <content
+        ><![CDATA[sdfscgdfggsdfgs 我不同意]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 如何打开 HTTP 网站？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161826/7"/>
+        <id>https://notebbs.dynv6.net/d/161826/7</id>
+        <updated>2024-07-08T08:16:33+00:00</updated>
+        <content
+        ><![CDATA[Googol 那么你必须使用只读上传方式，否则代表你赔偿0.1BTC]]></content>
+        <author>
+            <name><![CDATA[sdfscgdfggsdfgs]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 如何打开 HTTP 网站？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161826/6"/>
+        <id>https://notebbs.dynv6.net/d/161826/6</id>
+        <updated>2024-07-08T08:15:57+00:00</updated>
+        <content
+        ><![CDATA[我保证重定向中没有安全问题。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 如何打开 HTTP 网站？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161826/5"/>
+        <id>https://notebbs.dynv6.net/d/161826/5</id>
+        <updated>2024-07-08T08:15:41+00:00</updated>
+        <content
+        ><![CDATA[sdfscgdfggsdfgs 但是你可以先进行导入，导入之后就会在本地里面不会变动。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 如何打开 HTTP 网站？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161826/4"/>
+        <id>https://notebbs.dynv6.net/d/161826/4</id>
+        <updated>2024-07-08T08:15:11+00:00</updated>
+        <content
+        ><![CDATA[Googol 不要以为我们都不知道你可以改]]></content>
+        <author>
+            <name><![CDATA[sdfscgdfggsdfgs]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 如何打开 HTTP 网站？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161826/3"/>
+        <id>https://notebbs.dynv6.net/d/161826/3</id>
+        <updated>2024-07-08T08:14:43+00:00</updated>
+        <content
+        ><![CDATA[sdfscgdfggsdfgs 你可以自行查看源码。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 如何打开 HTTP 网站？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161826/2"/>
+        <id>https://notebbs.dynv6.net/d/161826/2</id>
+        <updated>2024-07-08T08:14:19+00:00</updated>
+        <content
+        ><![CDATA[Googol 你怎么证明你的这个没有乱重定向从而导致安全问题的风险？]]></content>
+        <author>
+            <name><![CDATA[sdfscgdfggsdfgs]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 如何打开 HTTP 网站？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161826/1"/>
+        <id>https://notebbs.dynv6.net/d/161826/1</id>
+        <updated>2024-07-08T07:50:56+00:00</updated>
+        <content
+        ><![CDATA[使用 Header Editor 浏览器插件，导入 https://googolowo.github.io/WD_HEADER_EDITOR.json，即可正常使用。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

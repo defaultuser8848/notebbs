@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[坏消息]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/273" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/273/" />
+    <id>https://notebbs.dynv6.net/atom/d/273</id>
+    <updated>2024-07-16T14:42:54+00:00</updated>
+
+        <entry>
+        <title><![CDATA[坏消息]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/273/7"/>
+        <id>https://notebbs.dynv6.net/d/273/7</id>
+        <updated>2024-05-16T03:58:05+00:00</updated>
+        <content
+        ><![CDATA[但是已经是管理员了。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[坏消息]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/273/6"/>
+        <id>https://notebbs.dynv6.net/d/273/6</id>
+        <updated>2024-05-16T03:56:57+00:00</updated>
+        <content
+        ><![CDATA[等30天才能领养成功。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[坏消息]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/273/5"/>
+        <id>https://notebbs.dynv6.net/d/273/5</id>
+        <updated>2024-05-16T03:56:13+00:00</updated>
+        <content
+        ><![CDATA[你知道minecraft wiki迁移事件吗？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[坏消息]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/273/4"/>
+        <id>https://notebbs.dynv6.net/d/273/4</id>
+        <updated>2024-05-16T03:55:07+00:00</updated>
+        <content
+        ><![CDATA[没事，让gx01创建一个在ifastnet新的迁移wiki。之后我宣传一下。而且他有维基百科的IPBE，能在Fandom页面通知一下（其实就是在“负面评价”的迁移wiki在mcwiki后面加个OIer Wiki）。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[坏消息]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/273/3"/>
+        <id>https://notebbs.dynv6.net/d/273/3</id>
+        <updated>2024-05-15T14:16:36+00:00</updated>
+        <content
+        ><![CDATA[lovegoogol114514 这么快？]]></content>
+        <author>
+            <name><![CDATA[fxs]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[坏消息]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/273/2"/>
+        <id>https://notebbs.dynv6.net/d/273/2</id>
+        <updated>2024-05-15T13:18:58+00:00</updated>
+        <content
+        ><![CDATA[速报：已经成功力（悲）]]></content>
+        <author>
+            <name><![CDATA[lovegoogol114514]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[坏消息]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/273/1"/>
+        <id>https://notebbs.dynv6.net/d/273/1</id>
+        <updated>2024-05-15T12:14:45+00:00</updated>
+        <content
+        ><![CDATA[OIer Wiki 领养的计划好像快要成功了。link]]></content>
+        <author>
+            <name><![CDATA[fxs]]></name>
+        </author>
+    </entry>
+    
+</feed>

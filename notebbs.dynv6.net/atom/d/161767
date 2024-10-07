@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[广告宣传计划]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161767" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161767/" />
+    <id>https://notebbs.dynv6.net/atom/d/161767</id>
+    <updated>2024-07-16T14:11:50+00:00</updated>
+
+        <entry>
+        <title><![CDATA[广告宣传计划]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161767/2"/>
+        <id>https://notebbs.dynv6.net/d/161767/2</id>
+        <updated>2024-07-04T05:51:36+00:00</updated>
+        <content
+        ><![CDATA[公用页面制裁原则：
+如果页面包含以下内容，我们将会制裁：
+覆盖违反法律法规且造成他人损害的内容
+无端辱骂/侮辱他人
+恶意毁灭，覆盖无意义内容
+
+大家有权不遵守，但是不遵守我们会制裁。
+]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[广告宣传计划]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161767/1"/>
+        <id>https://notebbs.dynv6.net/d/161767/1</id>
+        <updated>2024-07-04T05:47:52+00:00</updated>
+        <content
+        ><![CDATA[我们将要在2024/7/4 13:55对共用页面进行广告宣传，请记得备份大家在共用页面的重要内容！公用页面应当是无规则的地方，只要不违反法律法规和辱骂侮辱等行为就不应该制裁！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

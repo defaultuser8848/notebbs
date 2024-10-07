@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[申请友链开放]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161866" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161866/" />
+    <id>https://notebbs.dynv6.net/atom/d/161866</id>
+    <updated>2024-07-16T14:41:57+00:00</updated>
+
+        <entry>
+        <title><![CDATA[申请友链开放]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161866/1"/>
+        <id>https://notebbs.dynv6.net/d/161866/1</id>
+        <updated>2024-07-16T04:02:46+00:00</updated>
+        <content
+        ><![CDATA[规则：
+
+网站管理团队不得反对Googol。
+对应网站必须允许用户发布内容。
+不开放博客申请。
+你必须在网站中放置一个友情链接。
+网站管理员发布的内容不得违法违规。
+
+申请请在本贴回复，模板：
+
+网站名称：
+网站链接：
+网站介绍：
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

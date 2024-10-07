@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[承认罪行]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/157" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/157/" />
+    <id>https://notebbs.dynv6.net/atom/d/157</id>
+    <updated>2024-07-16T14:51:07+00:00</updated>
+
+        <entry>
+        <title><![CDATA[承认罪行]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/157/5"/>
+        <id>https://notebbs.dynv6.net/d/157/5</id>
+        <updated>2024-03-21T14:02:25+00:00</updated>
+        <content
+        ><![CDATA[我不是已经锁帖了吗。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[承认罪行]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/157/4"/>
+        <id>https://notebbs.dynv6.net/d/157/4</id>
+        <updated>2024-03-21T13:33:37+00:00</updated>
+        <content
+        ><![CDATA[怂了？
+赶紧去NoteBBS道歉吧。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[承认罪行]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/157/2"/>
+        <id>https://notebbs.dynv6.net/d/157/2</id>
+        <updated>2024-03-21T13:31:46+00:00</updated>
+        <content
+        ><![CDATA[3是事实]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[承认罪行]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/157/1"/>
+        <id>https://notebbs.dynv6.net/d/157/1</id>
+        <updated>2024-03-21T13:30:47+00:00</updated>
+        <content
+        ><![CDATA[我承认以下罪行：
+我是testh的小号
+我破坏了CleanNote的页面。
+我是Googol Wiki的破坏者]]></content>
+        <author>
+            <name><![CDATA[asdf]]></name>
+        </author>
+    </entry>
+    
+</feed>

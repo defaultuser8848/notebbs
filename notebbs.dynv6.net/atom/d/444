@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[HC 被墙的罪魁祸首]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/444" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/444/" />
+    <id>https://notebbs.dynv6.net/atom/d/444</id>
+    <updated>2024-07-16T14:29:29+00:00</updated>
+
+        <entry>
+        <title><![CDATA[HC 被墙的罪魁祸首]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/444/4"/>
+        <id>https://notebbs.dynv6.net/d/444/4</id>
+        <updated>2024-06-23T11:33:44+00:00</updated>
+        <content
+        ><![CDATA[感谢GFW阻止MelonCmd继续让国内用户造成心理伤害]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[HC 被墙的罪魁祸首]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/444/3"/>
+        <id>https://notebbs.dynv6.net/d/444/3</id>
+        <updated>2024-06-18T09:45:06+00:00</updated>
+        <content
+        ><![CDATA[HC++也被墙了]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[HC 被墙的罪魁祸首]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/444/2"/>
+        <id>https://notebbs.dynv6.net/d/444/2</id>
+        <updated>2024-06-18T09:30:14+00:00</updated>
+        <content
+        ><![CDATA[IRC 在：https://freenode.net，这里可以直接在 Web 访问。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[HC 被墙的罪魁祸首]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/444/1"/>
+        <id>https://notebbs.dynv6.net/d/444/1</id>
+        <updated>2024-06-18T09:29:49+00:00</updated>
+        <content
+        ><![CDATA[HackChat 因为 MelonCmd 暴政行为，sora 帮助 Googol 冒充者等行为，所以被墙了。即使不被墙我也会举报。庆祝 HC 被墙！大家可以转而使用 IRC。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

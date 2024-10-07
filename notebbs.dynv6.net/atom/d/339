@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Note.msBBS开始闭关锁国]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/339" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/339/" />
+    <id>https://notebbs.dynv6.net/atom/d/339</id>
+    <updated>2024-07-16T14:38:55+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Note.msBBS开始闭关锁国]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/339/1"/>
+        <id>https://notebbs.dynv6.net/d/339/1</id>
+        <updated>2024-06-03T23:50:54+00:00</updated>
+        <content
+        ><![CDATA[最近，Note.msBBS采用了全新的加入方式，但是我注册wikidot进行弹劾，申请多次失败。那么证明申请邀请码是很困难的。所以其也属于变相的“闭关锁国”。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

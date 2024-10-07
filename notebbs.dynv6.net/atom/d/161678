@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[ProtectNote 论坛已经开放！]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161678" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161678/" />
+    <id>https://notebbs.dynv6.net/atom/d/161678</id>
+    <updated>2024-07-16T14:26:36+00:00</updated>
+
+        <entry>
+        <title><![CDATA[ProtectNote 论坛已经开放！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161678/1"/>
+        <id>https://notebbs.dynv6.net/d/161678/1</id>
+        <updated>2024-06-27T04:03:09+00:00</updated>
+        <content
+        ><![CDATA[如需查看论坛，请前往：https://protectnote.freeflarum.com]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

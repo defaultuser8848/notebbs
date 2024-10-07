@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[封禁速通记录]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/209" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/209/" />
+    <id>https://notebbs.dynv6.net/atom/d/209</id>
+    <updated>2024-07-16T14:48:37+00:00</updated>
+
+        <entry>
+        <title><![CDATA[封禁速通记录]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/209/3"/>
+        <id>https://notebbs.dynv6.net/d/209/3</id>
+        <updated>2024-04-11T16:54:09+00:00</updated>
+        <content
+        ><![CDATA[Googol眤盾ぐ或摆]]></content>
+        <author>
+            <name><![CDATA[cmd1152]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[封禁速通记录]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/209/1"/>
+        <id>https://notebbs.dynv6.net/d/209/1</id>
+        <updated>2024-04-11T14:40:22+00:00</updated>
+        <content
+        ><![CDATA[快速查出 @Anonymous_user 用于破坏的小号 @[已注销] 并成功封禁。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+    
+</feed>

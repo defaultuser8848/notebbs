@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[猜猜 NoteWiki 是谁制作的。]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161648" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161648/" />
+    <id>https://notebbs.dynv6.net/atom/d/161648</id>
+    <updated>2024-07-16T14:29:07+00:00</updated>
+
+        <entry>
+        <title><![CDATA[猜猜 NoteWiki 是谁制作的。]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161648/2"/>
+        <id>https://notebbs.dynv6.net/d/161648/2</id>
+        <updated>2024-06-24T09:22:29+00:00</updated>
+        <content
+        ><![CDATA[Googol Googol]]></content>
+        <author>
+            <name><![CDATA[fxs]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[猜猜 NoteWiki 是谁制作的。]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161648/1"/>
+        <id>https://notebbs.dynv6.net/d/161648/1</id>
+        <updated>2024-06-24T02:49:07+00:00</updated>
+        <content
+        ><![CDATA[---- CAN YOU GUESS ----
+Who is the creator of this wiki?
+If you can guess, please put you answer in https://note.freeflarum.com with title "2024/6/24's Note Wiki Guess Answer"
+
+If you guess success, you'll get 5 Note Coin!
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

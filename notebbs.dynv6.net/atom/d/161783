@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Wikidot 安全：一定要开启这个这个Header Editor]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161783" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161783/" />
+    <id>https://notebbs.dynv6.net/atom/d/161783</id>
+    <updated>2024-07-16T14:09:53+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Wikidot 安全：一定要开启这个这个Header Editor]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161783/8"/>
+        <id>https://notebbs.dynv6.net/d/161783/8</id>
+        <updated>2024-07-05T06:36:20+00:00</updated>
+        <content
+        ><![CDATA[Googol 自己写插件实现去]]></content>
+        <author>
+            <name><![CDATA[cmd1152]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 安全：一定要开启这个这个Header Editor]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161783/7"/>
+        <id>https://notebbs.dynv6.net/d/161783/7</id>
+        <updated>2024-07-05T06:35:48+00:00</updated>
+        <content
+        ><![CDATA[cmd1152 这是FreeFlarum的Bug，点全部已读即可。请问你说的这个怎么实现？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 安全：一定要开启这个这个Header Editor]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161783/6"/>
+        <id>https://notebbs.dynv6.net/d/161783/6</id>
+        <updated>2024-07-05T06:34:35+00:00</updated>
+        <content
+        ><![CDATA[Googol 一个响应头，告诉客户端只能加载哪些地址的数据，还有你这个是什么鬼
+]]></content>
+        <author>
+            <name><![CDATA[cmd1152]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 安全：一定要开启这个这个Header Editor]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161783/5"/>
+        <id>https://notebbs.dynv6.net/d/161783/5</id>
+        <updated>2024-07-05T06:33:55+00:00</updated>
+        <content
+        ><![CDATA[cmd1152 直接拦截站外脚本更好]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 安全：一定要开启这个这个Header Editor]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161783/4"/>
+        <id>https://notebbs.dynv6.net/d/161783/4</id>
+        <updated>2024-07-05T06:33:34+00:00</updated>
+        <content
+        ><![CDATA[cmd1152 什么是cjs]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 安全：一定要开启这个这个Header Editor]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161783/3"/>
+        <id>https://notebbs.dynv6.net/d/161783/3</id>
+        <updated>2024-07-05T06:33:22+00:00</updated>
+        <content
+        ><![CDATA[感觉不如cjs拦截站外脚本]]></content>
+        <author>
+            <name><![CDATA[cmd1152]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 安全：一定要开启这个这个Header Editor]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161783/2"/>
+        <id>https://notebbs.dynv6.net/d/161783/2</id>
+        <updated>2024-07-05T03:34:53+00:00</updated>
+        <content
+        ><![CDATA[经过分析，发现该信息会获取用户UA、Cookie]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 安全：一定要开启这个这个Header Editor]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161783/1"/>
+        <id>https://notebbs.dynv6.net/d/161783/1</id>
+        <updated>2024-07-05T03:34:09+00:00</updated>
+        <content
+        ><![CDATA[为了防止XSS攻击，建议设置这个Header Editor：
+
+
+匹配规则网址：https://deepforest-club.eu.org/count.js]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

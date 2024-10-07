@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[失信黑名单]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161772" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161772/" />
+    <id>https://notebbs.dynv6.net/atom/d/161772</id>
+    <updated>2024-07-16T13:56:46+00:00</updated>
+
+        <entry>
+        <title><![CDATA[失信黑名单]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161772/3"/>
+        <id>https://notebbs.dynv6.net/d/161772/3</id>
+        <updated>2024-07-05T06:35:52+00:00</updated>
+        <content
+        ><![CDATA[paper]]></content>
+        <author>
+            <name><![CDATA[cmd1152]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[失信黑名单]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161772/1"/>
+        <id>https://notebbs.dynv6.net/d/161772/1</id>
+        <updated>2024-07-04T09:37:06+00:00</updated>
+        <content
+        ><![CDATA[在失信黑名单的用户，会自动添加“败类”/“违法组”，且大部分由站长团提供的服务将会受限。
+
+reset-chan（即22c）恶意对Googol的wikidot账号盗号，忽略了“盗号赔偿0.01BTC”的警告，且不履行。进入失信黑名单置顶公示！reset-chan是盗号者！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

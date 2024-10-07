@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Note.ms加密备份重新开启]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161736" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161736/" />
+    <id>https://notebbs.dynv6.net/atom/d/161736</id>
+    <updated>2024-07-16T14:18:38+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Note.ms加密备份重新开启]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161736/1"/>
+        <id>https://notebbs.dynv6.net/d/161736/1</id>
+        <updated>2024-07-01T03:23:08+00:00</updated>
+        <content
+        ><![CDATA[https://googolowo.github.io/notems/beifen.html
+
+有建议可以在这里提。
+
+注意：算法变了，原来的算法是 md5(``${页面}:${密匙}``)。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

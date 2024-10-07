@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[我写了一个楼层文]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161672" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161672/" />
+    <id>https://notebbs.dynv6.net/atom/d/161672</id>
+    <updated>2024-07-16T14:26:28+00:00</updated>
+
+        <entry>
+        <title><![CDATA[我写了一个楼层文]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161672/5"/>
+        <id>https://notebbs.dynv6.net/d/161672/5</id>
+        <updated>2024-06-27T08:10:39+00:00</updated>
+        <content
+        ><![CDATA[https://write-in-paper.wikidot.com/level-of-notems 还是放WIP吧]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我写了一个楼层文]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161672/4"/>
+        <id>https://notebbs.dynv6.net/d/161672/4</id>
+        <updated>2024-06-26T10:04:17+00:00</updated>
+        <content
+        ><![CDATA[https://backrooms-to-dv.wikidot.com/level-to-73 由于恶意Downvote，目前迁移到了TO DV]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我写了一个楼层文]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161672/3"/>
+        <id>https://notebbs.dynv6.net/d/161672/3</id>
+        <updated>2024-06-26T08:06:14+00:00</updated>
+        <content
+        ><![CDATA[我没意见，但是他们有]]></content>
+        <author>
+            <name><![CDATA[fxs]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我写了一个楼层文]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161672/2"/>
+        <id>https://notebbs.dynv6.net/d/161672/2</id>
+        <updated>2024-06-26T08:05:54+00:00</updated>
+        <content
+        ><![CDATA[Googol https://backroom-cn.wikidot.com/forum/t-16871613/level-ml-65#post-6551981]]></content>
+        <author>
+            <name><![CDATA[fxs]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我写了一个楼层文]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161672/1"/>
+        <id>https://notebbs.dynv6.net/d/161672/1</id>
+        <updated>2024-06-26T06:40:30+00:00</updated>
+        <content
+        ><![CDATA[https://backroom-cn.wikidot.com/level-ml-65
+
+大家有没有什么意见？22c看到了不要给我大量小号的downvote，否则我就报告管理]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

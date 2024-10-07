@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[加了一些CSS样式]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161682" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161682/" />
+    <id>https://notebbs.dynv6.net/atom/d/161682</id>
+    <updated>2024-07-16T14:26:33+00:00</updated>
+
+        <entry>
+        <title><![CDATA[加了一些CSS样式]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161682/4"/>
+        <id>https://notebbs.dynv6.net/d/161682/4</id>
+        <updated>2024-06-27T06:04:34+00:00</updated>
+        <content
+        ><![CDATA[LESS 公开：
+header.WelcomeHero{
+    background-color: #2a6b82;
+    color: white;
+    /*font-family: 宋体;*/
+    .Hero-subtitle{
+        text-align: left;
+    }
+}
+.Afrux-NewsWidget &gt; .AfruxWidgets-Widget-content{
+    transition: background-color 300ms ease;
+}
+.Afrux-NewsWidget &gt; .AfruxWidgets-Widget-content:hover{
+    background-color: green;
+    color: white;
+    a{
+        color: yellow;
+    }
+}
+.Afrux-TopPostersWidget-users-item-name{
+    font-size: normal;
+}
+
+div.DiffList-container .DiffList-content&gt;ul&gt;li.Diff:hover{
+    background: #ccc;
+}
+
+div.DiscussionListItem{
+    border-radius: 10px;
+}
+
+/*header.WelcomeHero:hover{
+    transform: skewx(2deg) translatey(5px);
+    transform-origin: bottom right;
+    perspective: 500px;
+}
+*/
+
+button.IndexPage-newDiscussion.Button--primary{
+    background: gold;
+    color: black;
+    transition: background,box-shadow 200ms ease-in-out;
+    &amp;:hover{
+        background: green;
+        color: white;
+        box-shadow: 3px 3px 5px gold;
+    }
+}
+
+li.item-hide button.hasIcon{
+    &amp;:hover{
+        background-color: red;
+        color: white;
+    }
+}
+li.item-sticky button.hasIcon{
+    &amp;:hover{
+        background-color: #6b27a9;
+        color: white;
+    }
+}
+
+li.item-clarkwinkelmann-author-change button.hasIcon{
+    &amp;:hover{
+        background-color: #a2dcd2;
+    }
+}
+
+li.item-shadow-hide button.hasIcon{
+    &amp;:hover{
+        color: #b2d0bf;
+        font-weight: bold;
+    }
+}
+
+li.item-like button.Button.Button--link{
+    font-size: large;
+    &amp;:hover{
+        color: green;
+        font-weight: bold;
+    }
+}
+
+li.item-logOut button.hasIcon{
+    font-size: small;
+    &amp;:hover{
+        background-color: white;
+        font-weight: 100;
+        color: red;
+    }
+    &amp;:after{
+        content: "（别离开啊~）";
+        color: black;
+    }
+}
+
+button.SubscriptionMenu-button.SubscriptionMenu-button--null.hasIcon:not(#yu22c-is-what-man, #yu22c-view-only){
+    background-color: yellow;
+}
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[加了一些CSS样式]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161682/3"/>
+        <id>https://notebbs.dynv6.net/d/161682/3</id>
+        <updated>2024-06-27T06:04:16+00:00</updated>
+        <content
+        ><![CDATA[注意：颜色可能不兼容深色模式。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[加了一些CSS样式]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161682/2"/>
+        <id>https://notebbs.dynv6.net/d/161682/2</id>
+        <updated>2024-06-27T05:48:41+00:00</updated>
+        <content
+        ><![CDATA[
+
+菜单栏加了样式]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[加了一些CSS样式]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161682/1"/>
+        <id>https://notebbs.dynv6.net/d/161682/1</id>
+        <updated>2024-06-27T05:47:44+00:00</updated>
+        <content
+        ><![CDATA[大家有没有什么建议？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

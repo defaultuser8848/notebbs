@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[新的轰炸靶标]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/177" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/177/" />
+    <id>https://notebbs.dynv6.net/atom/d/177</id>
+    <updated>2024-07-16T14:50:04+00:00</updated>
+
+        <entry>
+        <title><![CDATA[新的轰炸靶标]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/177/2"/>
+        <id>https://notebbs.dynv6.net/d/177/2</id>
+        <updated>2024-04-01T07:22:38+00:00</updated>
+        <content
+        ><![CDATA[wiki炸了……]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[新的轰炸靶标]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/177/1"/>
+        <id>https://notebbs.dynv6.net/d/177/1</id>
+        <updated>2024-04-01T07:21:47+00:00</updated>
+        <content
+        ><![CDATA[https://wiki.hcbbs.eu.org
+管理员不活跃的wiki。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

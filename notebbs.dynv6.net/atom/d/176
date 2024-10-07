@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[/chatting 投影计划]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/176" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/176/" />
+    <id>https://notebbs.dynv6.net/atom/d/176</id>
+    <updated>2024-07-16T14:43:53+00:00</updated>
+
+        <entry>
+        <title><![CDATA[/chatting 投影计划]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/176/4"/>
+        <id>https://notebbs.dynv6.net/d/176/4</id>
+        <updated>2024-05-04T15:33:58+00:00</updated>
+        <content
+        ><![CDATA[function read(pagename){
+  fetch("https://note.ms/"+pagename, {
+    "headers": {
+      "accept": "*/*",
+      "accept-language": "zh-CN,zh;q=0.9",
+      "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+      "sec-ch-ua": "\";Not A Brand\";v=\"99\", \"Chromium\";v=\"94\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "x-requested-with": "XMLHttpRequest"
+    },
+    "referrer": "https://note.ms/"+pagename,
+    "referrerPolicy": "no-referrer-when-downgrade",
+    "mode": "cors",
+    "credentials": "omit"
+  }).then(res =&gt; res.text())
+    .then(text =&gt; this.a = text);
+    dom = document.createElement("html");
+    dom.innerHTML = a;
+  try{
+    text = dom.getElementsByTagName("textarea")[0].value;
+  }catch{
+    return "error 403";
+  }
+    return text;
+}
+function set(pagename, content){
+  content = content.replaceAll("%","%25").replaceAll("&amp;","%26");
+  fetch("https://note.ms/"+pagename, {
+    "headers": {
+      "accept": "*/*",
+      "accept-language": "zh-CN,zh;q=0.9",
+      "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+      "sec-ch-ua": "\";Not A Brand\";v=\"99\", \"Chromium\";v=\"94\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "x-requested-with": "XMLHttpRequest"
+    },
+    "referrer": "https://note.ms/"+pagename,
+    "referrerPolicy": "no-referrer-when-downgrade",
+    "body": "&amp;t="+content,
+    "method": "POST",
+    "mode": "cors",
+    "credentials": "omit"
+  });
+}
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+github 版本改了]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[/chatting 投影计划]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/176/2"/>
+        <id>https://notebbs.dynv6.net/d/176/2</id>
+        <updated>2024-04-08T03:27:55+00:00</updated>
+        <content
+        ><![CDATA[bug fix:
+function read(pagename){
+  fetch("https://note.ms/"+pagename, {
+    "headers": {
+      "accept": "*/*",
+      "accept-language": "zh-CN,zh;q=0.9",
+      "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+      "sec-ch-ua": "\";Not A Brand\";v=\"99\", \"Chromium\";v=\"94\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "x-requested-with": "XMLHttpRequest"
+    },
+    "referrer": "https://note.ms/"+pagename,
+    "referrerPolicy": "no-referrer-when-downgrade",
+    "mode": "cors",
+    "credentials": "omit"
+  }).then(res =&gt; res.text())
+    .then(text =&gt; this.a = text);
+    dom = document.createElement("html");
+    dom.innerHTML = a;
+  try{
+    text = dom.getElementsByTagName("textarea")[0].value;
+  }catch{
+    return "error 403";
+  }
+    return text;
+}
+function set(pagename, content){
+  fetch("https://note.ms/"+pagename, {
+    "headers": {
+      "accept": "*/*",
+      "accept-language": "zh-CN,zh;q=0.9",
+      "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+      "sec-ch-ua": "\";Not A Brand\";v=\"99\", \"Chromium\";v=\"94\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "x-requested-with": "XMLHttpRequest"
+    },
+    "referrer": "https://note.ms/"+pagename,
+    "referrerPolicy": "no-referrer-when-downgrade",
+    "body": "&amp;t="+content,
+    "method": "POST",
+    "mode": "cors",
+    "credentials": "omit"
+  });
+}
+setInterval(function(){
+set("chatting",
+`投影计划（/chatting）：我们不是邪恶组织，因为越过长城的破坏，所以我们才开设。
+开设者：大数组织
+前往/chat0001对内容编辑，当前时间：${new Date()}
+--------------------
+${read("chat0001").replaceAll("%","%25").replaceAll("&amp;","%26")}
+--------------------
+`);
+},1000);
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[/chatting 投影计划]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/176/1"/>
+        <id>https://notebbs.dynv6.net/d/176/1</id>
+        <updated>2024-04-01T07:06:39+00:00</updated>
+        <content
+        ><![CDATA[function read(pagename){
+  fetch("https://note.ms/"+pagename, {
+    "headers": {
+      "accept": "*/*",
+      "accept-language": "zh-CN,zh;q=0.9",
+      "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+      "sec-ch-ua": "\";Not A Brand\";v=\"99\", \"Chromium\";v=\"94\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "x-requested-with": "XMLHttpRequest"
+    },
+    "referrer": "https://note.ms/"+pagename,
+    "referrerPolicy": "no-referrer-when-downgrade",
+    "mode": "cors",
+    "credentials": "omit"
+  }).then(res =&gt; res.text())
+    .then(text =&gt; this.a = text);
+    dom = document.createElement("html");
+    dom.innerHTML = a;
+  try{
+    text = dom.getElementsByTagName("textarea")[0].value;
+  }catch{
+    return "error 403";
+  }
+    return text;
+}
+function set(pagename, content){
+  fetch("https://note.ms/"+pagename, {
+    "headers": {
+      "accept": "*/*",
+      "accept-language": "zh-CN,zh;q=0.9",
+      "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+      "sec-ch-ua": "\";Not A Brand\";v=\"99\", \"Chromium\";v=\"94\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "x-requested-with": "XMLHttpRequest"
+    },
+    "referrer": "https://note.ms/"+pagename,
+    "referrerPolicy": "no-referrer-when-downgrade",
+    "body": "&amp;t="+content,
+    "method": "POST",
+    "mode": "cors",
+    "credentials": "omit"
+  });
+}
+setInterval(function(){
+set("chatting",
+`投影计划（/chatting）：我们不是邪恶组织，因为越过长城的破坏，所以我们才开设。
+前往/chat0001对内容编辑，当前时间：${new Date()}
+--------------------
+${read("chat0001")}
+--------------------
+`);
+},1000);
+````
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

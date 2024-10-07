@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[验证码太烦人]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/301" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/301/" />
+    <id>https://notebbs.dynv6.net/atom/d/301</id>
+    <updated>2024-07-16T14:39:21+00:00</updated>
+
+        <entry>
+        <title><![CDATA[验证码太烦人]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/301/3"/>
+        <id>https://notebbs.dynv6.net/d/301/3</id>
+        <updated>2024-06-05T01:52:21+00:00</updated>
+        <content
+        ><![CDATA[14569 cloudflare的兼容性不好]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[验证码太烦人]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/301/2"/>
+        <id>https://notebbs.dynv6.net/d/301/2</id>
+        <updated>2024-06-04T15:23:24+00:00</updated>
+        <content
+        ><![CDATA[验证码可以叫管理员换 CloudFlare 的，hCaptcha 确实烦人。
+但是谷歌的更烦人。]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[验证码太烦人]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/301/1"/>
+        <id>https://notebbs.dynv6.net/d/301/1</id>
+        <updated>2024-05-18T13:12:55+00:00</updated>
+        <content
+        ><![CDATA[为啥要搞验证码啊？因为轰炸机吗？申请验证成员的条件真高！]]></content>
+        <author>
+            <name><![CDATA[Gongxiang01]]></name>
+        </author>
+    </entry>
+    
+</feed>

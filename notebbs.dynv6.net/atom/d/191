@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[怎么验证用户？]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/191" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/191/" />
+    <id>https://notebbs.dynv6.net/atom/d/191</id>
+    <updated>2024-07-16T14:48:41+00:00</updated>
+
+        <entry>
+        <title><![CDATA[怎么验证用户？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/191/3"/>
+        <id>https://notebbs.dynv6.net/d/191/3</id>
+        <updated>2024-04-11T06:45:44+00:00</updated>
+        <content
+        ><![CDATA[请前往 https://note.flarum.cloud/d/199-shen-qing-tie-yan-zheng-cheng-yuan/3 进行申请。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[怎么验证用户？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/191/2"/>
+        <id>https://notebbs.dynv6.net/d/191/2</id>
+        <updated>2024-04-11T06:20:39+00:00</updated>
+        <content
+        ><![CDATA[至少需要保证不是轰炸机，我打算搞一个申请贴。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[怎么验证用户？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/191/1"/>
+        <id>https://notebbs.dynv6.net/d/191/1</id>
+        <updated>2024-04-10T10:06:08+00:00</updated>
+        <content
+        ><![CDATA[由于我看到有些用户验证了用户，我不知道他们怎么验证的，请问管理组怎么验证用户？]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+    
+</feed>

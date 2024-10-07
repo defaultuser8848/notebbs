@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[discuss 标签活动]]></title>
+    <subtitle><![CDATA[discuss 标签新回帖]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/t/discuss" rel="self" />
+    <link href="https://notebbs.dynv6.net/" />
+    <id>https://notebbs.dynv6.net/atom/t/discuss</id>
+    <updated>2024-07-16T14:39:54+00:00</updated>
+
+        <entry>
+        <title><![CDATA[cmd的GitHub被盗了？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161869/2"/>
+        <id>https://notebbs.dynv6.net/d/161869/2</id>
+        <updated>2024-07-16T13:13:19+00:00</updated>
+        <content
+        ><![CDATA[can you translate to english?]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[新的 Flarum/FreeFlarum 主题 - HubUi-X]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161788/5"/>
+        <id>https://notebbs.dynv6.net/d/161788/5</id>
+        <updated>2024-07-16T13:06:45+00:00</updated>
+        <content
+        ><![CDATA[I think 14569 shoudn't give the code to Googol.]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[申请删除账号]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161863/4"/>
+        <id>https://notebbs.dynv6.net/d/161863/4</id>
+        <updated>2024-07-16T13:03:31+00:00</updated>
+        <content
+        ><![CDATA[Why don't googol delete 14569's account?]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[验证码开启了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/9/4"/>
+        <id>https://notebbs.dynv6.net/d/9/4</id>
+        <updated>2024-07-16T13:02:05+00:00</updated>
+        <content
+        ><![CDATA[I can help you to spam this site, do you want?]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我的第一个 Flarum 扩展]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161809/3"/>
+        <id>https://notebbs.dynv6.net/d/161809/3</id>
+        <updated>2024-07-16T13:01:03+00:00</updated>
+        <content
+        ><![CDATA[Your extension is so good, but I think it is stupid.]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[HubUi-X 主题已停止公开代码]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161850/3"/>
+        <id>https://notebbs.dynv6.net/d/161850/3</id>
+        <updated>2024-07-16T12:59:31+00:00</updated>
+        <content
+        ><![CDATA[So why 14569 dog barking? ]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[145Hub 管理员 14569 的虚假指控翻译]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161859/5"/>
+        <id>https://notebbs.dynv6.net/d/161859/5</id>
+        <updated>2024-07-16T12:58:39+00:00</updated>
+        <content
+        ><![CDATA[14569 is the owner of 145Hub.
+
+He hate Googol and NoteBBs.]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[145Hub 关注册了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161861/3"/>
+        <id>https://notebbs.dynv6.net/d/161861/3</id>
+        <updated>2024-07-16T12:57:02+00:00</updated>
+        <content
+        ><![CDATA[145Hub is a community built with FreeFlarum, it use HubUi-X Theme for the community, HubUi-X Theme is so beautiful.]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[DDoS 终于恢复]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161867/1"/>
+        <id>https://notebbs.dynv6.net/d/161867/1</id>
+        <updated>2024-07-16T07:51:22+00:00</updated>
+        <content
+        ><![CDATA[我们对 DDoS 解决的方法很难，但是，目前终于恢复 DDoS 攻击了。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[删前留名]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161862/10"/>
+        <id>https://notebbs.dynv6.net/d/161862/10</id>
+        <updated>2024-07-16T03:35:58+00:00</updated>
+        <content
+        ><![CDATA[loveGoogol_23451 哪里违规了？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我成功的 DDoS Note.msBBS]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161847/19"/>
+        <id>https://notebbs.dynv6.net/d/161847/19</id>
+        <updated>2024-07-16T02:02:02+00:00</updated>
+        <content
+        ><![CDATA[Googol 可以干扰功能]]></content>
+        <author>
+            <name><![CDATA[loveGoogol_23451]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[22c 组罪行列表已发布！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161848/4"/>
+        <id>https://notebbs.dynv6.net/d/161848/4</id>
+        <updated>2024-07-16T00:16:12+00:00</updated>
+        <content
+        ><![CDATA[Googol 举报一波]]></content>
+        <author>
+            <name><![CDATA[loveGoogol_23451]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[热烈祝贺OIer Wiki领养彻底成功！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161855/2"/>
+        <id>https://notebbs.dynv6.net/d/161855/2</id>
+        <updated>2024-07-15T07:15:03+00:00</updated>
+        <content
+        ><![CDATA[强烈反对，打倒Fandom！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[最新消息]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161842/2"/>
+        <id>https://notebbs.dynv6.net/d/161842/2</id>
+        <updated>2024-07-15T03:47:32+00:00</updated>
+        <content
+        ><![CDATA[Googol Spammer秒了]]></content>
+        <author>
+            <name><![CDATA[loveGoogol1234234]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[反对 NodeLoc 管理暴政]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161853/3"/>
+        <id>https://notebbs.dynv6.net/d/161853/3</id>
+        <updated>2024-07-15T03:41:59+00:00</updated>
+        <content
+        ><![CDATA[love_googol_2323414 当然有]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[维基百科恶封管理员终于解任了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161854/8"/>
+        <id>https://notebbs.dynv6.net/d/161854/8</id>
+        <updated>2024-07-15T03:41:11+00:00</updated>
+        <content
+        ><![CDATA[我马上连夜注册]]></content>
+        <author>
+            <name><![CDATA[love_googol_2323414]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Defaultuser6 涉嫌骚扰行为]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161852/1"/>
+        <id>https://notebbs.dynv6.net/d/161852/1</id>
+        <updated>2024-07-15T01:40:58+00:00</updated>
+        <content
+        ><![CDATA[Defaultuser6 恶意在 Googol 所在的平台持续跟踪，以下是一些证据：
+
+https://hubs.tkfly.top/u/42771974221455114277 - Defaultuser6 在 145Hub 的跟踪行为。
+https://www.nodeloc.com/u/defaultuser6 - Defaultuser6 在 NodeLoc 的跟踪行为
+
+其实，Defaultuser6 曾经在我写的楼层文上面跟踪我，进行恶意举报。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Proxyium 挂了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161851/1"/>
+        <id>https://notebbs.dynv6.net/d/161851/1</id>
+        <updated>2024-07-14T02:19:06+00:00</updated>
+        <content
+        ><![CDATA[rt。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[22c组继续DDoS论坛]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161846/1"/>
+        <id>https://notebbs.dynv6.net/d/161846/1</id>
+        <updated>2024-07-13T08:45:29+00:00</updated>
+        <content
+        ><![CDATA[最近服务器down好几次了]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[MelonCmd 也要冒充]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161843/1"/>
+        <id>https://notebbs.dynv6.net/d/161843/1</id>
+        <updated>2024-07-11T12:01:43+00:00</updated>
+        <content
+        ><![CDATA[https://www.nodeloc.com/d/5812
+
+MelonCmd 想要发布抽奖邮件冒充我
+
+https://www.nodeloc.com/d/5812]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[wikidot源码]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161840/1"/>
+        <id>https://notebbs.dynv6.net/d/161840/1</id>
+        <updated>2024-07-11T06:30:14+00:00</updated>
+        <content
+        ><![CDATA[https://github.com/gabrys/wikidot]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于 Gmail 的声明]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161838/3"/>
+        <id>https://notebbs.dynv6.net/d/161838/3</id>
+        <updated>2024-07-11T05:48:42+00:00</updated>
+        <content
+        ><![CDATA[googoloyer@gmail.com 也不是]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[一定要将 NoteBBS 宣传到更远的地方！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161797/18"/>
+        <id>https://notebbs.dynv6.net/d/161797/18</id>
+        <updated>2024-07-11T02:24:25+00:00</updated>
+        <content
+        ><![CDATA[MelonCmd 还要宣传它的诽谤信息和 Au 的暴政论坛。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[《屏蔽》]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161837/1"/>
+        <id>https://notebbs.dynv6.net/d/161837/1</id>
+        <updated>2024-07-10T12:54:50+00:00</updated>
+        <content
+        ><![CDATA[]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NodeLoc 邀请码]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161836/1"/>
+        <id>https://notebbs.dynv6.net/d/161836/1</id>
+        <updated>2024-07-10T10:55:26+00:00</updated>
+        <content
+        ><![CDATA[https://www.nodeloc.com/signup/1EOE90NY2N34CG]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[反向链接]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161833/1"/>
+        <id>https://notebbs.dynv6.net/d/161833/1</id>
+        <updated>2024-07-09T08:41:52+00:00</updated>
+        <content
+        ><![CDATA[
+
+谁知道怎么搞点反向链接？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[googol 又整活了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/165/"/>
+        <id>https://notebbs.dynv6.net/d/165/</id>
+        <updated>2024-07-09T08:15:03+00:00</updated>
+        <content
+        ><![CDATA[]]></content>
+        <author>
+            <name><![CDATA[googol-is-the-best]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[申请管理]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/52/"/>
+        <id>https://notebbs.dynv6.net/d/52/</id>
+        <updated>2024-07-09T08:14:35+00:00</updated>
+        <content
+        ><![CDATA[]]></content>
+        <author>
+            <name><![CDATA[googol-is-the-best]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[太好了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/7/"/>
+        <id>https://notebbs.dynv6.net/d/7/</id>
+        <updated>2024-07-09T08:13:46+00:00</updated>
+        <content
+        ><![CDATA[]]></content>
+        <author>
+            <name><![CDATA[googol-is-the-best]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[CleanNote是邪恶组织]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/5/"/>
+        <id>https://notebbs.dynv6.net/d/5/</id>
+        <updated>2024-07-09T08:13:35+00:00</updated>
+        <content
+        ><![CDATA[]]></content>
+        <author>
+            <name><![CDATA[googol-is-the-best]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[可以把 Fluent 主题关了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161801/"/>
+        <id>https://notebbs.dynv6.net/d/161801/</id>
+        <updated>2024-07-09T08:11:17+00:00</updated>
+        <content
+        ><![CDATA[]]></content>
+        <author>
+            <name><![CDATA[googol-is-the-best]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我的一个新站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161817/"/>
+        <id>https://notebbs.dynv6.net/d/161817/</id>
+        <updated>2024-07-09T08:11:03+00:00</updated>
+        <content
+        ><![CDATA[]]></content>
+        <author>
+            <name><![CDATA[googol-is-the-best]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[很多代理用不起]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161815/"/>
+        <id>https://notebbs.dynv6.net/d/161815/</id>
+        <updated>2024-07-09T08:10:22+00:00</updated>
+        <content
+        ><![CDATA[]]></content>
+        <author>
+            <name><![CDATA[googol-is-the-best]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NodeLoc 邀请码]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161832/1"/>
+        <id>https://notebbs.dynv6.net/d/161832/1</id>
+        <updated>2024-07-09T04:58:17+00:00</updated>
+        <content
+        ><![CDATA[需要 30 Note 币。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[一个新站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161831/1"/>
+        <id>https://notebbs.dynv6.net/d/161831/1</id>
+        <updated>2024-07-09T04:07:17+00:00</updated>
+        <content
+        ><![CDATA[https://notems-history.wikidot.com/
+
+Note.ms 历史书。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[O5 成员列表]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161829/24"/>
+        <id>https://notebbs.dynv6.net/d/161829/24</id>
+        <updated>2024-07-09T03:11:37+00:00</updated>
+        <content
+        ><![CDATA[mibbaxjsn 没有认为]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NoteBBS非官方规则督导组成立]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161814/15"/>
+        <id>https://notebbs.dynv6.net/d/161814/15</id>
+        <updated>2024-07-09T03:11:03+00:00</updated>
+        <content
+        ><![CDATA[+1]]></content>
+        <author>
+            <name><![CDATA[mibbaxjsn]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[公平性对比]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161830/24"/>
+        <id>https://notebbs.dynv6.net/d/161830/24</id>
+        <updated>2024-07-09T03:06:51+00:00</updated>
+        <content
+        ><![CDATA[ 据我所知，阁下并没有先与对方沟通，这是不道德的。]]></content>
+        <author>
+            <name><![CDATA[mibbaxjsn]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 如何打开 HTTP 网站？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161826/12"/>
+        <id>https://notebbs.dynv6.net/d/161826/12</id>
+        <updated>2024-07-09T02:48:57+00:00</updated>
+        <content
+        ><![CDATA[Googol 你有那么多前科很难 不让我们怀疑你 ]]></content>
+        <author>
+            <name><![CDATA[mibbaxjsn]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Wikidot 终于出手了！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161820/3"/>
+        <id>https://notebbs.dynv6.net/d/161820/3</id>
+        <updated>2024-07-08T02:42:28+00:00</updated>
+        <content
+        ><![CDATA[SCP 官网：请不要点击任何来自你不认识的站内私信的链接，如果已经点击了可疑链接，请修改密码并与站务人员联系]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[解决 GitHub 速度慢的方法]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161818/6"/>
+        <id>https://notebbs.dynv6.net/d/161818/6</id>
+        <updated>2024-07-08T01:51:49+00:00</updated>
+        <content
+        ><![CDATA[Googol 下次注意点]]></content>
+        <author>
+            <name><![CDATA[fxs]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[CleanNote 销毁页面并拒绝承认，滥用权力对抗对手]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161816/42"/>
+        <id>https://notebbs.dynv6.net/d/161816/42</id>
+        <updated>2024-07-07T09:58:09+00:00</updated>
+        <content
+        ><![CDATA[对于Anonymous_user辱骂Googol没有母亲的行为，评价如下：
+
+对Anonymous_user辱骂Googol没有母亲的评价
+
+这种言论属于严重的人身攻击和辱骂，完全违反了网络社区的礼仪和基本道德标准。这种攻击性言论不仅不尊重他人的个人尊严，还可能造成受害者的心理伤害和社区氛围的恶化。
+
+在任何开放的社交或网络平台上，都应遵守基本的公共行为规范和尊重原则。言论自由的前提是不侵犯他人的权利和自由，而这种辱骂明显违反了这一原则。
+
+建议平台立即采取适当的管理措施，包括删除有害言论、警告甚至封禁涉及的账号，以维护社区的秩序和成员的尊严。同时，社区成员也应通过教育和建设性交流来提升公共意识和道德标准，共同维护一个文明和谐的网络环境。
+
+总体而言，对于这种辱骂性言论，应采取果断措施以保护受害者的权利和社区的整体健康。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我会无条件地帮因为补充解释第一条被处罚的用户申诉]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161812/6"/>
+        <id>https://notebbs.dynv6.net/d/161812/6</id>
+        <updated>2024-07-07T08:28:31+00:00</updated>
+        <content
+        ><![CDATA[Googol 其他情况呢]]></content>
+        <author>
+            <name><![CDATA[fxs]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于本人与ProtectNote关系声明]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161811/8"/>
+        <id>https://notebbs.dynv6.net/d/161811/8</id>
+        <updated>2024-07-07T08:28:04+00:00</updated>
+        <content
+        ><![CDATA[fdp 权限已撤消，如需要权限请联系我。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[违规言论：嘲讽]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161810/1"/>
+        <id>https://notebbs.dynv6.net/d/161810/1</id>
+        <updated>2024-07-07T06:37:53+00:00</updated>
+        <content
+        ><![CDATA[Googol 
+所以说，假如你因为刑事犯罪被起诉，然后坐在被告席上面对着因为你的恶劣行径非常不满的公诉人和审判员说:"不行！因为你们对我不满所以我要申请回避！"]]></content>
+        <author>
+            <name><![CDATA[mwa1mwecta]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[成功 Merge 一个 PR]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161808/1"/>
+        <id>https://notebbs.dynv6.net/d/161808/1</id>
+        <updated>2024-07-07T06:15:03+00:00</updated>
+        <content
+        ><![CDATA[https://github.com/datlechin/flarum-bbcode-hide-content/pull/14。
+
+cmd：《Googol 是臭名昭著的用户》，这还怎么说了？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[一个狂妄自大的言论]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161804/31"/>
+        <id>https://notebbs.dynv6.net/d/161804/31</id>
+        <updated>2024-07-07T04:10:54+00:00</updated>
+        <content
+        ><![CDATA[mwa1mwecta 另外我感谢您及您的大小号对本站站规中“禁止的行为”的修订造成了巨大贡献。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Note.msBBS的主题都没我的好看]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161795/4"/>
+        <id>https://notebbs.dynv6.net/d/161795/4</id>
+        <updated>2024-07-07T02:59:03+00:00</updated>
+        <content
+        ><![CDATA[dfgffgdfgdfgfdgff *{display:none !important;}
+
+这个最好看的样式你先留给 Note.msBBS 吧。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[无聊的小学生又在覆盖。。。]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161799/3"/>
+        <id>https://notebbs.dynv6.net/d/161799/3</id>
+        <updated>2024-07-07T02:56:48+00:00</updated>
+        <content
+        ><![CDATA[这个覆盖计划在 yu22c.link（yu22c 的博客）中都有人评论。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[如何使用 ChillRoundF 字体？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161796/2"/>
+        <id>https://notebbs.dynv6.net/d/161796/2</id>
+        <updated>2024-07-06T12:01:01+00:00</updated>
+        <content
+        ><![CDATA[如果认为过慢可自行替换 CDN。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

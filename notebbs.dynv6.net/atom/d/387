@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[BBCode 语法]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/387" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/387/" />
+    <id>https://notebbs.dynv6.net/atom/d/387</id>
+    <updated>2024-07-16T14:36:36+00:00</updated>
+
+        <entry>
+        <title><![CDATA[BBCode 语法]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/387/1"/>
+        <id>https://notebbs.dynv6.net/d/387/1</id>
+        <updated>2024-06-12T01:46:27+00:00</updated>
+        <content
+        ><![CDATA[一般基本的功能都可以用Markdown实现，但是还是有必要了解下BBCode。注意本论坛的一些语法与其他非Flarum论坛不兼容。
+对齐
+[center]居中文本[/center]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+居中文本
+
+文本
+[b]文本[/b]
+[i]文本[/i]
+[del]文本[/del]
+[color=颜色]文本[/color] &lt;!-- 此处以red为例 --&gt;
+[size=&lt;数字（px）&gt;]文本[/size] &lt;!-- 此处以20为例 --&gt;
+[quote=who]内容[/quote] &lt;!-- 一般写Markdown即可 --&gt;
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+文本
+文本
+文本
+文本 &lt;!-- 此处以red为例 --&gt;
+文本 &lt;!-- 此处以20为例 --&gt;
+who wrote内容 &lt;!-- 一般写Markdown即可 --&gt;
+
+警告框 (BBCode Alerts)
+基本
+[AWARNING]This is an AWARNING message.[/AWARNING]
+
+[ASUCCESS]This is an ASUCCESS message.[/ASUCCESS]
+
+[AINFO]This is an AINFO message.[/AINFO]
+
+[ABASIC]This is an ABASIC message.[/ABASIC]
+
+[ACUSTOM]red,black,green,This is an ACUSTOM message.[/ACUSTOM]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+Warning! This is an AWARNING message.
+
+This is an ASUCCESS message.
+
+This is an AINFO message.
+
+This is an ABASIC message.
+
+This is an ACUSTOM message.
+
+更好的
+[BWARNING]This is n BWARNING message.[/BWARNING]
+
+[BSUCCESS]This is a BSUCCESS message.[/BSUCCESS]
+
+[BERROR]This is a BERROR message.[/BERROR]
+
+[CWARNING]darkorange,white,darkorange,THIS IS A CWARNING TITLE,This is a CWARNING message.[/CWARNING]
+
+[CNOTICE]teal,white,teal,THIS IS A CNOTICE TITLE,This is a CNOTICE message.[/CNOTICE]
+
+[CERROR]red,white,red,THIS IS A CERROR TITLE,This is a CERROR message.[/CERROR]
+
+[CSUCCESS]green,white,green,THIS IS A CERROR TITLE,This is a CSUCCESS message.[/CSUCCESS]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+WARNING: This is n BWARNING message.
+
+SUCCESS: This is a BSUCCESS message.
+
+ERROR: This is a BERROR message.
+
+THIS IS A CWARNING TITLE: This is a CWARNING message.
+
+THIS IS A CNOTICE TITLE: This is a CNOTICE message.
+
+THIS IS A CERROR TITLE: This is a CERROR message.
+
+THIS IS A CERROR TITLE: This is a CSUCCESS message.
+增加的
+[BCUSTOM]title=THIS IS A BCUSTOM TITLE font=red bg=black border=green[/BCUSTOM]
+
+[DNOTICE title="This is a DNOTICE title" font="teal" bg="white" border="teal"]This is a DNOTICE message.[/DNOTICE]
+
+[DERROR title="This is a DERROR title" font="red" bg="white" border="red"]This is a DERROR message.[/DERROR]
+
+[DWARNING title="This is a DWARNING title" font="darkorange" bg="white" border="darkorange"]This is a DWARNING message.[/DWARNING]
+
+[DSUCCESS title="This is a DSUCCESS title" font="green" bg="white" border="green"]This is a DSUCCESS message.[/DSUCCESS]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+THIS IS A BCUSTOM TITLE
+
+This is a DNOTICE title: This is a DNOTICE message.
+
+This is a DERROR title: This is a DERROR message.
+
+This is a DWARNING title: This is a DWARNING message.
+
+This is a DSUCCESS title: This is a DSUCCESS message.
+
+Font Awesome
+Solid: [fas]circle[/fas]
+Regular: [far]circle[/far]
+Light: [fal]circle[/fal]
+Brand: [fab]github[/fab]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+Solid: 
+Regular: 
+Light: 
+Brand: 
+注意：仅支持 FREE 不支持 Pro 版本。
+
+限制查看
+你必须在登录后才能查看本内容: 不登录用户不得查看
+你必须在登录后才能查看本内容: 只有点赞本贴才能查看
+你必须在登录后才能查看本内容: 必须回复帖子才能查看
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+ 此内容需要登录后刷新才能查看: 不登录用户不得查看
+此内容需要赞后刷新才能查看: 只有点赞本贴才能查看
+ 此内容需要回复后刷新才能查看: 必须回复帖子才能查看
+注：版主和管理可无视点赞或回复条件
+
+BBCode More New
+右下角中BBCode More New图标（类似一个表格）可能观感不佳，不建议使用。
+[login]此内容只有登录才能查看[/login]
+[reply]此内容只有回复才能查看[/reply]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+ 此内容需要登录后刷新才能查看
+ 此内容需要回复后刷新才能查看
+网盘链接
+[cloud type=google title=title url=link]password[/cloud]
+[cloud type=one title=title url=link]password[/cloud]
+[cloud type=f title=title url=link]password[/cloud]
+[cloud type=mega title=title url=link]password[/cloud]
+[cloud type=dropbox title=title url=link]password[/cloud]
+[cloud type=mediafire title=title url=link]password[/cloud]
+
+[cloud type=lz title=title url=link]password[/cloud]
+[cloud type=123 title=title url=link]password[/cloud]
+[cloud type=ali title=title url=link]password[/cloud]
+[cloud type=bd title=title url=link]password[/cloud]
+[cloud type=ty title=title url=link]password[/cloud]
+[cloud type=360 title=title url=link]password[/cloud]
+[cloud type=ct title=title url=link]password[/cloud]
+[cloud type=tx title=title url=link]password[/cloud]
+[cloud type=kk title=title url=link]password[/cloud]
+[cloud type=other title=title url=link]password[/cloud]
+[cloud type=github title=title url=link]v1.0.0[/cloud]
+[cloud type=gitee title=title url=link]v1.0.0[/cloud]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+title | v1.0.0
+title | v1.0.0
+
+
+如果输入的名称不属于上面的要求，则：
+title | 内容
+
+
+示例（链接到 GitHub 的 Note Wiki 项目）
+[cloud type=github title=Note Wiki url=https://github.com/notewiki/notewiki.github.io]1.0.0[/cloud]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+Note Wiki | 1.0.0
+
+注意！此功能链接无法使用。所以使用时最好带有链接。
+
+标签
+[tabs]
+    [tab="CleanNote"]CleanNote是Note.ms的一个毁灭组织，其…………[/tab]
+    [tab="ProtectNote"]ProtectNote是一个Note.ms的保护组织，旨在保护组织免受CleanNote毁灭。[/tab]
+[/tabs]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+
+    CleanNoteCleanNote是Note.ms的一个毁灭组织，其…………
+    ProtectNoteProtectNote是一个Note.ms的保护组织，旨在保护组织免受CleanNote毁灭。
+
+
+需要展开的信息
+[details=TITLE]CONTENT[/details]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+TITLECONTENT
+
+进度条
+[PBAR]Total,70% Complete,black,red,pink,1,70,5,40[/PBAR]
+[PBAR]Front-end,30% Complete,black,blue,teal,1,30,10,80[/PBAR]
+[PBAR]Back-end,40% Complete,black,black,gray,1,40,20,0[/PBAR]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+Total70% Complete
+Front-end30% Complete
+Back-end40% Complete
+注：语法为
+[PBAR]标题,进度条内显示的文字,边框颜色,进度条颜色,进度条与白色之间的颜色,边框大小,百分比%,圆角（border-radius）,BottomMargin[/PBAR]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+剧透内容
+[spoiler]
+Some content
+[/spoiler]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+
+                            展开
+                        
+                            隐藏
+                        
+Some content
+
+
+与detail标签用法相同
+
+非BBCode
+标签
+语法：#标签名的slug
+示例站务版讨论版 
+代码：#admin #discuss
+可以通过点击标签名查看地址栏后面的值得知slug。
+
+TodoList
+使用 Markdown 语法。
+- [ ] 未完成
+- [x] 已完成
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+ 未完成
+ 已完成]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[论坛声明]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/185" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/185/" />
+    <id>https://notebbs.dynv6.net/atom/d/185</id>
+    <updated>2024-07-16T14:48:51+00:00</updated>
+
+        <entry>
+        <title><![CDATA[论坛声明]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/185/4"/>
+        <id>https://notebbs.dynv6.net/d/185/4</id>
+        <updated>2024-04-09T11:53:12+00:00</updated>
+        <content
+        ><![CDATA[asdf 其实我还能访问，已经把note.msBBS举报了。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[论坛声明]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/185/3"/>
+        <id>https://notebbs.dynv6.net/d/185/3</id>
+        <updated>2024-04-09T11:33:00+00:00</updated>
+        <content
+        ><![CDATA[Googol 炸了个头，只不过把你ban了]]></content>
+        <author>
+            <name><![CDATA[asdf]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[论坛声明]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/185/2"/>
+        <id>https://notebbs.dynv6.net/d/185/2</id>
+        <updated>2024-04-09T10:22:45+00:00</updated>
+        <content
+        ><![CDATA[而且note.msbbs炸了。
+只能用我bbs了。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[论坛声明]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/185/1"/>
+        <id>https://notebbs.dynv6.net/d/185/1</id>
+        <updated>2024-04-09T10:21:53+00:00</updated>
+        <content
+        ><![CDATA[本论坛不是由Googol开设的，也不是假论坛。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

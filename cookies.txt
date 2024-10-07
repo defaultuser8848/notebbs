@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cloudflare.cdnjson.com	TRUE	/	FALSE	1999999999	sl-session	YNziMKHVl2aiPmbaNJFQ5Q==
+notebbs.dynv6.net	TRUE	/	FALSE	1999999999	flarum_session	f9bjejKyOcPnZK6oemDSw5Sw9WShkcPT93QOLtHO
+notebbs.dynv6.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+

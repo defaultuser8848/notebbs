@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[《中立》？]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/445" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/445/" />
+    <id>https://notebbs.dynv6.net/atom/d/445</id>
+    <updated>2024-07-16T14:31:27+00:00</updated>
+
+        <entry>
+        <title><![CDATA[《中立》？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/445/2"/>
+        <id>https://notebbs.dynv6.net/d/445/2</id>
+        <updated>2024-06-18T10:08:25+00:00</updated>
+        <content
+        ><![CDATA[我认为应该举报对方：包含诽谤内容]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[《中立》？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/445/1"/>
+        <id>https://notebbs.dynv6.net/d/445/1</id>
+        <updated>2024-06-18T10:05:35+00:00</updated>
+        <content
+        ><![CDATA[https://*******.github.io/****** 对Googol事件的介绍中：
+在自己的页面上声称“我会尽量使用客观（其实是诽谤）的语言描述 Googol，但是可能依然存在个人观点。以下内容按时间顺序排序”，可其实几乎全是诽谤。
+
+“Googol的 notewiki （内容存在争议，谨慎对待）”，那么你的内容不也是很有争议吗，怎么不写？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

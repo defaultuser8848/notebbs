@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Less 手册]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161683" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161683/" />
+    <id>https://notebbs.dynv6.net/atom/d/161683</id>
+    <updated>2024-07-16T14:26:34+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Less 手册]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161683/1"/>
+        <id>https://notebbs.dynv6.net/d/161683/1</id>
+        <updated>2024-06-27T05:55:32+00:00</updated>
+        <content
+        ><![CDATA[ 此内容需要登录后刷新才能查看
+
+对于建站调 CSS 的人很有帮助。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

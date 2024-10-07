@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[暂时关闭验证码]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/426" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/426/" />
+    <id>https://notebbs.dynv6.net/atom/d/426</id>
+    <updated>2024-07-16T14:32:39+00:00</updated>
+
+        <entry>
+        <title><![CDATA[暂时关闭验证码]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/426/1"/>
+        <id>https://notebbs.dynv6.net/d/426/1</id>
+        <updated>2024-06-15T12:20:21+00:00</updated>
+        <content
+        ><![CDATA[如果有轰炸机，再开启。关闭是为了增强用户体验。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

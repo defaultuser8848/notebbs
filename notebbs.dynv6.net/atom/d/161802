@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[ProtectNote 页面加入请求小方块]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161802" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161802/" />
+    <id>https://notebbs.dynv6.net/atom/d/161802</id>
+    <updated>2024-07-16T14:07:52+00:00</updated>
+
+        <entry>
+        <title><![CDATA[ProtectNote 页面加入请求小方块]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161802/2"/>
+        <id>https://notebbs.dynv6.net/d/161802/2</id>
+        <updated>2024-07-07T03:36:44+00:00</updated>
+        <content
+        ><![CDATA[欢迎大家加入：https://note.freeflarum.com/d/325]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[ProtectNote 页面加入请求小方块]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161802/1"/>
+        <id>https://notebbs.dynv6.net/d/161802/1</id>
+        <updated>2024-07-07T03:07:08+00:00</updated>
+        <content
+        ><![CDATA[ --------------------------------------------------------------------
+| 您知道什么是CleanNote吗？                    //\\          |
+| 别以为它是一个清理页面的组织。           // \\          |
+| 它可是破坏页面的罪魁祸首！                 // !! \\         |
+| 我们正在设立ProtectNote，                  //   !  \\        |
+| 它是一个保护组织，                             ----------      | 
+| 如果你想要加入我们，请访问：                              |
+| https://note.freeflarum.com/d/325                           |
+ ------------------------------------------------------------------- 
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

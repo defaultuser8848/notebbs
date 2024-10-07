@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[论目前已知的技术]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/156" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/156/" />
+    <id>https://notebbs.dynv6.net/atom/d/156</id>
+    <updated>2024-07-16T14:52:01+00:00</updated>
+
+        <entry>
+        <title><![CDATA[论目前已知的技术]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/156/2"/>
+        <id>https://notebbs.dynv6.net/d/156/2</id>
+        <updated>2024-03-21T12:34:35+00:00</updated>
+        <content
+        ><![CDATA[http请求怎么写啊？]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[论目前已知的技术]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/156/1"/>
+        <id>https://notebbs.dynv6.net/d/156/1</id>
+        <updated>2024-03-21T12:34:19+00:00</updated>
+        <content
+        ><![CDATA[JavaScript
+Python
+PHP（会报403错误）]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+    
+</feed>

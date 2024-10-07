@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Googol需要你的协助]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/334" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/334/" />
+    <id>https://notebbs.dynv6.net/atom/d/334</id>
+    <updated>2024-07-16T14:38:43+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Googol需要你的协助]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/334/2"/>
+        <id>https://notebbs.dynv6.net/d/334/2</id>
+        <updated>2024-06-03T05:28:53+00:00</updated>
+        <content
+        ><![CDATA[对方继续辱骂他人，我们不知道是否是一个组织。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Googol需要你的协助]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/334/1"/>
+        <id>https://notebbs.dynv6.net/d/334/1</id>
+        <updated>2024-06-01T06:23:40+00:00</updated>
+        <content
+        ><![CDATA[最近，MelonCmd恶意的进行了在每个公用页面进行了错误的罪行描述（被xxxwiki封禁）。但是，我们需要声明：
+Googol不是Gongxiang01，没有任何证据
+这些都是丑化贡献
+
+但是，对方在所有/1-1000 /a-z /aa-zz 中覆盖了内容。我们没有办法全部重新覆盖，所以需要你们的协助。
+如果你发现任何这类内容，请将内容替换为：
+————————————————————————————————————
+                                目前 Googol 掌握了 /0 编辑的核心特殊技术
+                                                Googol 愿意提供本技术
+                                  如需技术，请前往 https://note.freeflarum.com
+————————————————————————————————————
+                                                          广告区
+————————————————————————————————————
+https://note.freeflarum.com                                                     公平的 note.ms 论坛
+————————————————————————————————————
+[用户名：&lt;你的用户名&gt;]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+用户名是可选的，但是如果你们做了，我们将不胜感激！如果你提供了用户名，我们发现可能会奖励用户部分Note 币。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

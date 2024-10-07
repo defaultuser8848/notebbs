@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[大家快水贴吧]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161720" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161720/" />
+    <id>https://notebbs.dynv6.net/atom/d/161720</id>
+    <updated>2024-07-16T14:22:48+00:00</updated>
+
+        <entry>
+        <title><![CDATA[大家快水贴吧]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161720/2"/>
+        <id>https://notebbs.dynv6.net/d/161720/2</id>
+        <updated>2024-06-28T13:02:00+00:00</updated>
+        <content
+        ><![CDATA[Googologyer 不是因为你们是一个人吗]]></content>
+        <author>
+            <name><![CDATA[zdfsdf]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[大家快水贴吧]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161720/1"/>
+        <id>https://notebbs.dynv6.net/d/161720/1</id>
+        <updated>2024-06-28T12:20:26+00:00</updated>
+        <content
+        ><![CDATA[现在几乎只有 @Googol 和我发帖了，大家能不能多发点帖子。这样能让别人认为这个论坛人多。]]></content>
+        <author>
+            <name><![CDATA[Googologyer]]></name>
+        </author>
+    </entry>
+    
+</feed>

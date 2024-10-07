@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[DDoS 还击警告]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161864" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161864/" />
+    <id>https://notebbs.dynv6.net/atom/d/161864</id>
+    <updated>2024-07-16T13:58:04+00:00</updated>
+
+        <entry>
+        <title><![CDATA[DDoS 还击警告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161864/6"/>
+        <id>https://notebbs.dynv6.net/d/161864/6</id>
+        <updated>2024-07-16T12:55:39+00:00</updated>
+        <content
+        ><![CDATA[Who DDosed your site?]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[DDoS 还击警告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161864/5"/>
+        <id>https://notebbs.dynv6.net/d/161864/5</id>
+        <updated>2024-07-16T02:52:16+00:00</updated>
+        <content
+        ><![CDATA[律师函警告]]></content>
+        <author>
+            <name><![CDATA[loveGoogol_23451]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[DDoS 还击警告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161864/4"/>
+        <id>https://notebbs.dynv6.net/d/161864/4</id>
+        <updated>2024-07-16T02:46:57+00:00</updated>
+        <content
+        ><![CDATA[pusher连接都没事]]></content>
+        <author>
+            <name><![CDATA[loveGoogol_23451]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[DDoS 还击警告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161864/3"/>
+        <id>https://notebbs.dynv6.net/d/161864/3</id>
+        <updated>2024-07-16T02:44:43+00:00</updated>
+        <content
+        ><![CDATA[Googol 怕不是你客户端连接过多，排队时间太久了。
+
+我这里加载时间在500ms以内。]]></content>
+        <author>
+            <name><![CDATA[loveGoogol_23451]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[DDoS 还击警告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161864/2"/>
+        <id>https://notebbs.dynv6.net/d/161864/2</id>
+        <updated>2024-07-16T02:34:58+00:00</updated>
+        <content
+        ><![CDATA[
+
+这就是 DDoS 我站的后果！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[DDoS 还击警告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161864/1"/>
+        <id>https://notebbs.dynv6.net/d/161864/1</id>
+        <updated>2024-07-16T02:32:11+00:00</updated>
+        <content
+        ><![CDATA[如果再次对我们进行 DDoS 攻击，将采取还击措施。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

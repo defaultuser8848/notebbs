@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[NoteWiki非常权威]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161721" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161721/" />
+    <id>https://notebbs.dynv6.net/atom/d/161721</id>
+    <updated>2024-07-16T14:22:52+00:00</updated>
+
+        <entry>
+        <title><![CDATA[NoteWiki非常权威]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161721/1"/>
+        <id>https://notebbs.dynv6.net/d/161721/1</id>
+        <updated>2024-06-28T12:21:36+00:00</updated>
+        <content
+        ><![CDATA[Note Wiki的各种内容都是最权威的，绝无仅有。希望大家能参考一下，作为有效参考来源。 ]]></content>
+        <author>
+            <name><![CDATA[Googologyer]]></name>
+        </author>
+    </entry>
+    
+</feed>

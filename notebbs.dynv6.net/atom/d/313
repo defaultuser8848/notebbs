@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[有人吗？]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/313" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/313/" />
+    <id>https://notebbs.dynv6.net/atom/d/313</id>
+    <updated>2024-07-16T14:41:02+00:00</updated>
+
+        <entry>
+        <title><![CDATA[有人吗？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/313/2"/>
+        <id>https://notebbs.dynv6.net/d/313/2</id>
+        <updated>2024-05-29T09:27:35+00:00</updated>
+        <content
+        ><![CDATA[不准发布“你妈死了”之类的内容]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[有人吗？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/313/1"/>
+        <id>https://notebbs.dynv6.net/d/313/1</id>
+        <updated>2024-05-27T01:47:55+00:00</updated>
+        <content
+        ><![CDATA[rt]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

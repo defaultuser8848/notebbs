@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[HackChat炸了]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/404" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/404/" />
+    <id>https://notebbs.dynv6.net/atom/d/404</id>
+    <updated>2024-07-16T14:35:58+00:00</updated>
+
+        <entry>
+        <title><![CDATA[HackChat炸了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/404/1"/>
+        <id>https://notebbs.dynv6.net/d/404/1</id>
+        <updated>2024-06-13T03:59:55+00:00</updated>
+        <content
+        ><![CDATA[HackChat目前已经无法访问。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

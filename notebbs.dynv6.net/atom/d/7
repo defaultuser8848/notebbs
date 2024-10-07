@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[太好了]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/7" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/7/" />
+    <id>https://notebbs.dynv6.net/atom/d/7</id>
+    <updated>2024-07-16T14:02:25+00:00</updated>
+
+        <entry>
+        <title><![CDATA[太好了]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/7/1"/>
+        <id>https://notebbs.dynv6.net/d/7/1</id>
+        <updated>2023-11-04T05:23:03+00:00</updated>
+        <content
+        ><![CDATA[yu22c不是管理员了。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

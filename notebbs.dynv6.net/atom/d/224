@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[《禁止访问 Note.msBBS》]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/224" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/224/" />
+    <id>https://notebbs.dynv6.net/atom/d/224</id>
+    <updated>2024-07-16T14:47:42+00:00</updated>
+
+        <entry>
+        <title><![CDATA[《禁止访问 Note.msBBS》]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/224/4"/>
+        <id>https://notebbs.dynv6.net/d/224/4</id>
+        <updated>2024-04-12T08:23:09+00:00</updated>
+        <content
+        ><![CDATA[我在 Note.msBBS 注册了一个账号 googolNoBan。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[《禁止访问 Note.msBBS》]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/224/2"/>
+        <id>https://notebbs.dynv6.net/d/224/2</id>
+        <updated>2024-04-12T08:08:42+00:00</updated>
+        <content
+        ><![CDATA[而且临时邮箱限制都能破解。
+封ip就是吓吓人而已，也不是真的。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[《禁止访问 Note.msBBS》]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/224/1"/>
+        <id>https://notebbs.dynv6.net/d/224/1</id>
+        <updated>2024-04-12T08:02:31+00:00</updated>
+        <content
+        ><![CDATA[照样能访问啊，注册都能成功。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

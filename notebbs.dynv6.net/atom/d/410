@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[”页面被Googol毁灭“为虚假内容]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/410" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/410/" />
+    <id>https://notebbs.dynv6.net/atom/d/410</id>
+    <updated>2024-07-16T14:35:21+00:00</updated>
+
+        <entry>
+        <title><![CDATA[”页面被Googol毁灭“为虚假内容]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/410/1"/>
+        <id>https://notebbs.dynv6.net/d/410/1</id>
+        <updated>2024-06-13T12:10:29+00:00</updated>
+        <content
+        ><![CDATA[本页面被Googol毁灭，就算是老天爷来了也没有用。
+快去https://[连接删除].com
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+均为虚假内容，请注意辨别。如果您的页面被毁灭，请联系ProtectNote帮助恢复。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

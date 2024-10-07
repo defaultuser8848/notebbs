@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[一个在 Note.ms 中有代码的地方打广告的建议]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/437" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/437/" />
+    <id>https://notebbs.dynv6.net/atom/d/437</id>
+    <updated>2024-07-16T14:31:04+00:00</updated>
+
+        <entry>
+        <title><![CDATA[一个在 Note.ms 中有代码的地方打广告的建议]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/437/1"/>
+        <id>https://notebbs.dynv6.net/d/437/1</id>
+        <updated>2024-06-17T02:23:47+00:00</updated>
+        <content
+        ><![CDATA[建议把广告放进注释里面。自己手动加一个注释，里面放入广告。对方一般会全选、复制、粘贴。这样就不会影响到页面所有者。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

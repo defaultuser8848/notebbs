@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Note Wiki 正在收集组织信息]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/451" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/451/" />
+    <id>https://notebbs.dynv6.net/atom/d/451</id>
+    <updated>2024-07-16T14:31:09+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Note Wiki 正在收集组织信息]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/451/1"/>
+        <id>https://notebbs.dynv6.net/d/451/1</id>
+        <updated>2024-06-18T12:23:27+00:00</updated>
+        <content
+        ><![CDATA[如果你们有组织想让更多人知道，请提交修改请求或建议，我们会展示在Note Wiki。我们需要一个组织数据库。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

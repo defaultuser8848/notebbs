@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[The words of reporting the Note.msBBS]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161860" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161860/" />
+    <id>https://notebbs.dynv6.net/atom/d/161860</id>
+    <updated>2024-07-16T13:59:08+00:00</updated>
+
+        <entry>
+        <title><![CDATA[The words of reporting the Note.msBBS]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161860/1"/>
+        <id>https://notebbs.dynv6.net/d/161860/1</id>
+        <updated>2024-07-16T00:52:56+00:00</updated>
+        <content
+        ><![CDATA[Title: I report Note.msBBS is unfair competition
+
+
+Hi!
+
+I want report the forum Note.msBBS and URL is https://bbs.notems.xyz
+
+Recently, I was get the DDoS attack by Note.msBBS's group / 22c group. There is the evidence:
+
+Other, you can see at the IP to get more evidence.
+
+According to the ToS, 
+
+2.11. Right to Terminate Service⚓︎
+
+FreeFlarum reserves the right to cancel or suspend forums that it deems detrimental to its quality of service or reputation, at its sole discretion.
+
+So, what you will do it?]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

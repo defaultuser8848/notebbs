@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[谁支持Googol？]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161691" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161691/" />
+    <id>https://notebbs.dynv6.net/atom/d/161691</id>
+    <updated>2024-07-16T14:26:09+00:00</updated>
+
+        <entry>
+        <title><![CDATA[谁支持Googol？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161691/2"/>
+        <id>https://notebbs.dynv6.net/d/161691/2</id>
+        <updated>2024-06-28T01:41:14+00:00</updated>
+        <content
+        ><![CDATA[我支持你]]></content>
+        <author>
+            <name><![CDATA[Gongxiang01]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[谁支持Googol？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161691/1"/>
+        <id>https://notebbs.dynv6.net/d/161691/1</id>
+        <updated>2024-06-28T01:41:06+00:00</updated>
+        <content
+        ><![CDATA[很多人说我没人支持Googol、我已经臭名昭著，如果大家支持我，回复“我支持你”。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

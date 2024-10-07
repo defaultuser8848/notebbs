@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[【违规言论】@Test 违规言论大赏]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/298" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/298/" />
+    <id>https://notebbs.dynv6.net/atom/d/298</id>
+    <updated>2024-07-16T14:41:28+00:00</updated>
+
+        <entry>
+        <title><![CDATA[【违规言论】@Test 违规言论大赏]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/298/3"/>
+        <id>https://notebbs.dynv6.net/d/298/3</id>
+        <updated>2024-05-19T08:24:10+00:00</updated>
+        <content
+        ><![CDATA[Googol wmsl]]></content>
+        <author>
+            <name><![CDATA[Test]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[【违规言论】@Test 违规言论大赏]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/298/2"/>
+        <id>https://notebbs.dynv6.net/d/298/2</id>
+        <updated>2024-05-18T10:42:33+00:00</updated>
+        <content
+        ><![CDATA[请勿阴阳怪气，这属于侮辱，谢谢。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[【违规言论】@Test 违规言论大赏]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/298/1"/>
+        <id>https://notebbs.dynv6.net/d/298/1</id>
+        <updated>2024-05-18T09:36:00+00:00</updated>
+        <content
+        ><![CDATA[Googol 还说的一套一套的，现在人家关系早就好了。
+你觉得你很厉害是吗？
+就算是老天爷来了，他也跟你合作。
+jb玩意。]]></content>
+        <author>
+            <name><![CDATA[Test]]></name>
+        </author>
+    </entry>
+    
+</feed>

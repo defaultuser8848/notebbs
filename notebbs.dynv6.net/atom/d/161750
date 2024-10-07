@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[CORS 可以不需要服务器端允许]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161750" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161750/" />
+    <id>https://notebbs.dynv6.net/atom/d/161750</id>
+    <updated>2024-07-16T14:14:27+00:00</updated>
+
+        <entry>
+        <title><![CDATA[CORS 可以不需要服务器端允许]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161750/1"/>
+        <id>https://notebbs.dynv6.net/d/161750/1</id>
+        <updated>2024-07-02T12:43:51+00:00</updated>
+        <content
+        ><![CDATA[CORS 其实有浏览器插件可以不需要 CORS 请求头。但是为了保证安全性，建议只有需要的时候开启或者设置仅特点站点允许（如果可能）。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

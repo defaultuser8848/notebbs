@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[新的 Flarum/FreeFlarum 主题 - HubUi-X]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161788" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161788/" />
+    <id>https://notebbs.dynv6.net/atom/d/161788</id>
+    <updated>2024-07-16T13:57:27+00:00</updated>
+
+        <entry>
+        <title><![CDATA[新的 Flarum/FreeFlarum 主题 - HubUi-X]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161788/5"/>
+        <id>https://notebbs.dynv6.net/d/161788/5</id>
+        <updated>2024-07-16T13:06:45+00:00</updated>
+        <content
+        ><![CDATA[I think 14569 shoudn't give the code to Googol.]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[新的 Flarum/FreeFlarum 主题 - HubUi-X]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161788/4"/>
+        <id>https://notebbs.dynv6.net/d/161788/4</id>
+        <updated>2024-07-06T01:22:22+00:00</updated>
+        <content
+        ><![CDATA[我对一些代码进行了小调整。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[新的 Flarum/FreeFlarum 主题 - HubUi-X]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161788/3"/>
+        <id>https://notebbs.dynv6.net/d/161788/3</id>
+        <updated>2024-07-06T01:17:09+00:00</updated>
+        <content
+        ><![CDATA[我改了一下边框尺寸，边框太大了不好看。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[新的 Flarum/FreeFlarum 主题 - HubUi-X]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161788/2"/>
+        <id>https://notebbs.dynv6.net/d/161788/2</id>
+        <updated>2024-07-06T01:15:44+00:00</updated>
+        <content
+        ><![CDATA[谢谢！已使用]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[新的 Flarum/FreeFlarum 主题 - HubUi-X]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161788/1"/>
+        <id>https://notebbs.dynv6.net/d/161788/1</id>
+        <updated>2024-07-05T15:21:52+00:00</updated>
+        <content
+        ><![CDATA[HubUi-X
+
+第一代 ThemeHub 样式主题，将您的 Flarum 用户体验提升到一个全新水平！
+这是参考 Asirem、OXO、Fluent 和其他主题设计的，使用这款样式，它将为您带来现代、柔和的社区体验。
+
+内容覆盖
+
+横幅
+导航栏
+讨论列表
+标签列表
+帖子
+按钮
+Afrux 小组件
+
+屏幕截图
+
+
+
+
+
+
+样式安装
+
+请前往 原贴 查看安装教程。]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+    
+</feed>

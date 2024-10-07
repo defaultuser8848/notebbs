@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[关于jc的声明]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/8" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/8/" />
+    <id>https://notebbs.dynv6.net/atom/d/8</id>
+    <updated>2024-07-16T14:53:00+00:00</updated>
+
+        <entry>
+        <title><![CDATA[关于jc的声明]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/8/4"/>
+        <id>https://notebbs.dynv6.net/d/8/4</id>
+        <updated>2023-11-05T12:49:40+00:00</updated>
+        <content
+        ><![CDATA[在HcBBs，版主可以改别人的贴子。所以HcBBs的内容也不要相信。任何版主都有可能是jcer。尽量不要相信jc的言论。
+https://notebbs.v6.rocks 的内容也不要相信。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于jc的声明]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/8/3"/>
+        <id>https://notebbs.dynv6.net/d/8/3</id>
+        <updated>2023-11-05T02:44:41+00:00</updated>
+        <content
+        ><![CDATA[真是的！CBox存在大量违规内容。
+]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于jc的声明]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/8/2"/>
+        <id>https://notebbs.dynv6.net/d/8/2</id>
+        <updated>2023-11-04T09:12:20+00:00</updated>
+        <content
+        ><![CDATA[Cbox已经举报了]]></content>
+        <author>
+            <name><![CDATA[yu22c-fake]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于jc的声明]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/8/1"/>
+        <id>https://notebbs.dynv6.net/d/8/1</id>
+        <updated>2023-11-04T08:39:48+00:00</updated>
+        <content
+        ><![CDATA[我在 https://yu22c.link 被 jc，里面所有最新消息均不可信，包括Cbox聊天室]]></content>
+        <author>
+            <name><![CDATA[yu22c-fake]]></name>
+        </author>
+    </entry>
+    
+</feed>

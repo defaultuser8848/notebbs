@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[已知MelonCmd的破坏记录]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161754" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161754/" />
+    <id>https://notebbs.dynv6.net/atom/d/161754</id>
+    <updated>2024-07-16T14:14:15+00:00</updated>
+
+        <entry>
+        <title><![CDATA[已知MelonCmd的破坏记录]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161754/1"/>
+        <id>https://notebbs.dynv6.net/d/161754/1</id>
+        <updated>2024-07-03T03:41:27+00:00</updated>
+        <content
+        ><![CDATA[/ProtectNote
+/chating
+/googol
+
+破坏内容：
+请注意防范 Googol 的一系列破坏者： [链接删除]
+值得一提的是，你看见的此页面已先被 Googol 破坏，然后我们使用这些内容填充了这里
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+
+我们对 MelonCmd 表示强烈的制裁！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

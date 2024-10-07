@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[大数组织开张]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/53" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/53/" />
+    <id>https://notebbs.dynv6.net/atom/d/53</id>
+    <updated>2024-07-16T14:52:47+00:00</updated>
+
+        <entry>
+        <title><![CDATA[大数组织开张]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/53/1"/>
+        <id>https://notebbs.dynv6.net/d/53/1</id>
+        <updated>2024-02-12T03:37:23+00:00</updated>
+        <content
+        ><![CDATA[所有用户名为数词的，均可参加本组织成为大数成员。当然不是的，也可以成为普通成员。
+本组织将在Note.ms宣传大数以及各种活动。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+    
+</feed>

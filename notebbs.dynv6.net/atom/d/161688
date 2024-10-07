@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[扩展求 Upvote]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161688" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161688/" />
+    <id>https://notebbs.dynv6.net/atom/d/161688</id>
+    <updated>2024-07-16T14:18:31+00:00</updated>
+
+        <entry>
+        <title><![CDATA[扩展求 Upvote]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161688/4"/>
+        <id>https://notebbs.dynv6.net/d/161688/4</id>
+        <updated>2024-07-01T05:24:57+00:00</updated>
+        <content
+        ><![CDATA[建议在 https://discus.freeflarum.com/t/extension 中发帖，并推广 https://discus.freeflarum.com，让更多人看见专用扩展互助的标签。]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[扩展求 Upvote]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161688/3"/>
+        <id>https://notebbs.dynv6.net/d/161688/3</id>
+        <updated>2024-06-28T12:19:33+00:00</updated>
+        <content
+        ><![CDATA[顶]]></content>
+        <author>
+            <name><![CDATA[Googologyer]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[扩展求 Upvote]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161688/2"/>
+        <id>https://notebbs.dynv6.net/d/161688/2</id>
+        <updated>2024-06-27T10:44:32+00:00</updated>
+        <content
+        ><![CDATA[还有这个：https://support.freeflarum.com/d/185-subasteveflarum-action-log/3]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[扩展求 Upvote]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161688/1"/>
+        <id>https://notebbs.dynv6.net/d/161688/1</id>
+        <updated>2024-06-27T10:38:43+00:00</updated>
+        <content
+        ><![CDATA[https://support.freeflarum.com/d/126-foskymnickname-group-formatter
+这个扩展很好，希望大家帮我投upvote。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

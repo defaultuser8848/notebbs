@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[分站迁址]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/235" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/235/" />
+    <id>https://notebbs.dynv6.net/atom/d/235</id>
+    <updated>2024-07-16T14:45:24+00:00</updated>
+
+        <entry>
+        <title><![CDATA[分站迁址]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/235/2"/>
+        <id>https://notebbs.dynv6.net/d/235/2</id>
+        <updated>2024-04-23T05:21:02+00:00</updated>
+        <content
+        ><![CDATA[好]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[分站迁址]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/235/1"/>
+        <id>https://notebbs.dynv6.net/d/235/1</id>
+        <updated>2024-04-23T05:19:20+00:00</updated>
+        <content
+        ><![CDATA[因cloud系列域名被墙，故迁移至note4.freeflarum.com
+@Admins @验证组  @超级版主组  @讨论版主组 ]]></content>
+        <author>
+            <name><![CDATA[fdp]]></name>
+        </author>
+    </entry>
+    
+</feed>

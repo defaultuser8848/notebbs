@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[关于用户名禁止使用“fuck”漏洞已经提交]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/197" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/197/" />
+    <id>https://notebbs.dynv6.net/atom/d/197</id>
+    <updated>2024-07-16T14:48:36+00:00</updated>
+
+        <entry>
+        <title><![CDATA[关于用户名禁止使用“fuck”漏洞已经提交]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/197/4"/>
+        <id>https://notebbs.dynv6.net/d/197/4</id>
+        <updated>2024-04-11T17:03:36+00:00</updated>
+        <content
+        ><![CDATA[9]]></content>
+        <author>
+            <name><![CDATA[LoveGoogol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于用户名禁止使用“fuck”漏洞已经提交]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/197/3"/>
+        <id>https://notebbs.dynv6.net/d/197/3</id>
+        <updated>2024-04-11T17:03:21+00:00</updated>
+        <content
+        ><![CDATA[14]]></content>
+        <author>
+            <name><![CDATA[LoveGoogol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于用户名禁止使用“fuck”漏洞已经提交]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/197/1"/>
+        <id>https://notebbs.dynv6.net/d/197/1</id>
+        <updated>2024-04-11T06:08:12+00:00</updated>
+        <content
+        ><![CDATA[https://discuss.flarum.org/d/28330-username-blacklist-during-signup/10]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

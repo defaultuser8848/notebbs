@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[关于BBCode语法]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/247" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/247/" />
+    <id>https://notebbs.dynv6.net/atom/d/247</id>
+    <updated>2024-07-16T14:44:02+00:00</updated>
+
+        <entry>
+        <title><![CDATA[关于BBCode语法]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/247/1"/>
+        <id>https://notebbs.dynv6.net/d/247/1</id>
+        <updated>2024-05-02T06:36:09+00:00</updated>
+        <content
+        ><![CDATA[Basic Notification Alerts:
+
+[AWARNING]This is an AWARNING message.[/AWARNING]
+
+[ASUCCESS]This is an ASUCCESS message.[/ASUCCESS]
+
+[AINFO]This is an AINFO message.[/AINFO]
+
+[ABASIC]This is an ABASIC message.[/ABASIC]
+
+[ACUSTOM]red,black,green,This is an ACUSTOM message.[/ACUSTOM]
+
+More Styled Notifications:
+
+[BWARNING]This is n BWARNING message.[/BWARNING]
+
+[BSUCCESS]This is a BSUCCESS message.[/BSUCCESS]
+
+[BERROR]This is a BERROR message.[/BERROR]
+
+[CWARNING]darkorange,white,darkorange,THIS IS A CWARNING TITLE,This is a CWARNING message.[/CWARNING]
+
+[CNOTICE]teal,white,teal,THIS IS A CNOTICE TITLE,This is a CNOTICE message.[/CNOTICE]
+
+[CERROR]red,white,red,THIS IS A CERROR TITLE,This is a CERROR message.[/CERROR]
+
+[CSUCCESS]green,white,green,THIS IS A CERROR TITLE,This is a CSUCCESS message.[/CSUCCESS]
+
+Added Proper BBCode Formatting (Thanks to JoshyPHP):
+
+[BCUSTOM]title=THIS IS A BCUSTOM TITLE font=red bg=black border=green[/BCUSTOM]
+
+[DNOTICE title="This is a DNOTICE title" font="teal" bg="white" border="teal"]This is a DNOTICE message.[/DNOTICE]
+
+[DERROR title="This is a DERROR title" font="red" bg="white" border="red"]This is a DERROR message.[/DERROR]
+
+[DWARNING title="This is a DWARNING title" font="darkorange" bg="white" border="darkorange"]This is a DWARNING message.[/DWARNING]
+
+[DSUCCESS title="This is a DSUCCESS title" font="green" bg="white" border="green"]This is a DSUCCESS message.[/DSUCCESS]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+Basic Notification Alerts:
+
+Warning! This is an AWARNING message.
+
+This is an ASUCCESS message.
+
+This is an AINFO message.
+
+This is an ABASIC message.
+
+This is an ACUSTOM message.
+
+More Styled Notifications:
+
+WARNING: This is n BWARNING message.
+
+SUCCESS: This is a BSUCCESS message.
+
+ERROR: This is a BERROR message.
+
+THIS IS A CWARNING TITLE: This is a CWARNING message.
+
+THIS IS A CNOTICE TITLE: This is a CNOTICE message.
+
+THIS IS A CERROR TITLE: This is a CERROR message.
+
+THIS IS A CERROR TITLE: This is a CSUCCESS message.
+
+Added Proper BBCode Formatting (Thanks to JoshyPHP):
+
+THIS IS A BCUSTOM TITLE
+
+This is a DNOTICE title: This is a DNOTICE message.
+
+This is a DERROR title: This is a DERROR message.
+
+This is a DWARNING title: This is a DWARNING message.
+
+This is a DSUCCESS title: This is a DSUCCESS message.]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[/chating 页面长时间被毁灭]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161669" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161669/" />
+    <id>https://notebbs.dynv6.net/atom/d/161669</id>
+    <updated>2024-07-16T14:26:40+00:00</updated>
+
+        <entry>
+        <title><![CDATA[/chating 页面长时间被毁灭]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161669/2"/>
+        <id>https://notebbs.dynv6.net/d/161669/2</id>
+        <updated>2024-06-26T03:29:23+00:00</updated>
+        <content
+        ><![CDATA[https://write-in-paper.wikidot.com/chating-notems-backup
+这里是WIP的备份。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[/chating 页面长时间被毁灭]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161669/1"/>
+        <id>https://notebbs.dynv6.net/d/161669/1</id>
+        <updated>2024-06-26T03:27:03+00:00</updated>
+        <content
+        ><![CDATA[最近，我们发现/chating 长时间被他人恶意清空，我们不知道是谁。但是我们作为ProtectNote，一定要恢复这种破坏。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

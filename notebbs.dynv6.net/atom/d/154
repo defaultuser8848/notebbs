@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[新的wiki]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/154" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/154/" />
+    <id>https://notebbs.dynv6.net/atom/d/154</id>
+    <updated>2024-07-16T14:51:01+00:00</updated>
+
+        <entry>
+        <title><![CDATA[新的wiki]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/154/4"/>
+        <id>https://notebbs.dynv6.net/d/154/4</id>
+        <updated>2024-03-26T12:40:03+00:00</updated>
+        <content
+        ><![CDATA[ipban]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[新的wiki]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/154/3"/>
+        <id>https://notebbs.dynv6.net/d/154/3</id>
+        <updated>2024-03-21T12:16:38+00:00</updated>
+        <content
+        ><![CDATA[asdf 他说是[[Help:vandalism]]，其实不然。只是一些破坏者的恶意举报而已。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[新的wiki]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/154/2"/>
+        <id>https://notebbs.dynv6.net/d/154/2</id>
+        <updated>2024-03-21T12:12:17+00:00</updated>
+        <content
+        ><![CDATA[admin 旧Fandom Wiki恶意全域封禁Gongxiang01
+
+干的漂亮！
+
+
+标题建议改为“新的轰炸靶标！”]]></content>
+        <author>
+            <name><![CDATA[asdf]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[新的wiki]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/154/1"/>
+        <id>https://notebbs.dynv6.net/d/154/1</id>
+        <updated>2024-03-21T08:07:39+00:00</updated>
+        <content
+        ><![CDATA[旧Fandom Wiki恶意全域封禁Gongxiang01，所以我们重开了一个wiki：
+http://googol.ccccocccc.cc]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+    
+</feed>

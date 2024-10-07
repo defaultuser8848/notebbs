@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[解决 GitHub 速度慢的方法]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161818" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161818/" />
+    <id>https://notebbs.dynv6.net/atom/d/161818</id>
+    <updated>2024-07-16T14:05:52+00:00</updated>
+
+        <entry>
+        <title><![CDATA[解决 GitHub 速度慢的方法]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161818/6"/>
+        <id>https://notebbs.dynv6.net/d/161818/6</id>
+        <updated>2024-07-08T01:51:49+00:00</updated>
+        <content
+        ><![CDATA[Googol 下次注意点]]></content>
+        <author>
+            <name><![CDATA[fxs]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[解决 GitHub 速度慢的方法]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161818/5"/>
+        <id>https://notebbs.dynv6.net/d/161818/5</id>
+        <updated>2024-07-08T01:51:11+00:00</updated>
+        <content
+        ><![CDATA[https://github.com/521xueweihan/GitHub520
+
+# GitHub520 Host Start
+140.82.112.26                 alive.github.com
+140.82.114.5                  api.github.com
+185.199.110.153               assets-cdn.github.com
+185.199.111.133               avatars.githubusercontent.com
+185.199.111.133               avatars0.githubusercontent.com
+185.199.108.133               avatars1.githubusercontent.com
+185.199.108.133               avatars2.githubusercontent.com
+185.199.111.133               avatars3.githubusercontent.com
+185.199.108.133               avatars4.githubusercontent.com
+185.199.111.133               avatars5.githubusercontent.com
+185.199.111.133               camo.githubusercontent.com
+140.82.113.21                 central.github.com
+185.199.111.133               cloud.githubusercontent.com
+140.82.114.9                  codeload.github.com
+140.82.113.22                 collector.github.com
+185.199.108.133               desktop.githubusercontent.com
+185.199.108.133               favicons.githubusercontent.com
+140.82.112.4                  gist.github.com
+16.182.39.185                 github-cloud.s3.amazonaws.com
+3.5.28.243                    github-com.s3.amazonaws.com
+16.182.65.201                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.138.81                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.161.33                 github-production-user-asset-6210df.s3.amazonaws.com
+192.0.66.2                    github.blog
+140.82.113.3                  github.com
+140.82.114.17                 github.community
+185.199.109.154               github.githubassets.com
+151.101.193.194               github.global.ssl.fastly.net
+185.199.109.153               github.io
+185.199.111.133               github.map.fastly.net
+185.199.109.153               githubstatus.com
+140.82.113.26                 live.github.com
+185.199.111.133               media.githubusercontent.com
+185.199.111.133               objects.githubusercontent.com
+13.107.42.16                  pipelines.actions.githubusercontent.com
+185.199.111.133               raw.githubusercontent.com
+185.199.111.133               user-images.githubusercontent.com
+140.82.112.21                 education.github.com
+185.199.111.133               private-user-images.githubusercontent.com
+
+
+# Update time: 2024-07-08T08:22:08+08:00
+# Update url: https://raw.hellogithub.com/hosts
+# Star me: https://github.com/521xueweihan/GitHub520
+# GitHub520 Host End
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[解决 GitHub 速度慢的方法]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161818/4"/>
+        <id>https://notebbs.dynv6.net/d/161818/4</id>
+        <updated>2024-07-08T01:26:47+00:00</updated>
+        <content
+        ><![CDATA[这样直接hosts解析失败，然后就废了。
+希望你在技术问题上面自己先研究清楚。]]></content>
+        <author>
+            <name><![CDATA[fxs]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[解决 GitHub 速度慢的方法]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161818/3"/>
+        <id>https://notebbs.dynv6.net/d/161818/3</id>
+        <updated>2024-07-08T01:24:22+00:00</updated>
+        <content
+        ><![CDATA[Googol 所以你确定hosts是添加网址而不是域名吗]]></content>
+        <author>
+            <name><![CDATA[fxs]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[解决 GitHub 速度慢的方法]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161818/2"/>
+        <id>https://notebbs.dynv6.net/d/161818/2</id>
+        <updated>2024-07-08T01:23:54+00:00</updated>
+        <content
+        ><![CDATA[还可以试试
+20.205.243.166 https://github.com
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[解决 GitHub 速度慢的方法]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161818/1"/>
+        <id>https://notebbs.dynv6.net/d/161818/1</id>
+        <updated>2024-07-08T01:13:29+00:00</updated>
+        <content
+        ><![CDATA[在 hosts 文件中添加以下内容即可：
+
+199.232.69.194 https://github.global.ssl.fastly.net
+140.82.114.4 https://github.com
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[CleanNote是邪恶组织]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/5" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/5/" />
+    <id>https://notebbs.dynv6.net/atom/d/5</id>
+    <updated>2024-07-16T14:02:27+00:00</updated>
+
+        <entry>
+        <title><![CDATA[CleanNote是邪恶组织]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/5/4"/>
+        <id>https://notebbs.dynv6.net/d/5/4</id>
+        <updated>2023-11-04T04:57:53+00:00</updated>
+        <content
+        ><![CDATA[admin random组织，新组织这样起名]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[CleanNote是邪恶组织]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/5/3"/>
+        <id>https://notebbs.dynv6.net/d/5/3</id>
+        <updated>2023-11-01T14:41:20+00:00</updated>
+        <content
+        ><![CDATA[这回又来个新组织删了]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[CleanNote是邪恶组织]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/5/1"/>
+        <id>https://notebbs.dynv6.net/d/5/1</id>
+        <updated>2023-11-01T05:38:35+00:00</updated>
+        <content
+        ><![CDATA[太坏了！把/chating之类的一些重要页面都给删了。
+咱们牢记历史，勿忘耻辱]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+    
+</feed>

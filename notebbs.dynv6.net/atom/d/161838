@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[关于 Gmail 的声明]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161838" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161838/" />
+    <id>https://notebbs.dynv6.net/atom/d/161838</id>
+    <updated>2024-07-16T14:00:05+00:00</updated>
+
+        <entry>
+        <title><![CDATA[关于 Gmail 的声明]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161838/3"/>
+        <id>https://notebbs.dynv6.net/d/161838/3</id>
+        <updated>2024-07-11T05:48:42+00:00</updated>
+        <content
+        ><![CDATA[googoloyer@gmail.com 也不是]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于 Gmail 的声明]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161838/2"/>
+        <id>https://notebbs.dynv6.net/d/161838/2</id>
+        <updated>2024-07-11T03:10:41+00:00</updated>
+        <content
+        ><![CDATA[Defaultuser6 恶意注册冒充性质用户名，对此表示强烈谴责！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于 Gmail 的声明]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161838/1"/>
+        <id>https://notebbs.dynv6.net/d/161838/1</id>
+        <updated>2024-07-11T03:08:05+00:00</updated>
+        <content
+        ><![CDATA[googologyer@gmail.com 不是我的 Gmail 账号，是 Defaultuser6 为冒充而注册的。
+
+证据：https://www.nodeloc.com/d/5783]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

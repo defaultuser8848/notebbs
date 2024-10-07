@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[我应该开几个小号]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161712" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161712/" />
+    <id>https://notebbs.dynv6.net/atom/d/161712</id>
+    <updated>2024-07-16T14:23:24+00:00</updated>
+
+        <entry>
+        <title><![CDATA[我应该开几个小号]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161712/2"/>
+        <id>https://notebbs.dynv6.net/d/161712/2</id>
+        <updated>2024-06-28T08:41:09+00:00</updated>
+        <content
+        ><![CDATA[然后扮演成很多不同的人，其实是同一人。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我应该开几个小号]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161712/1"/>
+        <id>https://notebbs.dynv6.net/d/161712/1</id>
+        <updated>2024-06-28T08:40:52+00:00</updated>
+        <content
+        ><![CDATA[rt，这样就能看起来好像很多人发帖一般。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

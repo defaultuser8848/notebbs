@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[关于谨防冒充的通知]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161643" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161643/" />
+    <id>https://notebbs.dynv6.net/atom/d/161643</id>
+    <updated>2024-07-16T14:30:40+00:00</updated>
+
+        <entry>
+        <title><![CDATA[关于谨防冒充的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161643/1"/>
+        <id>https://notebbs.dynv6.net/d/161643/1</id>
+        <updated>2024-06-23T11:23:25+00:00</updated>
+        <content
+        ><![CDATA[最近，有破坏分子通过用户名冒充Googol搞轰炸机，辱骂等活动。为了防止造成危害，谨记：一般情况（非盗号）所有非验证成员的Googol均为冒充！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

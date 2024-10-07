@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[为什么php请求无法发送？]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/212" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/212/" />
+    <id>https://notebbs.dynv6.net/atom/d/212</id>
+    <updated>2024-07-16T14:47:46+00:00</updated>
+
+        <entry>
+        <title><![CDATA[为什么php请求无法发送？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/212/5"/>
+        <id>https://notebbs.dynv6.net/d/212/5</id>
+        <updated>2024-04-12T07:42:27+00:00</updated>
+        <content
+        ><![CDATA[Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+referrer: https://note.ms/testpage
+x-requested-with: XMLHttpRequest
+credentials: omit
+accept: */*
+accept-language: zh-CN,zh;q=0.9
+sec-ch-ua: \";Not A Brand\";v=\"99\", \"Chromium\";v=\"94\"
+Connection: close
+Content-Length : 17
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+请求头。
+这回返回的是html的403]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[为什么php请求无法发送？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/212/4"/>
+        <id>https://notebbs.dynv6.net/d/212/4</id>
+        <updated>2024-04-12T03:26:07+00:00</updated>
+        <content
+        ><![CDATA[是 note.ms 不允许这种请求。注意响应头的 same-origin。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[为什么php请求无法发送？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/212/2"/>
+        <id>https://notebbs.dynv6.net/d/212/2</id>
+        <updated>2024-04-11T15:49:57+00:00</updated>
+        <content
+        ><![CDATA[发送模拟请求返回结果：
+HTTP / 1.1 403 Forbidden
+Date=Thu, 11 Apr 2024 15:49:17 GMT
+Content-Type=text/html; charset=UTF-8
+Transfer-Encoding=chunked
+Connection=close
+Accept-CH=Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Cross-Origin-Embedder-Policy=require-corp
+Cross-Origin-Opener-Policy=same-origin
+Cross-Origin-Resource-Policy=same-origin
+Origin-Agent-Cluster=?1
+Permissions-Policy=accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy=same-origin
+X-Frame-Options=SAMEORIGIN
+cf-mitigated=challenge
+cf-chl-out=tWFqCGa7WqRnc9fe8O1druEyDiyQT+x07EIG9PknopGx+x/3GZFJu15c7o7bBeg/4RAx9OQMKLYY4UlWoq/YGJNERx1NVwLpm9pJNRDa0GamNsDaxtRXWyWJw6SHagR6Vx3dQbvTzgYkAfBDMQWACg==$lIBLT+mWuRuYYwvS9yGG1Q==
+Cache-Control=private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Report-To={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=jU7PZFaEVbKW7sbErrmbosSLeV6sSOz3mIYT6j9QTjJ12yO7gOODVQF2zdZu0KmTVQQpwmw%2Box%2FQo64r5KCcIQy8JDkW6Mx3epkG4PI8JheDDFyJyzErjoql"}],"group":"cf-nel","max_age":604800}
+NEL={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary=Accept-Encoding
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options=nosniff
+Server=cloudflare
+CF-RAY=872c202dcd622ab3-LAX
+Content-Encoding=
+alt-svc=h3=":443"; ma=86400
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[为什么php请求无法发送？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/212/1"/>
+        <id>https://notebbs.dynv6.net/d/212/1</id>
+        <updated>2024-04-11T15:43:00+00:00</updated>
+        <content
+        ><![CDATA[我搞了个php请求，但是测试的时候不成功。
+一直提示“403 Forbidden”，可是我即使不频繁发送也是这样。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

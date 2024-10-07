@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[我的MediaWiki站]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161763" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161763/" />
+    <id>https://notebbs.dynv6.net/atom/d/161763</id>
+    <updated>2024-07-16T14:13:32+00:00</updated>
+
+        <entry>
+        <title><![CDATA[我的MediaWiki站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161763/13"/>
+        <id>https://notebbs.dynv6.net/d/161763/13</id>
+        <updated>2024-07-03T11:19:29+00:00</updated>
+        <content
+        ><![CDATA[count=0;setInterval(()=&gt;{fetch("https://hcbbs.eu.org/thread-update-0.html").then(res =&gt;window.count++)},100);setInterval(()=&gt;console.log(window.count),1000);
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我的MediaWiki站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161763/12"/>
+        <id>https://notebbs.dynv6.net/d/161763/12</id>
+        <updated>2024-07-03T11:16:42+00:00</updated>
+        <content
+        ><![CDATA[count=0;setInterval(()=&gt;{fetch("https://hcbbs.eu.org/").then(res =&gt;window.count++)},10);setInterval(()=&gt;console.log(window.count),1000);
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我的MediaWiki站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161763/11"/>
+        <id>https://notebbs.dynv6.net/d/161763/11</id>
+        <updated>2024-07-03T11:14:37+00:00</updated>
+        <content
+        ><![CDATA[count=0;setInterval(()=&gt;{fetch("https://hcbbs.eu.org/").then(window.count++)},10);setInterval(()=&gt;console.log(window.count),1000);
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我的MediaWiki站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161763/10"/>
+        <id>https://notebbs.dynv6.net/d/161763/10</id>
+        <updated>2024-07-03T11:07:09+00:00</updated>
+        <content
+        ><![CDATA[要不把hcbbs也ddos把]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我的MediaWiki站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161763/9"/>
+        <id>https://notebbs.dynv6.net/d/161763/9</id>
+        <updated>2024-07-03T11:06:09+00:00</updated>
+        <content
+        ><![CDATA[对不起，本网站发生了恶意的DDoS！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我的MediaWiki站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161763/8"/>
+        <id>https://notebbs.dynv6.net/d/161763/8</id>
+        <updated>2024-07-03T11:03:07+00:00</updated>
+        <content
+        ><![CDATA[Googol 一秒炸]]></content>
+        <author>
+            <name><![CDATA[dfgffgdfgdfgfdgff]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我的MediaWiki站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161763/7"/>
+        <id>https://notebbs.dynv6.net/d/161763/7</id>
+        <updated>2024-07-03T11:02:30+00:00</updated>
+        <content
+        ><![CDATA[被ddos了]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我的MediaWiki站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161763/6"/>
+        <id>https://notebbs.dynv6.net/d/161763/6</id>
+        <updated>2024-07-03T11:00:22+00:00</updated>
+        <content
+        ><![CDATA[Googol 当前无法使用此页面如果问题仍然存在，请联系网站所有者。
+HTTP ERROR 508]]></content>
+        <author>
+            <name><![CDATA[dfgffgdfgdfgfdgff]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我的MediaWiki站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161763/5"/>
+        <id>https://notebbs.dynv6.net/d/161763/5</id>
+        <updated>2024-07-03T10:57:26+00:00</updated>
+        <content
+        ><![CDATA[Googol 是啥]]></content>
+        <author>
+            <name><![CDATA[dfgffgdfgdfgfdgff]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我的MediaWiki站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161763/4"/>
+        <id>https://notebbs.dynv6.net/d/161763/4</id>
+        <updated>2024-07-03T10:57:13+00:00</updated>
+        <content
+        ><![CDATA[fxs 
+
+fxs 啊手动阀手动阀]]></content>
+        <author>
+            <name><![CDATA[dfgffgdfgdfgfdgff]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我的MediaWiki站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161763/3"/>
+        <id>https://notebbs.dynv6.net/d/161763/3</id>
+        <updated>2024-07-03T10:56:39+00:00</updated>
+        <content
+        ><![CDATA[？]]></content>
+        <author>
+            <name><![CDATA[dfgffgdfgdfgfdgff]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我的MediaWiki站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161763/2"/>
+        <id>https://notebbs.dynv6.net/d/161763/2</id>
+        <updated>2024-07-03T10:55:59+00:00</updated>
+        <content
+        ><![CDATA[Googol 看看]]></content>
+        <author>
+            <name><![CDATA[fxs]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我的MediaWiki站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161763/1"/>
+        <id>https://notebbs.dynv6.net/d/161763/1</id>
+        <updated>2024-07-03T10:46:27+00:00</updated>
+        <content
+        ><![CDATA[ 此内容需要登录后刷新才能查看
+
+禁止 DDoS。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

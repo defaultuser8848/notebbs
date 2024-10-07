@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[admin 标签活动]]></title>
+    <subtitle><![CDATA[admin 标签新回帖]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/t/admin" rel="self" />
+    <link href="https://notebbs.dynv6.net/" />
+    <id>https://notebbs.dynv6.net/atom/t/admin</id>
+    <updated>2024-07-16T14:39:48+00:00</updated>
+
+        <entry>
+        <title><![CDATA[DDoS 还击警告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161864/6"/>
+        <id>https://notebbs.dynv6.net/d/161864/6</id>
+        <updated>2024-07-16T12:55:39+00:00</updated>
+        <content
+        ><![CDATA[Who DDosed your site?]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[打DDoS游击战]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161868/3"/>
+        <id>https://notebbs.dynv6.net/d/161868/3</id>
+        <updated>2024-07-16T12:53:48+00:00</updated>
+        <content
+        ><![CDATA[What did you say?]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[申请友链开放]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161866/1"/>
+        <id>https://notebbs.dynv6.net/d/161866/1</id>
+        <updated>2024-07-16T04:02:46+00:00</updated>
+        <content
+        ><![CDATA[规则：
+
+网站管理团队不得反对Googol。
+对应网站必须允许用户发布内容。
+不开放博客申请。
+你必须在网站中放置一个友情链接。
+网站管理员发布的内容不得违法违规。
+
+申请请在本贴回复，模板：
+
+网站名称：
+网站链接：
+网站介绍：
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[仇恨链接分级规则]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161858/8"/>
+        <id>https://notebbs.dynv6.net/d/161858/8</id>
+        <updated>2024-07-16T00:47:46+00:00</updated>
+        <content
+        ><![CDATA[loveGoogol_23451 你去看看 14569 的言论]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于即将对 145Hub 处罚的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161857/2"/>
+        <id>https://notebbs.dynv6.net/d/161857/2</id>
+        <updated>2024-07-15T10:24:46+00:00</updated>
+        <content
+        ><![CDATA[测试：https://145hub.freeflarum.com https://hubs.tkfly.top]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[网站域名迁址公告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161839/6"/>
+        <id>https://notebbs.dynv6.net/d/161839/6</id>
+        <updated>2024-07-13T10:37:42+00:00</updated>
+        <content
+        ><![CDATA[14569 原来也没有]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Au 轰炸机证据]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161844/1"/>
+        <id>https://notebbs.dynv6.net/d/161844/1</id>
+        <updated>2024-07-12T03:18:29+00:00</updated>
+        <content
+        ><![CDATA[
+
+注意邮箱地址的域名]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[第一波轰炸机处罚公告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/36/"/>
+        <id>https://notebbs.dynv6.net/d/36/</id>
+        <updated>2024-07-09T08:15:31+00:00</updated>
+        <content
+        ><![CDATA[]]></content>
+        <author>
+            <name><![CDATA[googol-is-the-best]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[站规第一版第四修正案]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/348/"/>
+        <id>https://notebbs.dynv6.net/d/348/</id>
+        <updated>2024-07-09T08:13:19+00:00</updated>
+        <content
+        ><![CDATA[]]></content>
+        <author>
+            <name><![CDATA[googol-is-the-best]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于永久封禁 fdp 的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161824/2"/>
+        <id>https://notebbs.dynv6.net/d/161824/2</id>
+        <updated>2024-07-08T04:01:17+00:00</updated>
+        <content
+        ><![CDATA[处罚其踢出 ProtectNote。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[权限变更记录]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/201/28"/>
+        <id>https://notebbs.dynv6.net/d/201/28</id>
+        <updated>2024-07-08T03:47:09+00:00</updated>
+        <content
+        ><![CDATA[撤销 @fdp 验证成员权限：经查，发现是被盗号 / CleanNote 的间谍。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于站务尽快实现论坛明确化的目标的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161806/157"/>
+        <id>https://notebbs.dynv6.net/d/161806/157</id>
+        <updated>2024-07-08T01:23:31+00:00</updated>
+        <content
+        ><![CDATA[Googol 
+对面是站务组投票才能覆盖，我也觉得确实该改一下。]]></content>
+        <author>
+            <name><![CDATA[fxs]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[申请贴：验证成员]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/199/16"/>
+        <id>https://notebbs.dynv6.net/d/199/16</id>
+        <updated>2024-07-08T00:32:38+00:00</updated>
+        <content
+        ><![CDATA[ncd 得分90，通过。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于暂时性增加 FoF Terms 的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161805/7"/>
+        <id>https://notebbs.dynv6.net/d/161805/7</id>
+        <updated>2024-07-07T04:13:47+00:00</updated>
+        <content
+        ><![CDATA[但是目前尽量不忽略规则了。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[更新日志]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/398/7"/>
+        <id>https://notebbs.dynv6.net/d/398/7</id>
+        <updated>2024-07-06T09:28:22+00:00</updated>
+        <content
+        ><![CDATA[v1.1.2
+使用了 ChillRoundF 字体。
+增加了更美观的字体。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[网站SEO怎么回事]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161775/4"/>
+        <id>https://notebbs.dynv6.net/d/161775/4</id>
+        <updated>2024-07-06T02:17:47+00:00</updated>
+        <content
+        ><![CDATA[https://cn.bing.com/search?q=site%3Anote.freeflarum.com&amp;qs=n&amp;form=QBRE&amp;sp=-1&amp;lq=0&amp;pq=site%3Anote.freeflarum.com&amp;sc=0-24&amp;sk=&amp;cvid=AF05390A1E374648AB8E360A33943F34&amp;ghsh=0&amp;ghacc=0&amp;ghpl=]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[失信黑名单]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161772/3"/>
+        <id>https://notebbs.dynv6.net/d/161772/3</id>
+        <updated>2024-07-05T06:35:52+00:00</updated>
+        <content
+        ><![CDATA[paper]]></content>
+        <author>
+            <name><![CDATA[cmd1152]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NoteBBS 聊天室]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/225/9"/>
+        <id>https://notebbs.dynv6.net/d/225/9</id>
+        <updated>2024-07-04T09:00:41+00:00</updated>
+        <content
+        ><![CDATA[更新：增加tailchat]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[谣言列表]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/180/11"/>
+        <id>https://notebbs.dynv6.net/d/180/11</id>
+        <updated>2024-06-28T12:17:47+00:00</updated>
+        <content
+        ><![CDATA[MelonCmd还不知道]]></content>
+        <author>
+            <name><![CDATA[Googologyer]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于本站承认组织的相关列表]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/200/6"/>
+        <id>https://notebbs.dynv6.net/d/200/6</id>
+        <updated>2024-06-28T12:08:20+00:00</updated>
+        <content
+        ><![CDATA[反对CleanNote，从我做起！]]></content>
+        <author>
+            <name><![CDATA[Googologyer]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于论坛所有权转移给Googol的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161654/4"/>
+        <id>https://notebbs.dynv6.net/d/161654/4</id>
+        <updated>2024-06-28T12:07:37+00:00</updated>
+        <content
+        ><![CDATA[支持！]]></content>
+        <author>
+            <name><![CDATA[Googologyer]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[站长违规告示板]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161718/2"/>
+        <id>https://notebbs.dynv6.net/d/161718/2</id>
+        <updated>2024-06-28T12:02:03+00:00</updated>
+        <content
+        ><![CDATA[你们也可以举报我]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[是否同意永久封禁22c系列用户？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161711/3"/>
+        <id>https://notebbs.dynv6.net/d/161711/3</id>
+        <updated>2024-06-28T09:21:18+00:00</updated>
+        <content
+        ><![CDATA[另外补充一条乱发标签]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于fdp账号很可能被盗的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161700/6"/>
+        <id>https://notebbs.dynv6.net/d/161700/6</id>
+        <updated>2024-06-28T04:46:22+00:00</updated>
+        <content
+        ><![CDATA[fxs 我开一个私密主题]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[站规更新通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161657/1"/>
+        <id>https://notebbs.dynv6.net/d/161657/1</id>
+        <updated>2024-06-25T07:07:38+00:00</updated>
+        <content
+        ><![CDATA[鄙视站规的，声称站规是“废纸”的。违反此项规则管理员应当警告，若因此警告5次可处以封禁1天的处罚。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于谨防冒充的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161643/1"/>
+        <id>https://notebbs.dynv6.net/d/161643/1</id>
+        <updated>2024-06-23T11:23:25+00:00</updated>
+        <content
+        ><![CDATA[最近，有破坏分子通过用户名冒充Googol搞轰炸机，辱骂等活动。为了防止造成危害，谨记：一般情况（非盗号）所有非验证成员的Googol均为冒充！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[验证码重新开启]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161639/1"/>
+        <id>https://notebbs.dynv6.net/d/161639/1</id>
+        <updated>2024-06-23T08:46:16+00:00</updated>
+        <content
+        ><![CDATA[最近处罚了一波轰炸机，全部删号了。为了防止再次发生，重新开验证码。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于论坛隐藏足迹的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/416/1"/>
+        <id>https://notebbs.dynv6.net/d/416/1</id>
+        <updated>2024-06-14T03:46:18+00:00</updated>
+        <content
+        ><![CDATA[由于开启足迹功能可能导致帖子的右侧快速定位到指定帖子的功能无法正常使用，所以关闭该功能。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[警告规则]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/403/1"/>
+        <id>https://notebbs.dynv6.net/d/403/1</id>
+        <updated>2024-06-13T02:49:34+00:00</updated>
+        <content
+        ><![CDATA[为了防止他人违反规则，版主及管理需要对违规者进行警告。但是切记尽量保持假定善意，除非其行为明显恶意。
+
+警告表单分为以下信息：
+警告分数：0~5，根据行为的严重程度和次数进行警告。如果轻微行为或者给予提醒请使用0分。
+用户批注：对于警告给予详细信息，必须保持填写。
+管理员批注：给出其计划、原因。以及只想给版主及管理员看的信息，注意不要再警告中写出威胁信息。
+
+警告规则
+对于警告，尽可能让违规者了解到自己违反的规则。
+不得因一个轻微的违规给予过高分数的警告，否则警告作废。
+警告的分数根据警告严重性决定。如果对方屡教不改根据同一违规理由的违规次数递增，但是必须保证对方行为的严重性极高。
+5分警告仅用于极其严重情况，无小号者第一次违规不得使用！
+不得同一次违规给予多个警告，站长团例外。
+管理员批注不得写出辱骂、人身攻击、威胁内容。否则作废。
+
+违规警告处罚
+对于不严重的违规，可以通过其他版主要求此版主撤销警告并重新编写警告理由，或者直接撤销。
+对于多次违反此规则的，版主可按照本规则警告相应版主。
+对于多次恶意违反的，有权限者可以撤销其权限。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[警告模板建议]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/402/1"/>
+        <id>https://notebbs.dynv6.net/d/402/1</id>
+        <updated>2024-06-13T02:28:51+00:00</updated>
+        <content
+        ><![CDATA[警告级别
+警告一般尽量假定善意，而警告需要根据严重性和次数警告。但是请不要仅仅根据次数警告，除非是恶意的。而且警告可以降级。
+1级：一个假定善意的提醒，包含善意的提示与礼貌的用语。
+2级：普通警告，没有任何恶意。要求他人注意。
+3级：要求对方立即停止行为，有一点恶意。所以一般情况下不建议使用本警告。
+4级：假定对方主观恶意，强烈要求对方禁止，否则可能会被处罚。
+5级：假定对方完全是为了毁灭论坛而来的。激烈的要求对方禁止，否则立即处罚。属于最后警告。
+唯一警告：在对方存在大量小号时使用。
+
+一般管理员可以使用 Moderator Warning 扩展发送站务警告，但是用户可针对某一帖子使用标签警告：
+1级：ASUCCESS
+2级：AINFO
+3级：Warning! AWARNING
+4级：ACUSTOM 包含参数 `white,red,blue,` 
+5级：ACUSTOM 包含参数 `red,black,red,`
+
+
+警告格式
+原因：{REASON}
+1级：您好，感谢您参与论坛，但是我不得不提醒您，请不要{DOWHAT}，谢谢配合。
+2级：您好，请不要随意{DOWHAT}，这种行为属于“{REASON}”。此类行为是本论坛{WHATDISABLED}的。谢谢配合。
+3级：请停止进行{REASON}行为！这涉嫌违反{WHATRULE}。谢谢。
+4级：请立即停止你的恶意{REASON}的行为！如果您再次进行此类行为将可能会被封禁！
+5级：请立即停止{WHAT}行为，这是我的最后一次警告！如果你再进行这类行为，我将立即对你封禁，届时将不予另行通知。
+唯一警告：请立即停止你的{REASON}行为！如果你继续进行此类行为，你将立即被封禁且不予另行通知！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[权限申请帖：免验证码]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/349/8"/>
+        <id>https://notebbs.dynv6.net/d/349/8</id>
+        <updated>2024-06-13T00:20:20+00:00</updated>
+        <content
+        ><![CDATA[Test 但是发帖需要。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[有人DDoS本论坛的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/396/4"/>
+        <id>https://notebbs.dynv6.net/d/396/4</id>
+        <updated>2024-06-13T00:09:05+00:00</updated>
+        <content
+        ><![CDATA[freeflarum的站长说有好几万的被CloudFlare查到的恶意事件。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[BBCode 语法]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/387/1"/>
+        <id>https://notebbs.dynv6.net/d/387/1</id>
+        <updated>2024-06-12T01:46:27+00:00</updated>
+        <content
+        ><![CDATA[一般基本的功能都可以用Markdown实现，但是还是有必要了解下BBCode。注意本论坛的一些语法与其他非Flarum论坛不兼容。
+对齐
+[center]居中文本[/center]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+居中文本
+
+文本
+[b]文本[/b]
+[i]文本[/i]
+[del]文本[/del]
+[color=颜色]文本[/color] &lt;!-- 此处以red为例 --&gt;
+[size=&lt;数字（px）&gt;]文本[/size] &lt;!-- 此处以20为例 --&gt;
+[quote=who]内容[/quote] &lt;!-- 一般写Markdown即可 --&gt;
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+文本
+文本
+文本
+文本 &lt;!-- 此处以red为例 --&gt;
+文本 &lt;!-- 此处以20为例 --&gt;
+who wrote内容 &lt;!-- 一般写Markdown即可 --&gt;
+
+警告框 (BBCode Alerts)
+基本
+[AWARNING]This is an AWARNING message.[/AWARNING]
+
+[ASUCCESS]This is an ASUCCESS message.[/ASUCCESS]
+
+[AINFO]This is an AINFO message.[/AINFO]
+
+[ABASIC]This is an ABASIC message.[/ABASIC]
+
+[ACUSTOM]red,black,green,This is an ACUSTOM message.[/ACUSTOM]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+Warning! This is an AWARNING message.
+
+This is an ASUCCESS message.
+
+This is an AINFO message.
+
+This is an ABASIC message.
+
+This is an ACUSTOM message.
+
+更好的
+[BWARNING]This is n BWARNING message.[/BWARNING]
+
+[BSUCCESS]This is a BSUCCESS message.[/BSUCCESS]
+
+[BERROR]This is a BERROR message.[/BERROR]
+
+[CWARNING]darkorange,white,darkorange,THIS IS A CWARNING TITLE,This is a CWARNING message.[/CWARNING]
+
+[CNOTICE]teal,white,teal,THIS IS A CNOTICE TITLE,This is a CNOTICE message.[/CNOTICE]
+
+[CERROR]red,white,red,THIS IS A CERROR TITLE,This is a CERROR message.[/CERROR]
+
+[CSUCCESS]green,white,green,THIS IS A CERROR TITLE,This is a CSUCCESS message.[/CSUCCESS]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+WARNING: This is n BWARNING message.
+
+SUCCESS: This is a BSUCCESS message.
+
+ERROR: This is a BERROR message.
+
+THIS IS A CWARNING TITLE: This is a CWARNING message.
+
+THIS IS A CNOTICE TITLE: This is a CNOTICE message.
+
+THIS IS A CERROR TITLE: This is a CERROR message.
+
+THIS IS A CERROR TITLE: This is a CSUCCESS message.
+增加的
+[BCUSTOM]title=THIS IS A BCUSTOM TITLE font=red bg=black border=green[/BCUSTOM]
+
+[DNOTICE title="This is a DNOTICE title" font="teal" bg="white" border="teal"]This is a DNOTICE message.[/DNOTICE]
+
+[DERROR title="This is a DERROR title" font="red" bg="white" border="red"]This is a DERROR message.[/DERROR]
+
+[DWARNING title="This is a DWARNING title" font="darkorange" bg="white" border="darkorange"]This is a DWARNING message.[/DWARNING]
+
+[DSUCCESS title="This is a DSUCCESS title" font="green" bg="white" border="green"]This is a DSUCCESS message.[/DSUCCESS]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+THIS IS A BCUSTOM TITLE
+
+This is a DNOTICE title: This is a DNOTICE message.
+
+This is a DERROR title: This is a DERROR message.
+
+This is a DWARNING title: This is a DWARNING message.
+
+This is a DSUCCESS title: This is a DSUCCESS message.
+
+Font Awesome
+Solid: [fas]circle[/fas]
+Regular: [far]circle[/far]
+Light: [fal]circle[/fal]
+Brand: [fab]github[/fab]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+Solid: 
+Regular: 
+Light: 
+Brand: 
+注意：仅支持 FREE 不支持 Pro 版本。
+
+限制查看
+[LOGIN]content to hide[/LOGIN]: 不登录用户不得查看
+[LIKE]content to hide[/LIKE]: 只有点赞本贴才能查看
+[REPLY]content to hide[/REPLY]: 必须回复帖子才能查看
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+ 此内容需要登录后刷新才能查看: 不登录用户不得查看
+此内容需要赞后刷新才能查看: 只有点赞本贴才能查看
+ 此内容需要回复后刷新才能查看: 必须回复帖子才能查看
+注：版主和管理可无视点赞或回复条件
+
+BBCode More New
+右下角中BBCode More New图标（类似一个表格）可能观感不佳，不建议使用。
+[login]此内容只有登录才能查看[/login]
+[reply]此内容只有回复才能查看[/reply]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+ 此内容需要登录后刷新才能查看
+ 此内容需要回复后刷新才能查看
+网盘链接
+[cloud type=google title=title url=link]password[/cloud]
+[cloud type=one title=title url=link]password[/cloud]
+[cloud type=f title=title url=link]password[/cloud]
+[cloud type=mega title=title url=link]password[/cloud]
+[cloud type=dropbox title=title url=link]password[/cloud]
+[cloud type=mediafire title=title url=link]password[/cloud]
+
+[cloud type=lz title=title url=link]password[/cloud]
+[cloud type=123 title=title url=link]password[/cloud]
+[cloud type=ali title=title url=link]password[/cloud]
+[cloud type=bd title=title url=link]password[/cloud]
+[cloud type=ty title=title url=link]password[/cloud]
+[cloud type=360 title=title url=link]password[/cloud]
+[cloud type=ct title=title url=link]password[/cloud]
+[cloud type=tx title=title url=link]password[/cloud]
+[cloud type=kk title=title url=link]password[/cloud]
+[cloud type=other title=title url=link]password[/cloud]
+[cloud type=github title=title url=link]v1.0.0[/cloud]
+[cloud type=gitee title=title url=link]v1.0.0[/cloud]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+title | v1.0.0
+title | v1.0.0
+
+
+如果输入的名称不属于上面的要求，则：
+title | 内容
+
+
+示例（链接到 GitHub 的 Note Wiki 项目）
+[cloud type=github title=Note Wiki url=https://github.com/notewiki/notewiki.github.io]1.0.0[/cloud]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+Note Wiki | 1.0.0
+
+注意！此功能链接无法使用。所以使用时最好带有链接。
+
+标签
+[tabs]
+    [tab="CleanNote"]CleanNote是Note.ms的一个毁灭组织，其…………[/tab]
+    [tab="ProtectNote"]ProtectNote是一个Note.ms的保护组织，旨在保护组织免受CleanNote毁灭。[/tab]
+[/tabs]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+
+    CleanNoteCleanNote是Note.ms的一个毁灭组织，其…………
+    ProtectNoteProtectNote是一个Note.ms的保护组织，旨在保护组织免受CleanNote毁灭。
+
+
+需要展开的信息
+[details=TITLE]CONTENT[/details]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+TITLECONTENT
+
+进度条
+[PBAR]Total,70% Complete,black,red,pink,1,70,5,40[/PBAR]
+[PBAR]Front-end,30% Complete,black,blue,teal,1,30,10,80[/PBAR]
+[PBAR]Back-end,40% Complete,black,black,gray,1,40,20,0[/PBAR]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+Total70% Complete
+Front-end30% Complete
+Back-end40% Complete
+注：语法为
+[PBAR]标题,进度条内显示的文字,边框颜色,进度条颜色,进度条与白色之间的颜色,边框大小,百分比%,圆角（border-radius）,BottomMargin[/PBAR]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+剧透内容
+[spoiler]
+Some content
+[/spoiler]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+
+                            展开
+                        
+                            隐藏
+                        
+Some content
+
+
+与detail标签用法相同
+
+非BBCode
+标签
+语法：#标签名的slug
+示例站务版讨论版 
+代码：#admin #discuss
+可以通过点击标签名查看地址栏后面的值得知slug。
+
+TodoList
+使用 Markdown 语法。
+- [ ] 未完成
+- [x] 已完成
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+ 未完成
+ 已完成]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于账号被盗的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/380/2"/>
+        <id>https://notebbs.dynv6.net/d/380/2</id>
+        <updated>2024-06-12T00:55:45+00:00</updated>
+        <content
+        ><![CDATA[经过站长团讨论，他们决定绝对不会转让给非大数组织/ProtectNote成员。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[管理贴集合]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/379/1"/>
+        <id>https://notebbs.dynv6.net/d/379/1</id>
+        <updated>2024-06-11T07:02:55+00:00</updated>
+        <content
+        ><![CDATA[规则
+站规
+本站权限分级
+
+管理规则
+警告规则
+
+其他
+补充解释
+本站 BBCode 语法
+更新日志
+权限变更记录
+关于本站承认组织的相关列表
+
+权限申请
+权限申请：免验证码
+权限申请：验证成员
+权限申请：讨论区版主]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[补充解释]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/378/1"/>
+        <id>https://notebbs.dynv6.net/d/378/1</id>
+        <updated>2024-06-11T06:58:21+00:00</updated>
+        <content
+        ><![CDATA[权限
+超级版主 - 拥有最高权限的版主
+（任意）版主 - 拥有版主权限的相关用户组/用户。
+管理员 - 最高权限的用户，一般管理员就是站长。
+站务组 - 有直接管理权限的用户组，也可表示一个成员。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[修订：站规]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/347/"/>
+        <id>https://notebbs.dynv6.net/d/347/</id>
+        <updated>2024-06-06T14:28:36+00:00</updated>
+        <content
+        ><![CDATA[]]></content>
+        <author>
+            <name><![CDATA[[deleted]]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[讨论区规则]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/2/27"/>
+        <id>https://notebbs.dynv6.net/d/2/27</id>
+        <updated>2024-06-05T08:46:29+00:00</updated>
+        <content
+        ><![CDATA[本规则废除。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[全新 NoteBBS 正式开启]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/3/4"/>
+        <id>https://notebbs.dynv6.net/d/3/4</id>
+        <updated>2024-06-01T06:05:36+00:00</updated>
+        <content
+        ><![CDATA[admin 但是bing搜索引擎怎么不知道呢？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Orchid Cleaning Group被标记为毁灭组织的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/326/1"/>
+        <id>https://notebbs.dynv6.net/d/326/1</id>
+        <updated>2024-05-31T03:53:19+00:00</updated>
+        <content
+        ><![CDATA[其对大部分反CleanNote页面进行毁灭，替换为：
+This page has been cleaned by LilacInSky, a member of Orchid Cleaning Group, on 2024.05.30 because it contained inappropriate content.
+If you need to use this page, you can delete this message.
+If you want to join us, you can visit https://www.luogu.com.cn/team/80309.
+这个页面因含有不合适的信息，于2024年5月30日被Orchid Cleaning Group的成员LilacInSky清除。
+如果您需要使用这个页面，您可以将这一段删除。
+如果您想要加入我们，请访问https://www.luogu.com.cn/team/80309。
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+特此公告。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[准备修订站规征求意见]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/316/"/>
+        <id>https://notebbs.dynv6.net/d/316/</id>
+        <updated>2024-05-28T05:32:35+00:00</updated>
+        <content
+        ><![CDATA[]]></content>
+        <author>
+            <name><![CDATA[[deleted]]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[图标升级通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/306/1"/>
+        <id>https://notebbs.dynv6.net/d/306/1</id>
+        <updated>2024-05-22T04:24:03+00:00</updated>
+        <content
+        ><![CDATA[本站图标已经升级至Font Awesome 6，部分图标可能无法显示]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NeBBs受灾通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/303/4"/>
+        <id>https://notebbs.dynv6.net/d/303/4</id>
+        <updated>2024-05-22T03:23:03+00:00</updated>
+        <content
+        ><![CDATA[fxs 对，我以其人之道还治其人之身把22c的聊天室给炸了。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[权限申请区：讨论区版主]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/249/1"/>
+        <id>https://notebbs.dynv6.net/d/249/1</id>
+        <updated>2024-05-02T06:53:00+00:00</updated>
+        <content
+        ><![CDATA[申请讨论区版主，你可以管理讨论版。
+在申请前，你必须满足以下条件：
+你已经是验证成员
+有10个以上讨论贴（包括回复）
+你反对CleanNote、Fandom、22c组
+警告总分不超过15分
+
+另外，如果以下条件达到30分，你即可申请权限：
+因暴政的管理员导致您在Note.msBBS臭名昭著 +15
+加入保护组织并有管理员或成员列表证明 +10（权威级+20）
+有一个管理员/超级版主担保 +15
+帮助过处理轰炸机/违反站规内容 +5（每次轰炸机+10）
+保护过Note.ms页面累计运行脚本时长超过5h +20
+参与站务建设 +5（每一次成功站规修订 +10）
+提供 Googol 可用且有源代码/原理的，比 JS 高级的技术，无混淆的技术 +30
+Note.msBBS 管理员改邪归正的，加入 ProtectNote 的 +10
+有较为清楚的正确的 Note.ms 知识（见此） +10
+
+你如果申请即代表保证：
+我不会滥用职权
+我不会利用此权限威胁他人
+我不会随意修改帖子]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于本站用户 yu22c 是冒充者的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/241/2"/>
+        <id>https://notebbs.dynv6.net/d/241/2</id>
+        <updated>2024-04-30T14:13:31+00:00</updated>
+        <content
+        ><![CDATA[换博客了：
+https://googol3.wordpress.com/]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[转到 freeflarum.com 的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/230/1"/>
+        <id>https://notebbs.dynv6.net/d/230/1</id>
+        <updated>2024-04-18T09:26:25+00:00</updated>
+        <content
+        ><![CDATA[目前 *.flarum.cloud 已经无法访问，目前网址为：
+https://note.freeflarum.com
+希望互相转告。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[错误修复方法]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/229/1"/>
+        <id>https://notebbs.dynv6.net/d/229/1</id>
+        <updated>2024-04-17T06:19:28+00:00</updated>
+        <content
+        ><![CDATA[最近打不开，我Fixup forum好了。
+]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

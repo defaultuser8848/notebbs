@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[讨论区规则修订通知]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/198" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/198/" />
+    <id>https://notebbs.dynv6.net/atom/d/198</id>
+    <updated>2024-07-16T14:48:39+00:00</updated>
+
+        <entry>
+        <title><![CDATA[讨论区规则修订通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/198/4"/>
+        <id>https://notebbs.dynv6.net/d/198/4</id>
+        <updated>2024-04-11T08:13:30+00:00</updated>
+        <content
+        ><![CDATA[[未知用户] 这么做就封禁]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[讨论区规则修订通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/198/1"/>
+        <id>https://notebbs.dynv6.net/d/198/1</id>
+        <updated>2024-04-11T06:11:25+00:00</updated>
+        <content
+        ><![CDATA[用户不得利用漏洞使用被系统禁止的用户名。
+
+
+注：禁止的是fuck这个单词]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+    
+</feed>

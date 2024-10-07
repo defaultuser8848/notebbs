@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[建了个GitHub小号]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161735" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161735/" />
+    <id>https://notebbs.dynv6.net/atom/d/161735</id>
+    <updated>2024-07-16T14:18:42+00:00</updated>
+
+        <entry>
+        <title><![CDATA[建了个GitHub小号]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161735/3"/>
+        <id>https://notebbs.dynv6.net/d/161735/3</id>
+        <updated>2024-07-01T01:43:17+00:00</updated>
+        <content
+        ><![CDATA[
+
+Report https://cmd1152.github.io/googol received]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[建了个GitHub小号]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161735/2"/>
+        <id>https://notebbs.dynv6.net/d/161735/2</id>
+        <updated>2024-07-01T01:27:19+00:00</updated>
+        <content
+        ><![CDATA[Because the result of GitHub very slow, so I created a account that named "GoogolOwO". Some reporter's request will be slow!]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[建了个GitHub小号]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161735/1"/>
+        <id>https://notebbs.dynv6.net/d/161735/1</id>
+        <updated>2024-07-01T01:23:38+00:00</updated>
+        <content
+        ><![CDATA[用户名：GoogolOwO]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

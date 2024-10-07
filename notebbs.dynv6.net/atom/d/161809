@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[我的第一个 Flarum 扩展]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161809" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161809/" />
+    <id>https://notebbs.dynv6.net/atom/d/161809</id>
+    <updated>2024-07-16T13:57:34+00:00</updated>
+
+        <entry>
+        <title><![CDATA[我的第一个 Flarum 扩展]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161809/3"/>
+        <id>https://notebbs.dynv6.net/d/161809/3</id>
+        <updated>2024-07-16T13:01:03+00:00</updated>
+        <content
+        ><![CDATA[Your extension is so good, but I think it is stupid.]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我的第一个 Flarum 扩展]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161809/1"/>
+        <id>https://notebbs.dynv6.net/d/161809/1</id>
+        <updated>2024-07-07T06:27:04+00:00</updated>
+        <content
+        ><![CDATA[https://github.com/GoogolOwO/classed-bbcode
+
+欢迎大家提 issue，目前做的可能有 Bug。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

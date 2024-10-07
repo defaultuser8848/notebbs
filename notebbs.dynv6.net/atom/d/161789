@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[NoteBBS 样式公开了！]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161789" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161789/" />
+    <id>https://notebbs.dynv6.net/atom/d/161789</id>
+    <updated>2024-07-16T14:08:06+00:00</updated>
+
+        <entry>
+        <title><![CDATA[NoteBBS 样式公开了！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161789/3"/>
+        <id>https://notebbs.dynv6.net/d/161789/3</id>
+        <updated>2024-07-06T06:58:00+00:00</updated>
+        <content
+        ><![CDATA[14569 谢谢你！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NoteBBS 样式公开了！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161789/2"/>
+        <id>https://notebbs.dynv6.net/d/161789/2</id>
+        <updated>2024-07-06T06:25:21+00:00</updated>
+        <content
+        ><![CDATA[Googol 非常好，又有 HubUi-X 的素材了。]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NoteBBS 样式公开了！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161789/1"/>
+        <id>https://notebbs.dynv6.net/d/161789/1</id>
+        <updated>2024-07-06T02:47:08+00:00</updated>
+        <content
+        ><![CDATA[https://github.com/GoogolOwO/style 中添加了 NoteBBS 的样式，欢迎大家进行学习模仿！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

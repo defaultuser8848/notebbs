@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[权限申请区：讨论区版主]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/249" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/249/" />
+    <id>https://notebbs.dynv6.net/atom/d/249</id>
+    <updated>2024-07-16T14:44:43+00:00</updated>
+
+        <entry>
+        <title><![CDATA[权限申请区：讨论区版主]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/249/1"/>
+        <id>https://notebbs.dynv6.net/d/249/1</id>
+        <updated>2024-05-02T06:53:00+00:00</updated>
+        <content
+        ><![CDATA[申请讨论区版主，你可以管理讨论版。
+在申请前，你必须满足以下条件：
+你已经是验证成员
+有10个以上讨论贴（包括回复）
+你反对CleanNote、Fandom、22c组
+警告总分不超过15分
+
+另外，如果以下条件达到30分，你即可申请权限：
+因暴政的管理员导致您在Note.msBBS臭名昭著 +15
+加入保护组织并有管理员或成员列表证明 +10（权威级+20）
+有一个管理员/超级版主担保 +15
+帮助过处理轰炸机/违反站规内容 +5（每次轰炸机+10）
+保护过Note.ms页面累计运行脚本时长超过5h +20
+参与站务建设 +5（每一次成功站规修订 +10）
+提供 Googol 可用且有源代码/原理的，比 JS 高级的技术，无混淆的技术 +30
+Note.msBBS 管理员改邪归正的，加入 ProtectNote 的 +10
+有较为清楚的正确的 Note.ms 知识（见此） +10
+
+你如果申请即代表保证：
+我不会滥用职权
+我不会利用此权限威胁他人
+我不会随意修改帖子]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+    
+</feed>

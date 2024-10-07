@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[建议为论坛创建一个 QQ 群]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/399" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/399/" />
+    <id>https://notebbs.dynv6.net/atom/d/399</id>
+    <updated>2024-07-16T14:32:45+00:00</updated>
+
+        <entry>
+        <title><![CDATA[建议为论坛创建一个 QQ 群]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/399/6"/>
+        <id>https://notebbs.dynv6.net/d/399/6</id>
+        <updated>2024-06-15T04:26:01+00:00</updated>
+        <content
+        ><![CDATA[14569 https://note.freeflarum.com/d/225-%E8%81%8A%E5%A4%A9%E5%AE%A4]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[建议为论坛创建一个 QQ 群]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/399/5"/>
+        <id>https://notebbs.dynv6.net/d/399/5</id>
+        <updated>2024-06-14T15:10:48+00:00</updated>
+        <content
+        ><![CDATA[Googol 发来看看]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[建议为论坛创建一个 QQ 群]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/399/4"/>
+        <id>https://notebbs.dynv6.net/d/399/4</id>
+        <updated>2024-06-13T00:12:46+00:00</updated>
+        <content
+        ><![CDATA[不建 qq 群，已经建 IRC  了。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[建议为论坛创建一个 QQ 群]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/399/3"/>
+        <id>https://notebbs.dynv6.net/d/399/3</id>
+        <updated>2024-06-13T00:12:23+00:00</updated>
+        <content
+        ><![CDATA[Test 踢人了解一下]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[建议为论坛创建一个 QQ 群]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/399/2"/>
+        <id>https://notebbs.dynv6.net/d/399/2</id>
+        <updated>2024-06-12T17:10:07+00:00</updated>
+        <content
+        ><![CDATA[14569 我相信这个qq群里面的轰炸机数量是活人的三倍以上。]]></content>
+        <author>
+            <name><![CDATA[Test]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[建议为论坛创建一个 QQ 群]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/399/1"/>
+        <id>https://notebbs.dynv6.net/d/399/1</id>
+        <updated>2024-06-12T17:04:03+00:00</updated>
+        <content
+        ><![CDATA[论坛经常被 DDoS 攻击，DDoS 攻击期间，论坛服务器出错导致无法访问，用户无法获得最新消息。
+建立 QQ 群是一个很好的办法，当论坛遭到 DDoS 攻击时，可以在 QQ 群内通知，并且在 QQ 群内也可以讨论 NoteBBS。
+如果没有 QQ 可以去注册一个。]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+    
+</feed>

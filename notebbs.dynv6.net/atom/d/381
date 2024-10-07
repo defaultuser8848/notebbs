@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[为什么论坛不添加 Fluent 主题]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/381" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/381/" />
+    <id>https://notebbs.dynv6.net/atom/d/381</id>
+    <updated>2024-07-16T14:36:43+00:00</updated>
+
+        <entry>
+        <title><![CDATA[为什么论坛不添加 Fluent 主题]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/381/3"/>
+        <id>https://notebbs.dynv6.net/d/381/3</id>
+        <updated>2024-06-12T00:58:13+00:00</updated>
+        <content
+        ><![CDATA[已经添加了]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[为什么论坛不添加 Fluent 主题]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/381/2"/>
+        <id>https://notebbs.dynv6.net/d/381/2</id>
+        <updated>2024-06-12T00:26:19+00:00</updated>
+        <content
+        ><![CDATA[知道了]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[为什么论坛不添加 Fluent 主题]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/381/1"/>
+        <id>https://notebbs.dynv6.net/d/381/1</id>
+        <updated>2024-06-11T17:00:11+00:00</updated>
+        <content
+        ><![CDATA[@Googol  已经看过 145Hub 了，他的观点是 145Hub 很漂亮。
+原帖：https://support.freeflarum.com/d/148/5
+145Hub 提出的建议是添加了很多有用的扩展和自定义 CSS，页眉及页脚。
+这个论坛也已经加了很多有用的扩展，但是还是不够漂亮。
+因为
+这个论坛没有加 Fluent 主题。
+Fluent 主题是一个扩展，可以在 https://论坛域名/admin#/extension/dalez-fluent-flarum 中启用。
+然后再调整一下配色就可以了。]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+    
+</feed>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[如何申请友情链接]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/382" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/382/" />
+    <id>https://notebbs.dynv6.net/atom/d/382</id>
+    <updated>2024-07-16T14:36:51+00:00</updated>
+
+        <entry>
+        <title><![CDATA[如何申请友情链接]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/382/3"/>
+        <id>https://notebbs.dynv6.net/d/382/3</id>
+        <updated>2024-06-12T00:31:13+00:00</updated>
+        <content
+        ><![CDATA[要求与note.ms有关]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[如何申请友情链接]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/382/2"/>
+        <id>https://notebbs.dynv6.net/d/382/2</id>
+        <updated>2024-06-11T17:07:05+00:00</updated>
+        <content
+        ><![CDATA[我们 FreeFlarum 的中国用户都喜欢互换友链。
+图片下打勾的就是互换友链是 FreeFlarum 论坛。
+]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[如何申请友情链接]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/382/1"/>
+        <id>https://notebbs.dynv6.net/d/382/1</id>
+        <updated>2024-06-11T17:04:27+00:00</updated>
+        <content
+        ><![CDATA[如题，我想申请一个友情链接。
+就是我的那个 FreeFlarum 社区。
+如果可以就互换一个友链。]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+    
+</feed>

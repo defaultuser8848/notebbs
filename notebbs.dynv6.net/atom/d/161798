@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[宣传内容备份 2024年7月6日17点41分]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161798" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161798/" />
+    <id>https://notebbs.dynv6.net/atom/d/161798</id>
+    <updated>2024-07-16T14:08:02+00:00</updated>
+
+        <entry>
+        <title><![CDATA[宣传内容备份 2024年7月6日17点41分]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161798/1"/>
+        <id>https://notebbs.dynv6.net/d/161798/1</id>
+        <updated>2024-07-06T09:42:00+00:00</updated>
+        <content
+        ><![CDATA[欢迎来到 Note.ms。您有一个攻略带查收！
+——————————————————————————————————
+https://note-wiki.tiddlyhost.com
+——————————————————————————————————
+另外，我们还有一个论坛，欢迎大家访问：https://note.freeflarum.com
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

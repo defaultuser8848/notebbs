@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[NoteBBS 聊天室]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/225" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/225/" />
+    <id>https://notebbs.dynv6.net/atom/d/225</id>
+    <updated>2024-07-16T14:10:20+00:00</updated>
+
+        <entry>
+        <title><![CDATA[NoteBBS 聊天室]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/225/9"/>
+        <id>https://notebbs.dynv6.net/d/225/9</id>
+        <updated>2024-07-04T09:00:41+00:00</updated>
+        <content
+        ><![CDATA[更新：增加tailchat]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NoteBBS 聊天室]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/225/6"/>
+        <id>https://notebbs.dynv6.net/d/225/6</id>
+        <updated>2024-06-15T07:52:29+00:00</updated>
+        <content
+        ><![CDATA[IRC 格式规则：
+Ctrl+B 粗体
+Ctrl+I 斜体
+Ctrl+K 颜色]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NoteBBS 聊天室]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/225/5"/>
+        <id>https://notebbs.dynv6.net/d/225/5</id>
+        <updated>2024-06-15T06:38:28+00:00</updated>
+        <content
+        ><![CDATA[感觉没有 QQ 群好用。]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NoteBBS 聊天室]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/225/3"/>
+        <id>https://notebbs.dynv6.net/d/225/3</id>
+        <updated>2024-04-12T15:24:08+00:00</updated>
+        <content
+        ><![CDATA[lovegoogol2949 IRC 怎么炸？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NoteBBS 聊天室]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/225/2"/>
+        <id>https://notebbs.dynv6.net/d/225/2</id>
+        <updated>2024-04-12T14:30:54+00:00</updated>
+        <content
+        ><![CDATA[Googol 等天给你炸了]]></content>
+        <author>
+            <name><![CDATA[lovegoogol2949]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NoteBBS 聊天室]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/225/1"/>
+        <id>https://notebbs.dynv6.net/d/225/1</id>
+        <updated>2024-04-12T08:49:48+00:00</updated>
+        <content
+        ><![CDATA[IRC
+https://webchat.freenode.net/?chan=#notebbs #notebbs
+规则：
+不得刷屏
+不得发布违法违规内容
+可以进行申诉
+推荐使用自己的用户名作为昵称，如果被冒充可以联系通过本论坛管理员。
+
+注意：有机器人可能会踢人，如果被踢请参考原因或询问我。
+
+Tailchat
+https://nightly.paw.msgbyte.com/invite/eKukIw03
+
+国内Discord的替代品。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

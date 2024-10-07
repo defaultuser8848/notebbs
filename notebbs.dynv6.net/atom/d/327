@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[保护/0 页面可获得100Note币资产]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/327" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/327/" />
+    <id>https://notebbs.dynv6.net/atom/d/327</id>
+    <updated>2024-07-16T14:39:45+00:00</updated>
+
+        <entry>
+        <title><![CDATA[保护/0 页面可获得100Note币资产]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/327/1"/>
+        <id>https://notebbs.dynv6.net/d/327/1</id>
+        <updated>2024-05-31T04:11:05+00:00</updated>
+        <content
+        ><![CDATA[任何 @验证组  进行对/0页面保护，即可获得100 Note币的奖励，但是保护时请在页面下面署名NoteBBS用户名。
+如果状态为进行中，完成以下条件可获得相应资产：
+保护1小时：30 Note币
+保护2小时：100 Note币
+保护3小时：300 Note币
+保护5小时：500 Note币
+持续保护到活动截止：瓜分10万Note币！
+
+在保护前后请留言，方便统计。
+
+保护/0的页面内容需要为：
+————————————————————————————————————
+                                目前 Googol 掌握了 /0 编辑的核心特殊技术
+                                                Googol 愿意提供本技术
+                                  如需技术，请前往 https://note.freeflarum.com
+————————————————————————————————————
+                                                          广告区
+————————————————————————————————————
+https://note.freeflarum.com                                                     公平的 note.ms 论坛
+————————————————————————————————————
+用户名：&lt;保护者的用户名&gt;
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

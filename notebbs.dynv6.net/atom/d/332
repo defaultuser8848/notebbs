@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Bug 测试区]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/332" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/332/" />
+    <id>https://notebbs.dynv6.net/atom/d/332</id>
+    <updated>2024-07-16T14:39:34+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Bug 测试区]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/332/8"/>
+        <id>https://notebbs.dynv6.net/d/332/8</id>
+        <updated>2024-06-01T04:52:57+00:00</updated>
+        <content
+        ><![CDATA[You can test it true or false]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Bug 测试区]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/332/7"/>
+        <id>https://notebbs.dynv6.net/d/332/7</id>
+        <updated>2024-06-01T04:52:36+00:00</updated>
+        <content
+        ><![CDATA[In refresh, will look for the bug.
+But in my reply i'll found normal possible.]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Bug 测试区]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/332/6"/>
+        <id>https://notebbs.dynv6.net/d/332/6</id>
+        <updated>2024-06-01T04:51:38+00:00</updated>
+        <content
+        ><![CDATA[Googol I'm fine,
+
+But sometimes is working.
+
+Googol the function of reply is not working
+
+In I send some posting, or lookup the repliers, sometimes is working. This is why?]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Bug 测试区]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/332/5"/>
+        <id>https://notebbs.dynv6.net/d/332/5</id>
+        <updated>2024-06-01T04:51:00+00:00</updated>
+        <content
+        ><![CDATA[Googol fine, thank you!
+
+Sometimes, the function of reply is not working, i trying to issue it!]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Bug 测试区]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/332/4"/>
+        <id>https://notebbs.dynv6.net/d/332/4</id>
+        <updated>2024-06-01T04:50:33+00:00</updated>
+        <content
+        ><![CDATA[Googol I'm fine, thank you!]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Bug 测试区]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/332/3"/>
+        <id>https://notebbs.dynv6.net/d/332/3</id>
+        <updated>2024-06-01T04:49:31+00:00</updated>
+        <content
+        ><![CDATA[Googol Hello!
+
+How are you?]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Bug 测试区]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/332/2"/>
+        <id>https://notebbs.dynv6.net/d/332/2</id>
+        <updated>2024-06-01T04:49:23+00:00</updated>
+        <content
+        ><![CDATA[Hello!]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Bug 测试区]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/332/1"/>
+        <id>https://notebbs.dynv6.net/d/332/1</id>
+        <updated>2024-06-01T04:49:16+00:00</updated>
+        <content
+        ><![CDATA[在这里测试已知的 bug]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

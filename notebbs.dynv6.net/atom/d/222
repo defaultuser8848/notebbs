@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[关于高频覆盖]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/222" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/222/" />
+    <id>https://notebbs.dynv6.net/atom/d/222</id>
+    <updated>2024-07-16T14:48:25+00:00</updated>
+
+        <entry>
+        <title><![CDATA[关于高频覆盖]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/222/1"/>
+        <id>https://notebbs.dynv6.net/d/222/1</id>
+        <updated>2024-04-12T07:36:02+00:00</updated>
+        <content
+        ><![CDATA[因为 403 的原因，我们发现一个现象：
+如果一个脚本开始高频覆盖，虽然短时间能够高速覆盖，但是这回造成一定时间 503 的代价。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

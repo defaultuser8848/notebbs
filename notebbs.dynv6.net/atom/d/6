@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[The Rule]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/6" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/6/" />
+    <id>https://notebbs.dynv6.net/atom/d/6</id>
+    <updated>2024-07-16T14:53:02+00:00</updated>
+
+        <entry>
+        <title><![CDATA[The Rule]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/6/1"/>
+        <id>https://notebbs.dynv6.net/d/6/1</id>
+        <updated>2023-11-01T15:29:39+00:00</updated>
+        <content
+        ><![CDATA[Rules
+In order to quickly review the specifications of this discussion area, we will begin to publicize them here.
+Prohibited
+It is prohibited to publish content that maliciously damages the page, otherwise it will deleted.
+It is prohibited to maliciously insult/intimidate others, otherwise it will be deleted and can banned multiple times.
+Please do not attack this tool or engage in illegal activities, as this will result in penalties of block.
+Do not impersonate other users
+Register a large number of small accounts and do not violate the rules at the same time. Otherwise, all accounts will subject to block penalties.
+The website management tag is an important announcement related to website management. Ordinary users is prohibited from posting, otherwise it will be deleted.
+Repeated posting of meaningless content may result in a ban, as meaningless content refers to content that cannot understood.
+Non relevant themed posts are prohibited except for irrigation areas:
+  Please publish the general content in the irrigation area.
+  Posting on the website tagcan be subject to deletion penalties, and multiple posts can temporarily banned (at least 3 days).
+
+Permitted
+Users have the right to report moderators or managers, but the report must clear.
+Prohibited users have the right to appeal. Please provide googology@outlook.com Send an email with the theme '{username}} appeal' (please change {username}} to your username)
+
+Management Announcement Specification
+Unless otherwise specified, {{NAME}} need to be replaced with your name in the administrator's announcement. (This article is an exception)
+Administrators have the right to create their own test accounts.]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+    
+</feed>

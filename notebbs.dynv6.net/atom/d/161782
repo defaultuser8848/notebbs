@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[大家千万不要访问以下网站]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161782" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161782/" />
+    <id>https://notebbs.dynv6.net/atom/d/161782</id>
+    <updated>2024-07-16T14:10:03+00:00</updated>
+
+        <entry>
+        <title><![CDATA[大家千万不要访问以下网站]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161782/1"/>
+        <id>https://notebbs.dynv6.net/d/161782/1</id>
+        <updated>2024-07-05T03:28:57+00:00</updated>
+        <content
+        ><![CDATA[有XSS漏洞：
+write-in-paper.wikidot.com]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

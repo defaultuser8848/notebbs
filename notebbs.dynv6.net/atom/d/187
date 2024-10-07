@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[感谢覆盖者保住了ad被封]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/187" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/187/" />
+    <id>https://notebbs.dynv6.net/atom/d/187</id>
+    <updated>2024-07-16T14:48:49+00:00</updated>
+
+        <entry>
+        <title><![CDATA[感谢覆盖者保住了ad被封]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/187/1"/>
+        <id>https://notebbs.dynv6.net/d/187/1</id>
+        <updated>2024-04-09T13:01:04+00:00</updated>
+        <content
+        ><![CDATA[虽然他发布了骂cleannote的内容。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+    
+</feed>

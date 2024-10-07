@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[管理贴集合]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/379" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/379/" />
+    <id>https://notebbs.dynv6.net/atom/d/379</id>
+    <updated>2024-07-16T13:56:48+00:00</updated>
+
+        <entry>
+        <title><![CDATA[管理贴集合]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/379/1"/>
+        <id>https://notebbs.dynv6.net/d/379/1</id>
+        <updated>2024-06-11T07:02:55+00:00</updated>
+        <content
+        ><![CDATA[规则
+站规
+本站权限分级
+
+管理规则
+警告规则
+
+其他
+补充解释
+本站 BBCode 语法
+更新日志
+权限变更记录
+关于本站承认组织的相关列表
+
+权限申请
+权限申请：免验证码
+权限申请：验证成员
+权限申请：讨论区版主]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+    
+</feed>

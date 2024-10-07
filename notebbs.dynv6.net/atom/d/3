@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[全新 NoteBBS 正式开启]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/3" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/3/" />
+    <id>https://notebbs.dynv6.net/atom/d/3</id>
+    <updated>2024-07-16T14:39:30+00:00</updated>
+
+        <entry>
+        <title><![CDATA[全新 NoteBBS 正式开启]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/3/4"/>
+        <id>https://notebbs.dynv6.net/d/3/4</id>
+        <updated>2024-06-01T06:05:36+00:00</updated>
+        <content
+        ><![CDATA[admin 但是bing搜索引擎怎么不知道呢？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[全新 NoteBBS 正式开启]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/3/3"/>
+        <id>https://notebbs.dynv6.net/d/3/3</id>
+        <updated>2024-06-01T06:01:35+00:00</updated>
+        <content
+        ><![CDATA[目前已经迁址。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[全新 NoteBBS 正式开启]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/3/2"/>
+        <id>https://notebbs.dynv6.net/d/3/2</id>
+        <updated>2023-11-22T10:40:41+00:00</updated>
+        <content
+        ><![CDATA[bing排名又掉了，明明换新站了啊。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[全新 NoteBBS 正式开启]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/3/1"/>
+        <id>https://notebbs.dynv6.net/d/3/1</id>
+        <updated>2023-10-31T03:50:39+00:00</updated>
+        <content
+        ><![CDATA[由于公平论坛的破烂不堪的轰炸机，以及NoteBBS的闭关锁国，我们决定开始出一款新的NoteBBS。我们取得了yu22c授权，开始新的NoteBBS研究。并且通过Bing搜索引擎SEO优化，搜索NoteBBS可以找到我们的全新的NoteBBS。
+
+我们开始兼容公平论坛，但是也要防止轰炸机的出现。我们的工作需要很久很久。但是，我们要阻止轰炸机的注册。
+
+希望您共同帮助我们建设本论坛！
+优点
+无轰炸机
+不暴政
+不乱封禁
+不因反对或支持，就都辱骂一人。
+
+admin
+2023/10/31]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+    
+</feed>

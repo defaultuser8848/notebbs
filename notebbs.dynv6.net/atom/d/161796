@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[如何使用 ChillRoundF 字体？]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161796" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161796/" />
+    <id>https://notebbs.dynv6.net/atom/d/161796</id>
+    <updated>2024-07-16T14:08:01+00:00</updated>
+
+        <entry>
+        <title><![CDATA[如何使用 ChillRoundF 字体？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161796/2"/>
+        <id>https://notebbs.dynv6.net/d/161796/2</id>
+        <updated>2024-07-06T12:01:01+00:00</updated>
+        <content
+        ><![CDATA[如果认为过慢可自行替换 CDN。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[如何使用 ChillRoundF 字体？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161796/1"/>
+        <id>https://notebbs.dynv6.net/d/161796/1</id>
+        <updated>2024-07-06T09:13:56+00:00</updated>
+        <content
+        ><![CDATA[@font-face{
+    font-family: "ChillRoundF";
+    src: url("https://fastly.jsdelivr.net/gh/Warren2060/ChillRound@1.5.0/ChillRound/ChillRoundF.ttf");
+}
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

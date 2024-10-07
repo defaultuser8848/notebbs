@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[我还是决定来Note.msBBS]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/308" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/308/" />
+    <id>https://notebbs.dynv6.net/atom/d/308</id>
+    <updated>2024-07-16T14:41:17+00:00</updated>
+
+        <entry>
+        <title><![CDATA[我还是决定来Note.msBBS]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/308/2"/>
+        <id>https://notebbs.dynv6.net/d/308/2</id>
+        <updated>2024-05-22T07:52:09+00:00</updated>
+        <content
+        ><![CDATA[我中立吧。哪里都不加入。]]></content>
+        <author>
+            <name><![CDATA[Folder]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我还是决定来Note.msBBS]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/308/1"/>
+        <id>https://notebbs.dynv6.net/d/308/1</id>
+        <updated>2024-05-22T07:51:37+00:00</updated>
+        <content
+        ><![CDATA[求Note.msBBS的管理员给我邀请码。]]></content>
+        <author>
+            <name><![CDATA[Folder]]></name>
+        </author>
+    </entry>
+    
+</feed>

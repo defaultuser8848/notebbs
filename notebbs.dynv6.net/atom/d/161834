@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[我挖出来一个 Wikidot XSS]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161834" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161834/" />
+    <id>https://notebbs.dynv6.net/atom/d/161834</id>
+    <updated>2024-07-16T14:02:03+00:00</updated>
+
+        <entry>
+        <title><![CDATA[我挖出来一个 Wikidot XSS]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161834/3"/>
+        <id>https://notebbs.dynv6.net/d/161834/3</id>
+        <updated>2024-07-10T01:49:09+00:00</updated>
+        <content
+        ><![CDATA[搞到了0day]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我挖出来一个 Wikidot XSS]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161834/2"/>
+        <id>https://notebbs.dynv6.net/d/161834/2</id>
+        <updated>2024-07-10T01:40:42+00:00</updated>
+        <content
+        ><![CDATA[Googol so？
+你的站点狗都不来]]></content>
+        <author>
+            <name><![CDATA[en5o1h3azf]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[我挖出来一个 Wikidot XSS]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161834/1"/>
+        <id>https://notebbs.dynv6.net/d/161834/1</id>
+        <updated>2024-07-10T01:13:08+00:00</updated>
+        <content
+        ><![CDATA[需要管理员权限，在管理员面板完成。是存储型XSS。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

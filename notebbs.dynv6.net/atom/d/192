@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[每日一刷]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/192" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/192/" />
+    <id>https://notebbs.dynv6.net/atom/d/192</id>
+    <updated>2024-07-16T14:48:44+00:00</updated>
+
+        <entry>
+        <title><![CDATA[每日一刷]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/192/1"/>
+        <id>https://notebbs.dynv6.net/d/192/1</id>
+        <updated>2024-04-10T13:59:43+00:00</updated>
+        <content
+        ><![CDATA[xd]]></content>
+        <author>
+            <name><![CDATA[lovegoogol1031]]></name>
+        </author>
+    </entry>
+    
+</feed>

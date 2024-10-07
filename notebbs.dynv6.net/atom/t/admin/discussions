@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[admin 标签新帖]]></title>
+    <subtitle><![CDATA[admin 标签新帖]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/t/admin/discussions" rel="self" />
+    <link href="https://notebbs.dynv6.net/" />
+    <id>https://notebbs.dynv6.net/atom/t/admin/discussions</id>
+    <updated>2024-07-16T14:39:50+00:00</updated>
+
+        <entry>
+        <title><![CDATA[打DDoS游击战]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161868/1"/>
+        <id>https://notebbs.dynv6.net/d/161868/1</id>
+        <updated>2024-07-16T10:12:43+00:00</updated>
+        <content
+        ><![CDATA[我们最近打了DDoS游击战，有一些进展]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[申请友链开放]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161866/1"/>
+        <id>https://notebbs.dynv6.net/d/161866/1</id>
+        <updated>2024-07-16T04:02:46+00:00</updated>
+        <content
+        ><![CDATA[规则：
+
+网站管理团队不得反对Googol。
+对应网站必须允许用户发布内容。
+不开放博客申请。
+你必须在网站中放置一个友情链接。
+网站管理员发布的内容不得违法违规。
+
+申请请在本贴回复，模板：
+
+网站名称：
+网站链接：
+网站介绍：
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                ]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[DDoS 还击警告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161864/1"/>
+        <id>https://notebbs.dynv6.net/d/161864/1</id>
+        <updated>2024-07-16T02:32:11+00:00</updated>
+        <content
+        ><![CDATA[如果再次对我们进行 DDoS 攻击，将采取还击措施。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[仇恨链接分级规则]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161858/1"/>
+        <id>https://notebbs.dynv6.net/d/161858/1</id>
+        <updated>2024-07-15T10:57:12+00:00</updated>
+        <content
+        ><![CDATA[仇恨等级
+
+不处罚（Unneeded）：不对其进行任何处罚。
+待观察（Seeing）：目前已知其为仇恨链接，但还需要观察其行为。
+待分级（Pending）：目前正在等待为其分级。
+初级（Begin）
+中级（Middle）
+高级（Super-hate）
+死对（Important）
+宇宙死对（Cosmic Top Enemy）
+
+扰乱等级
+
+扰乱等级指的是该网站对 note.ms 或本站 / 相关友好站点的扰乱行为
+
+无（Unattacked）：没有扰乱行为
+应观察（Notice）：有较低的扰乱或者可能有扰乱。
+需谨慎（Caution）：有频率的进行扰乱行为，发生扰乱后管理应尽快发现并处置。
+已警告（Warning）：频率较大、反复进行的行为，会造成一定扰乱。掌握一定技术干扰他人正常运作。
+危险（Danger）：通过技术干扰网站正常运行。
+应急（Critical）：需立即进行处理。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于即将对 145Hub 处罚的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161857/1"/>
+        <id>https://notebbs.dynv6.net/d/161857/1</id>
+        <updated>2024-07-15T10:22:53+00:00</updated>
+        <content
+        ><![CDATA[由于 145Hub 进行恶意封禁，声称我们的内容为虚假信息，决定断绝一切合作。并进行以下处罚：
+ 待功能开发后，将 145Hub 移至仇恨链接
+ 将 145Hub 的链接拉入黑名单，无法在贴子正常显示
+ 鉴于 145Hub 支持 DDoS NoteBBS，决定按情况给予相关 [数据删除] 处罚。
+
+如果 14569 在本站继续发布相关虚假模因危害内容，将对 14569 封禁 3 天。
+
+如果能对14569执行A级记忆删除……]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Au 轰炸机证据]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161844/1"/>
+        <id>https://notebbs.dynv6.net/d/161844/1</id>
+        <updated>2024-07-12T03:18:29+00:00</updated>
+        <content
+        ><![CDATA[
+
+注意邮箱地址的域名]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[网站域名迁址公告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161839/1"/>
+        <id>https://notebbs.dynv6.net/d/161839/1</id>
+        <updated>2024-07-11T05:16:29+00:00</updated>
+        <content
+        ><![CDATA[https://note.freeflarum.com 已经成功迁移到 https://notebbs.dynv6.net。请大家访问新的域名，恳请大家能够记住这个域名。
+
+这个域名的迁移也是同时为了防止冒充，出现冒充直接改一个域名解析，冒充就无法进行了。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于永久封禁 fdp 的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161824/1"/>
+        <id>https://notebbs.dynv6.net/d/161824/1</id>
+        <updated>2024-07-08T03:58:16+00:00</updated>
+        <content
+        ><![CDATA[经过检查，发现 fdp 为 CleanNote 的间谍，证据：
+邮箱地址为 fdp@notems.xyz
+恶意公开敏感技术中的一个主题
+
+fxs 也很可能是其间谍！
+
+由于其造成的影响，目前予以永久封禁。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于站务尽快实现论坛明确化的目标的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161806/1"/>
+        <id>https://notebbs.dynv6.net/d/161806/1</id>
+        <updated>2024-07-07T04:19:55+00:00</updated>
+        <content
+        ><![CDATA[目前论坛仅仅实现了正确化，而导致大部分恶意行为造成忽略规则的处罚。而目前的站务较为有缺陷，很难解释一些行为的违规原因。我们需要尽快落实明确化，即对每个违规行为/恶意行为明确其违规的理由，而不是暴政的行为。当明确化实现时，论坛将大幅超越Note.msBBS。而离我们更远的目标就是公平化。
+
+我们的实现方法是对基本的恶意行为指定明确的站规解释。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于暂时性增加 FoF Terms 的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161805/1"/>
+        <id>https://notebbs.dynv6.net/d/161805/1</id>
+        <updated>2024-07-07T03:58:31+00:00</updated>
+        <content
+        ><![CDATA[为了增强规则权威性，防止将规则当作“厕纸”。暂时开启 FoF Terms 以增强本站站规威严。必须经过同意后才能使用网站。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[网站SEO怎么回事]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161775/1"/>
+        <id>https://notebbs.dynv6.net/d/161775/1</id>
+        <updated>2024-07-04T12:41:50+00:00</updated>
+        <content
+        ><![CDATA[请务必查看最近的索引页面数是否正在减少，因为它可能指示网站对搜索引擎的可见性和可访问性可能存在问题。索引页面数减少可能意味着必应和其他搜索引擎难以对网站内容进行爬取和编制索引，这可能会对网站的 SEO 性能产生负面影响。
+索引页面数减少的原因可能有多种，例如网站存在技术问题、网站结构或内容发生更改或网站地图出现问题。请审核。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[失信黑名单]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161772/1"/>
+        <id>https://notebbs.dynv6.net/d/161772/1</id>
+        <updated>2024-07-04T09:37:06+00:00</updated>
+        <content
+        ><![CDATA[在失信黑名单的用户，会自动添加“败类”/“违法组”，且大部分由站长团提供的服务将会受限。
+
+reset-chan（即22c）恶意对Googol的wikidot账号盗号，忽略了“盗号赔偿0.01BTC”的警告，且不履行。进入失信黑名单置顶公示！reset-chan是盗号者！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[站长违规告示板]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161718/1"/>
+        <id>https://notebbs.dynv6.net/d/161718/1</id>
+        <updated>2024-06-28T11:56:59+00:00</updated>
+        <content
+        ><![CDATA[如果你认为站长违规了，请在此留言，必须包含：
+证据
+相关事实
+站规
+
+我们可能采纳或忽略]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[是否同意永久封禁22c系列用户？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161711/1"/>
+        <id>https://notebbs.dynv6.net/d/161711/1</id>
+        <updated>2024-06-28T08:32:05+00:00</updated>
+        <content
+        ><![CDATA[22c系列用户有大量小号，恶意辱骂他人，甚至使用轰炸机。造成严重后果，特此开展投票：是否同意永久封禁22c组系列用户。
+
+本投票仅统计以下用户组成员：
+免验证码；验证成员；任意版主；管理员]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于fdp账号很可能被盗的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161700/1"/>
+        <id>https://notebbs.dynv6.net/d/161700/1</id>
+        <updated>2024-06-28T03:19:57+00:00</updated>
+        <content
+        ><![CDATA[经过检查，发现fdp的IP地址产生了变更，变更为[数据删除]，我们可充分证明账号被盗。目前已经撤销其版主权限、验证成员资格。
+出于人道主义，目前已经授予@fdp 免验证码权限]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[站规更新通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161657/1"/>
+        <id>https://notebbs.dynv6.net/d/161657/1</id>
+        <updated>2024-06-25T07:07:38+00:00</updated>
+        <content
+        ><![CDATA[鄙视站规的，声称站规是“废纸”的。违反此项规则管理员应当警告，若因此警告5次可处以封禁1天的处罚。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于论坛所有权转移给Googol的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161654/1"/>
+        <id>https://notebbs.dynv6.net/d/161654/1</id>
+        <updated>2024-06-24T12:26:09+00:00</updated>
+        <content
+        ><![CDATA[我将不在活跃，从此以后所有的帖子均为Googol发布。如有异议我们接受证明。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于谨防冒充的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161643/1"/>
+        <id>https://notebbs.dynv6.net/d/161643/1</id>
+        <updated>2024-06-23T11:23:25+00:00</updated>
+        <content
+        ><![CDATA[最近，有破坏分子通过用户名冒充Googol搞轰炸机，辱骂等活动。为了防止造成危害，谨记：一般情况（非盗号）所有非验证成员的Googol均为冒充！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[验证码重新开启]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161639/1"/>
+        <id>https://notebbs.dynv6.net/d/161639/1</id>
+        <updated>2024-06-23T08:46:16+00:00</updated>
+        <content
+        ><![CDATA[最近处罚了一波轰炸机，全部删号了。为了防止再次发生，重新开验证码。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于论坛隐藏足迹的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/416/1"/>
+        <id>https://notebbs.dynv6.net/d/416/1</id>
+        <updated>2024-06-14T03:46:18+00:00</updated>
+        <content
+        ><![CDATA[由于开启足迹功能可能导致帖子的右侧快速定位到指定帖子的功能无法正常使用，所以关闭该功能。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[警告规则]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/403/1"/>
+        <id>https://notebbs.dynv6.net/d/403/1</id>
+        <updated>2024-06-13T02:49:34+00:00</updated>
+        <content
+        ><![CDATA[为了防止他人违反规则，版主及管理需要对违规者进行警告。但是切记尽量保持假定善意，除非其行为明显恶意。
+
+警告表单分为以下信息：
+警告分数：0~5，根据行为的严重程度和次数进行警告。如果轻微行为或者给予提醒请使用0分。
+用户批注：对于警告给予详细信息，必须保持填写。
+管理员批注：给出其计划、原因。以及只想给版主及管理员看的信息，注意不要再警告中写出威胁信息。
+
+警告规则
+对于警告，尽可能让违规者了解到自己违反的规则。
+不得因一个轻微的违规给予过高分数的警告，否则警告作废。
+警告的分数根据警告严重性决定。如果对方屡教不改根据同一违规理由的违规次数递增，但是必须保证对方行为的严重性极高。
+5分警告仅用于极其严重情况，无小号者第一次违规不得使用！
+不得同一次违规给予多个警告，站长团例外。
+管理员批注不得写出辱骂、人身攻击、威胁内容。否则作废。
+
+违规警告处罚
+对于不严重的违规，可以通过其他版主要求此版主撤销警告并重新编写警告理由，或者直接撤销。
+对于多次违反此规则的，版主可按照本规则警告相应版主。
+对于多次恶意违反的，有权限者可以撤销其权限。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[警告模板建议]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/402/1"/>
+        <id>https://notebbs.dynv6.net/d/402/1</id>
+        <updated>2024-06-13T02:28:51+00:00</updated>
+        <content
+        ><![CDATA[警告级别
+警告一般尽量假定善意，而警告需要根据严重性和次数警告。但是请不要仅仅根据次数警告，除非是恶意的。而且警告可以降级。
+1级：一个假定善意的提醒，包含善意的提示与礼貌的用语。
+2级：普通警告，没有任何恶意。要求他人注意。
+3级：要求对方立即停止行为，有一点恶意。所以一般情况下不建议使用本警告。
+4级：假定对方主观恶意，强烈要求对方禁止，否则可能会被处罚。
+5级：假定对方完全是为了毁灭论坛而来的。激烈的要求对方禁止，否则立即处罚。属于最后警告。
+唯一警告：在对方存在大量小号时使用。
+
+一般管理员可以使用 Moderator Warning 扩展发送站务警告，但是用户可针对某一帖子使用标签警告：
+1级：ASUCCESS
+2级：AINFO
+3级：Warning! AWARNING
+4级：ACUSTOM 包含参数 `white,red,blue,` 
+5级：ACUSTOM 包含参数 `red,black,red,`
+
+
+警告格式
+原因：{REASON}
+1级：您好，感谢您参与论坛，但是我不得不提醒您，请不要{DOWHAT}，谢谢配合。
+2级：您好，请不要随意{DOWHAT}，这种行为属于“{REASON}”。此类行为是本论坛{WHATDISABLED}的。谢谢配合。
+3级：请停止进行{REASON}行为！这涉嫌违反{WHATRULE}。谢谢。
+4级：请立即停止你的恶意{REASON}的行为！如果您再次进行此类行为将可能会被封禁！
+5级：请立即停止{WHAT}行为，这是我的最后一次警告！如果你再进行这类行为，我将立即对你封禁，届时将不予另行通知。
+唯一警告：请立即停止你的{REASON}行为！如果你继续进行此类行为，你将立即被封禁且不予另行通知！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[更新日志]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/398/1"/>
+        <id>https://notebbs.dynv6.net/d/398/1</id>
+        <updated>2024-06-12T11:41:15+00:00</updated>
+        <content
+        ><![CDATA[此页面记录了论坛的更新日志，请关注本贴了解更多更新信息。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[有人DDoS本论坛的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/396/1"/>
+        <id>https://notebbs.dynv6.net/d/396/1</id>
+        <updated>2024-06-12T11:25:10+00:00</updated>
+        <content
+        ><![CDATA[最近22c对本论坛进行DDoS，我们联系了FreeFlarum，要求开启I'm Under Attack模式。这暂时解决了DDoS的情况。
+对于登录出现“xxxx错误，请查看控制台”的，请重新访问 https://note.freeflarum.com]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[BBCode 语法]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/387/1"/>
+        <id>https://notebbs.dynv6.net/d/387/1</id>
+        <updated>2024-06-12T01:46:27+00:00</updated>
+        <content
+        ><![CDATA[一般基本的功能都可以用Markdown实现，但是还是有必要了解下BBCode。注意本论坛的一些语法与其他非Flarum论坛不兼容。
+对齐
+[center]居中文本[/center]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+居中文本
+
+文本
+[b]文本[/b]
+[i]文本[/i]
+[del]文本[/del]
+[color=颜色]文本[/color] &lt;!-- 此处以red为例 --&gt;
+[size=&lt;数字（px）&gt;]文本[/size] &lt;!-- 此处以20为例 --&gt;
+[quote=who]内容[/quote] &lt;!-- 一般写Markdown即可 --&gt;
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+文本
+文本
+文本
+文本 &lt;!-- 此处以red为例 --&gt;
+文本 &lt;!-- 此处以20为例 --&gt;
+who wrote内容 &lt;!-- 一般写Markdown即可 --&gt;
+
+警告框 (BBCode Alerts)
+基本
+[AWARNING]This is an AWARNING message.[/AWARNING]
+
+[ASUCCESS]This is an ASUCCESS message.[/ASUCCESS]
+
+[AINFO]This is an AINFO message.[/AINFO]
+
+[ABASIC]This is an ABASIC message.[/ABASIC]
+
+[ACUSTOM]red,black,green,This is an ACUSTOM message.[/ACUSTOM]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+Warning! This is an AWARNING message.
+
+This is an ASUCCESS message.
+
+This is an AINFO message.
+
+This is an ABASIC message.
+
+This is an ACUSTOM message.
+
+更好的
+[BWARNING]This is n BWARNING message.[/BWARNING]
+
+[BSUCCESS]This is a BSUCCESS message.[/BSUCCESS]
+
+[BERROR]This is a BERROR message.[/BERROR]
+
+[CWARNING]darkorange,white,darkorange,THIS IS A CWARNING TITLE,This is a CWARNING message.[/CWARNING]
+
+[CNOTICE]teal,white,teal,THIS IS A CNOTICE TITLE,This is a CNOTICE message.[/CNOTICE]
+
+[CERROR]red,white,red,THIS IS A CERROR TITLE,This is a CERROR message.[/CERROR]
+
+[CSUCCESS]green,white,green,THIS IS A CERROR TITLE,This is a CSUCCESS message.[/CSUCCESS]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+WARNING: This is n BWARNING message.
+
+SUCCESS: This is a BSUCCESS message.
+
+ERROR: This is a BERROR message.
+
+THIS IS A CWARNING TITLE: This is a CWARNING message.
+
+THIS IS A CNOTICE TITLE: This is a CNOTICE message.
+
+THIS IS A CERROR TITLE: This is a CERROR message.
+
+THIS IS A CERROR TITLE: This is a CSUCCESS message.
+增加的
+[BCUSTOM]title=THIS IS A BCUSTOM TITLE font=red bg=black border=green[/BCUSTOM]
+
+[DNOTICE title="This is a DNOTICE title" font="teal" bg="white" border="teal"]This is a DNOTICE message.[/DNOTICE]
+
+[DERROR title="This is a DERROR title" font="red" bg="white" border="red"]This is a DERROR message.[/DERROR]
+
+[DWARNING title="This is a DWARNING title" font="darkorange" bg="white" border="darkorange"]This is a DWARNING message.[/DWARNING]
+
+[DSUCCESS title="This is a DSUCCESS title" font="green" bg="white" border="green"]This is a DSUCCESS message.[/DSUCCESS]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+THIS IS A BCUSTOM TITLE
+
+This is a DNOTICE title: This is a DNOTICE message.
+
+This is a DERROR title: This is a DERROR message.
+
+This is a DWARNING title: This is a DWARNING message.
+
+This is a DSUCCESS title: This is a DSUCCESS message.
+
+Font Awesome
+Solid: [fas]circle[/fas]
+Regular: [far]circle[/far]
+Light: [fal]circle[/fal]
+Brand: [fab]github[/fab]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+Solid: 
+Regular: 
+Light: 
+Brand: 
+注意：仅支持 FREE 不支持 Pro 版本。
+
+限制查看
+[LOGIN]content to hide[/LOGIN]: 不登录用户不得查看
+[LIKE]content to hide[/LIKE]: 只有点赞本贴才能查看
+[REPLY]content to hide[/REPLY]: 必须回复帖子才能查看
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+ 此内容需要登录后刷新才能查看: 不登录用户不得查看
+此内容需要赞后刷新才能查看: 只有点赞本贴才能查看
+ 此内容需要回复后刷新才能查看: 必须回复帖子才能查看
+注：版主和管理可无视点赞或回复条件
+
+BBCode More New
+右下角中BBCode More New图标（类似一个表格）可能观感不佳，不建议使用。
+[login]此内容只有登录才能查看[/login]
+[reply]此内容只有回复才能查看[/reply]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+ 此内容需要登录后刷新才能查看
+ 此内容需要回复后刷新才能查看
+网盘链接
+[cloud type=google title=title url=link]password[/cloud]
+[cloud type=one title=title url=link]password[/cloud]
+[cloud type=f title=title url=link]password[/cloud]
+[cloud type=mega title=title url=link]password[/cloud]
+[cloud type=dropbox title=title url=link]password[/cloud]
+[cloud type=mediafire title=title url=link]password[/cloud]
+
+[cloud type=lz title=title url=link]password[/cloud]
+[cloud type=123 title=title url=link]password[/cloud]
+[cloud type=ali title=title url=link]password[/cloud]
+[cloud type=bd title=title url=link]password[/cloud]
+[cloud type=ty title=title url=link]password[/cloud]
+[cloud type=360 title=title url=link]password[/cloud]
+[cloud type=ct title=title url=link]password[/cloud]
+[cloud type=tx title=title url=link]password[/cloud]
+[cloud type=kk title=title url=link]password[/cloud]
+[cloud type=other title=title url=link]password[/cloud]
+[cloud type=github title=title url=link]v1.0.0[/cloud]
+[cloud type=gitee title=title url=link]v1.0.0[/cloud]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+title | password
+title | v1.0.0
+title | v1.0.0
+
+
+如果输入的名称不属于上面的要求，则：
+title | 内容
+
+
+示例（链接到 GitHub 的 Note Wiki 项目）
+[cloud type=github title=Note Wiki url=https://github.com/notewiki/notewiki.github.io]1.0.0[/cloud]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+Note Wiki | 1.0.0
+
+注意！此功能链接无法使用。所以使用时最好带有链接。
+
+标签
+[tabs]
+    [tab="CleanNote"]CleanNote是Note.ms的一个毁灭组织，其…………[/tab]
+    [tab="ProtectNote"]ProtectNote是一个Note.ms的保护组织，旨在保护组织免受CleanNote毁灭。[/tab]
+[/tabs]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+
+    CleanNoteCleanNote是Note.ms的一个毁灭组织，其…………
+    ProtectNoteProtectNote是一个Note.ms的保护组织，旨在保护组织免受CleanNote毁灭。
+
+
+需要展开的信息
+[details=TITLE]CONTENT[/details]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+TITLECONTENT
+
+进度条
+[PBAR]Total,70% Complete,black,red,pink,1,70,5,40[/PBAR]
+[PBAR]Front-end,30% Complete,black,blue,teal,1,30,10,80[/PBAR]
+[PBAR]Back-end,40% Complete,black,black,gray,1,40,20,0[/PBAR]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+Total70% Complete
+Front-end30% Complete
+Back-end40% Complete
+注：语法为
+[PBAR]标题,进度条内显示的文字,边框颜色,进度条颜色,进度条与白色之间的颜色,边框大小,百分比%,圆角（border-radius）,BottomMargin[/PBAR]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+剧透内容
+[spoiler]
+Some content
+[/spoiler]
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+
+                            展开
+                        
+                            隐藏
+                        
+Some content
+
+
+与detail标签用法相同
+
+非BBCode
+标签
+语法：#标签名的slug
+示例站务版讨论版 
+代码：#admin #discuss
+可以通过点击标签名查看地址栏后面的值得知slug。
+
+TodoList
+使用 Markdown 语法。
+- [ ] 未完成
+- [x] 已完成
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+ 未完成
+ 已完成]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于账号被盗的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/380/1"/>
+        <id>https://notebbs.dynv6.net/d/380/1</id>
+        <updated>2024-06-11T07:11:15+00:00</updated>
+        <content
+        ><![CDATA[账号被reset_chen盗取@admin 并发布虚假消息，而我们联系FreeFlarum，成功重获账号。据部分消息，Anonymous_user是账号的盗取者，但是不知具体是否真实。
+
+我们也不可能转让。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[管理贴集合]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/379/1"/>
+        <id>https://notebbs.dynv6.net/d/379/1</id>
+        <updated>2024-06-11T07:02:55+00:00</updated>
+        <content
+        ><![CDATA[规则
+站规
+本站权限分级
+
+管理规则
+警告规则
+
+其他
+补充解释
+本站 BBCode 语法
+更新日志
+权限变更记录
+关于本站承认组织的相关列表
+
+权限申请
+权限申请：免验证码
+权限申请：验证成员
+权限申请：讨论区版主]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[补充解释]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/378/1"/>
+        <id>https://notebbs.dynv6.net/d/378/1</id>
+        <updated>2024-06-11T06:58:21+00:00</updated>
+        <content
+        ><![CDATA[权限
+超级版主 - 拥有最高权限的版主
+（任意）版主 - 拥有版主权限的相关用户组/用户。
+管理员 - 最高权限的用户，一般管理员就是站长。
+站务组 - 有直接管理权限的用户组，也可表示一个成员。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[权限申请帖：免验证码]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/349/1"/>
+        <id>https://notebbs.dynv6.net/d/349/1</id>
+        <updated>2024-06-06T07:12:33+00:00</updated>
+        <content
+        ><![CDATA[验证码本身的目的是防止轰炸机，通过满足一些条件可以让我们免验证码。
+对于申请，你至少不是轰炸机以及让我们信任，满足下列条件50分即可申请：
+保护过任意页面1天以上，每一个页面加15分。
+加入一个保护组织 +20（权威级 +30）
+加入一个中立组织 +10
+加入毁灭组织 -50
+验证成员担保 +20
+版主担保 +30（全权限版主 +30）
+管理员担保 +50
+活跃于 Note.ms +10
+参与过公平论坛轰炸机 -40
+因管理的暴政导致在Note.msBBS封禁（需要证据）经过审核通过 +20
+对论坛提供有用建议并采纳 +10/每一个
+支持Googol +10]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[站规第一版第四修正案]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/348/1"/>
+        <id>https://notebbs.dynv6.net/d/348/1</id>
+        <updated>2024-06-05T08:46:53+00:00</updated>
+        <content
+        ><![CDATA[总则
+版主、管理应当对用户给予最大限度自由（不是 Anonymous_user 的最大限度自由），尽量减少处罚用户。
+一般请勿对他人施行封禁。
+对于违反法律法规的，可以参考相关法律法规的量刑进行处罚。
+除无限期封禁外，无站长团同意不得给予用户超过20年的封禁。
+尽量对违规者给予人身权利，不得进行故意侵犯其名誉权。
+
+允许的行为
+以下行为是允许的：
+ 一）【主要讨论】在不违规的情况下，讨论Note.ms的内容；
+ 二）【适度广告】对Note.ms的相关广告进行适度的宣传；
+ 三）【闲聊】进行闲聊（不包括辱骂、人身攻击）；
+ 四）【备份】发布备份；
+ 五）【参与站务】对站务提出建议/举报版主（非站长团）；
+此行为不代表可以进行触犯绝对禁止的，需要尽量保持不触犯”禁止的“。
+全部版主对允许的行为除非触犯3条及以上明确的行为，否则必须在任意一位站长团或者最高级别版主组成员同意。
+”允许的行为“触犯了”绝对禁止“的行为，有权根据本规定处罚。
+
+绝对禁止的行为
+
+Warning! 绝对不要进行绝对禁止的行为，绝对禁止的行为通常对论坛/用户有危害。进行此类行为会导致严重处罚。
+
+违反中华人民共和国国家法律法规的内容。
+R-15/R-18等限制级内容。
+敏感政治或可能导致本站被GFW（Great Firewall）封禁（即被墙）的行为。
+挂人、开盒、人肉搜索等泄露个人隐私的行为。
+未经同意，无正当理由的泄露他人精确IP地址或实际真实地理位置的行为。泄露明显是代理的地址（如 Tor 节点，CloudFlare IP）的除外。
+提供计算机病毒不加以声明的，或者为攻击/损害其个人计算机目的的要求/诱导他人修改某项配置或执行某项命令。如格式化硬盘命令（这样会导致所有硬盘内容被清空）。
+轰炸机行为，即短时间内发生大量完全难以理解或几乎重复的内容。
+发布关于盗版软件内容的。
+盗取他人账户的行为。
+
+禁止的行为
+WARNING: 尽量保持减少禁止的行为，进行禁止的行为会导致造成一些处罚。千万不要恶意触犯本规则，恶意触犯几乎很难得到宽恕。
+不友善行为。
+  一）辱骂行为：使用一些骂人语言进行辱骂以达到冒犯对方的目的，如“傻逼”、“你妈死了”、“XXX是托屎”；
+  二）侮辱行为：使用让人不爽的语言激怒对方，如“你是一头猪”，“你的智商为 \ln(1)”；
+  三）威胁他人：以对对方有害行为恐吓对方要求做/不做某些行为，如“如果你不XXX，你就死全家”、“如果你再XXX，您的账号将被盗取”；
+  四）嘲讽他人：以一些看起来像正面或普通陈述/中立的词语，实际上是贬低对方的行为进行侮辱他人，且贬低的含义是不实的；
+  五）基于条件/虚荣心贬低他人：以性别/宗教信仰/所属组织/邮箱等信息对他人进行贬低或区别对待，或者以本站的权限/等级相互比较达到贬低的目的。
+冒充他人的。
+发生大量广告，或者恶意发送垃圾邮件（Spam），发布无关主题或 note.ms 广告的。
+发送几乎全部为乱码的内容。
+未经同意，随意公开明显是机密或明确禁止公开的私密主题、明确的私密板块内容。
+骗取他人财产（包括Note 币）的。
+散布对他人产生伤害的谣言（例如Googol=Gongxiang01）的。
+肆意羞辱他人的，或因某人违规取笑某人的。
+鄙视站规的，声称站规是“废纸”的（例如：站规是厕纸）。违反此项规则管理员应当警告，若因此警告5次可处以封禁1天的处罚。
+出于恶意的目的发布阴阳怪气，存粹不友善的言论；
+
+反对的行为
+为刷经验目的的水贴有意义内容，但内容的性质及含义几乎相同。
+
+处罚
+一般情况下处罚不要过重，尽量假定善意。
+对于权限的变更，需要放入权限变更记录。
+处罚从轻到重包括：提醒、警告、删除、影藏、撤销权限、封禁、删除用户、封禁IP段
+对于触犯绝对禁止1——3条或者第七条的，可以分辨是善意还是恶意。如果是善意，可提醒并警告。恶意情况可直接处60日以下封禁。
+对于轰炸机，可直接永久封禁并删除所有帖子，或标记为 Spammer。
+对于触犯禁止的4——6条或第八条的，可删除帖子并警告，严重情况可处以影藏或365天以下封禁。
+对于触犯禁止的，可以进行警告、删除，如果屡教不改或者恶意才应该影藏或者180天以下封禁。
+封禁需要按照封禁次数、严重性计算封禁时长，首次封禁除非情节严重，否则不应当封禁。如小号/傀儡账号因同原因违规的，可按照大号的行为与小号的行为综合考量加大封禁时间，或永久封禁。
+对于违规的用户名，应当永久封禁，要求对方重新创建账号。
+封禁理由（用户联）需要明确，让用户知道具体的封禁原因，必要时可提供证据。
+对于以下原因，需要加重处罚：
+ 胁迫他人违规的；
+ 造成严重违规后果的；
+ 长时间违规故意屡教不改的；
+ 违规完全是处于恶意目的的。
+对于以下原因，需要减轻处罚：
+ 受到他人胁迫导致违规的；
+ 造成违规后果非常轻微的；
+ 无意间导致违规行为的；
+ 处于善意目的导致违规的。
+对于触犯反对的行为的，应给予相应警告，并选择性的是否删除相关帖子。对于屡教不改的情况，可处以5天以下封禁。
+
+申诉和举报
+
+申诉
+
+如果需要对封禁进行申诉或者有疑问，需要开小号进行。或者发送邮箱到 googology@outlook.com 或通过其他方式联系版主。
+如果需要对封禁申诉，应当给出足够理由证明：
+ 封禁行为违反了相关规则；
+ 申诉者承诺不在犯下行为；
+ 此封禁的时长不合适；
+申诉时，封禁者可以选择同意申诉者的申诉，减轻处罚或不予处罚。也可以要求继续沟通，或者不予解封；
+如果不是封禁申诉，可以选择任何一个有权限者（任何版主或管理员）审核要求撤销处罚。
+如果向封禁者申诉得到不予解封的结果，用户可以向其他任意的有权限者申诉。申诉成功即可撤销处罚。
+如果申诉失败，可以向站长团进行上诉，站长团会给予合理答复。站长团可以选择：拒绝、不予处理、同意；但一般不会拒绝。但是被拒绝，你也可以向其他站长团审核。
+如果所有站长团成员均不同意，那么处罚无法解除。
+一般站长团不应拒绝，除非行为特别严重。不予处理后，站长团应给予一个解决途径。
+
+
+举报
+
+如果你对任意版主/管理员不满，你可以选择举报。你不得对站长团给予弹劾。
+举报的理由有：
+ 滥用职权；
+ 违反站规中（绝对）禁止的行为；
+ 随意修改规则；
+在举报时，需要有具体证据和事实、举报对象、希望的处理结果。举报者可以对内容进行补充。
+举报后，举报对象应当在48小时以内给出辩护，否则将撤职等待辩护。如果在14天内未收到回复，将可以立即参考希望的处理结果和站规执行处罚。
+辩护后，举报者需要对辩护给出反驳意见。任意版主或管理员可以投票是否支持辩护。如果不支持者占投票者&gt;50%，在举报者要求后将进行举报程序。
+在举报程序，举报对象应当被立即撤职，双方需要展开辩论。双方认为辩论完成或辩论时间超过1小时后，任意版主或管理员需要讨论处罚意见。最后有权限者可以根据站规和讨论决定处罚。
+
+补充解释
+Googol（网站所有权者）不受规则束缚，其可以包括但不限于：可以随意改变规则、忽略规则、授予他人忽略规则的权限、授予他人更改规则的权限、授予他人授予这些权限的权限、阻止他人授予或使用以及剥夺这些权限的权限。但频率不应过高（不是强制要求，但一般会遵守）。除本论坛所有者恶意移除本规则将会受到撤销全部权力并永久封禁的处罚。
+   解释：几乎在任何网站，站长都不受规则束缚。
+   该规则不可能被移除，但是网站所有权拥有者会尽量减少本规则的执行。
+   该规则是原则性的！
+您对我们进行 DDoS 攻击，即代表同意赔偿我们 0.001 BTC。
+如果您对我们进行盗号行为，您同意我们赔偿 0.01 BTC。
+本站所有权目前归 Googol 所有。
+注册本网站，即代表同意本站规则。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[修订：站规]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/347/1"/>
+        <id>https://notebbs.dynv6.net/d/347/1</id>
+        <updated>2024-06-05T07:08:43+00:00</updated>
+        <content
+        ><![CDATA[总则
+版主、管理应当对用户给予最大限度自由，尽量减少处罚用户。
+一般请勿对他人施行封禁。
+对于违反法律法规的，可以参考相关法律法规的量刑进行处罚。
+除无限期封禁外，无站长团同意不得给予用户超过20年的封禁。
+尽量对违规者给予人身权利，不得进行故意侵犯其名誉权。
+
+允许的行为
+以下行为是允许的：
+ 一）在不违规的情况下，讨论Note.ms的内容；
+ 二）对Note.ms的相关广告进行适度的宣传；
+ 三）进行闲聊（不包括辱骂、人身攻击）；
+ 四）发布备份；
+ 五）对站务提出建议/举报版主（非站长团）；
+此行为不代表可以进行触犯绝对禁止的，需要尽量保持不触犯”禁止的“。
+全部版主对允许的行为除非触犯3条及以上明确的行为，否则必须在任意一位站长团或者最高级别版主组成员同意。
+”允许的行为“触犯了”绝对禁止“的行为，有权根据本规定处罚。
+
+绝对禁止的行为
+违反法律法规的内容
+R-15/R-18等限制级内容
+敏感政治或可能导致本站被GFW（Great Firewall）封禁（即被墙）的行为。
+挂人、开盒、人肉搜索等泄露个人隐私的行为。
+未经同意，无正当理由的泄露他人IP地址或实际地理位置的行为。
+提供计算机病毒不加以声明的，或者为攻击/损害其个人计算机目的的要求/诱导他人修改某项配置或执行某项命令。如格式化硬盘命令（这样会导致所有硬盘内容被清空）。
+轰炸机行为，即短时间内发生大量完全难以理解的内容。
+谈论盗版软件的。
+
+禁止的行为
+辱骂、侮辱他人或者人身攻击。
+冒充他人的。
+发生大量广告，或者恶意发送垃圾邮件（Spam）。
+发送几乎全部为乱码的内容。
+未经同意，随意公开明显是机密的私密主题。
+骗取他人财产（包括Note 币）的。
+散布对他人产生伤害的谣言（例如Googol=Gongxiang01）的。
+
+处罚
+一般情况下处罚不要过重，尽量假定善意。
+对于权限的变更，需要放入权限变更记录。
+处罚从轻到重包括：提醒、警告、删除、隐藏、封禁、删除用户、封禁IP段
+对于触犯绝对禁止1——3条或者第七条的，可以分辨是善意还是恶意。如果是善意，可提醒并警告。恶意情况可直接处60日以下封禁。
+对于轰炸机，可直接永久封禁并删除所有帖子。
+对于触犯4——6条或第八条的，可删除帖子并警告，严重情况可处以影藏或365天以下封禁。
+对于触犯禁止的，可以进行警告、删除，如果屡教不改才应该影藏或者180天以下封禁。
+封禁需要按照封禁次数、严重性计算封禁时长，首次封禁除非情节严重，否则不应当封禁。
+对于违规的用户名，应当永久封禁，要求对方重新创建账号。
+封禁理由（用户联）需要明确，让用户知道具体的封禁原因，必要时可提供证据。
+对于以下原因，需要加重处罚：
+ 胁迫他人违规的；
+ 造成严重违规后果的；
+ 长时间违规故意屡教不改的；
+ 违规完全是处于恶意目的的。
+对于以下原因，需要减轻处罚：
+ 受到他人胁迫导致违规的；
+ 造成违规后果非常轻微的；
+ 无意间导致违规行为的；
+ 处于善意目的导致违规的。
+
+申诉和举报
+
+申诉
+
+如果需要对封禁进行申诉或者有疑问，需要开小号进行。或者发送邮箱到 googology@outlook.com 或通过其他方式联系版主。
+如果需要对封禁申诉，应当给出足够理由证明：
+ 封禁行为违反了相关规则；
+ 申诉者承诺不在犯下行为；
+ 此封禁的时长不合适；
+申诉时，封禁者可以选择同意申诉者的申诉，减轻处罚或不予处罚。也可以要求继续沟通，或者不予解封；
+如果不是封禁申诉，可以选择任何一个有权限者（任何版主或管理员）审核要求撤销处罚。
+如果向封禁者申诉得到不予解封的结果，用户可以向其他任意的有权限者申诉。申诉成功即可撤销处罚。
+如果申诉失败，可以向站长团进行上诉，站长团会给予合理答复。站长团可以选择：拒绝、不予处理、同意；但一般不会拒绝。但是被拒绝，你也可以向其他站长团审核。
+如果所有站长团成员均不同意，那么处罚无法解除。
+一般站长团不应拒绝，除非行为特别严重。不予处理后，站长团应给予一个解决途径。
+
+
+举报
+
+如果你对任意版主/管理员不满，你可以选择举报。你不得对站长团给予弹劾。
+举报的理由有：
+ 滥用职权；
+ 违反站规中（绝对）禁止的行为；
+ 随意修改规则；
+在举报时，需要有具体证据和事实、举报对象、希望的处理结果。举报者可以对内容进行补充。
+举报后，举报对象应当在48小时以内给出辩护，否则将撤职等待辩护。如果在14天内未收到回复，将可以立即参考希望的处理结果和站规执行处罚。
+辩护后，举报者需要对辩护给出反驳意见。任意版主或管理员可以投票是否支持辩护。如果不支持者占投票者&gt;50%，在举报者要求后将进行举报程序。
+在举报程序，举报对象应当被立即撤职，双方需要展开辩论。双方认为辩论完成或辩论时间超过1小时后，任意版主或管理员需要讨论处罚意见。最后有权限者可以根据站规和讨论决定处罚。
+
+补充解释
+站长团不受规则束缚，可以随意改变规则。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Orchid Cleaning Group被标记为毁灭组织的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/326/1"/>
+        <id>https://notebbs.dynv6.net/d/326/1</id>
+        <updated>2024-05-31T03:53:19+00:00</updated>
+        <content
+        ><![CDATA[其对大部分反CleanNote页面进行毁灭，替换为：
+This page has been cleaned by LilacInSky, a member of Orchid Cleaning Group, on 2024.05.30 because it contained inappropriate content.
+If you need to use this page, you can delete this message.
+If you want to join us, you can visit https://www.luogu.com.cn/team/80309.
+这个页面因含有不合适的信息，于2024年5月30日被Orchid Cleaning Group的成员LilacInSky清除。
+如果您需要使用这个页面，您可以将这一段删除。
+如果您想要加入我们，请访问https://www.luogu.com.cn/team/80309。
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+特此公告。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[准备修订站规征求意见]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/316/1"/>
+        <id>https://notebbs.dynv6.net/d/316/1</id>
+        <updated>2024-05-28T03:27:18+00:00</updated>
+        <content
+        ><![CDATA[请大家欢迎来 建议区 去讨论。
+状态请填写正在进行。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[图标升级通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/306/1"/>
+        <id>https://notebbs.dynv6.net/d/306/1</id>
+        <updated>2024-05-22T04:24:03+00:00</updated>
+        <content
+        ><![CDATA[本站图标已经升级至Font Awesome 6，部分图标可能无法显示]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NeBBs受灾通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/303/1"/>
+        <id>https://notebbs.dynv6.net/d/303/1</id>
+        <updated>2024-05-20T12:16:48+00:00</updated>
+        <content
+        ><![CDATA[由于被DDoS攻击3次，本站被suspended。我们正在寻找一个新的更低限制的虚拟主机。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[权限申请区：讨论区版主]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/249/1"/>
+        <id>https://notebbs.dynv6.net/d/249/1</id>
+        <updated>2024-05-02T06:53:00+00:00</updated>
+        <content
+        ><![CDATA[申请讨论区版主，你可以管理讨论版。
+在申请前，你必须满足以下条件：
+你已经是验证成员
+有10个以上讨论贴（包括回复）
+你反对CleanNote、Fandom、22c组
+警告总分不超过15分
+
+另外，如果以下条件达到30分，你即可申请权限：
+因暴政的管理员导致您在Note.msBBS臭名昭著 +15
+加入保护组织并有管理员或成员列表证明 +10（权威级+20）
+有一个管理员/超级版主担保 +15
+帮助过处理轰炸机/违反站规内容 +5（每次轰炸机+10）
+保护过Note.ms页面累计运行脚本时长超过5h +20
+参与站务建设 +5（每一次成功站规修订 +10）
+提供 Googol 可用且有源代码/原理的，比 JS 高级的技术，无混淆的技术 +30
+Note.msBBS 管理员改邪归正的，加入 ProtectNote 的 +10
+有较为清楚的正确的 Note.ms 知识（见此） +10
+
+你如果申请即代表保证：
+我不会滥用职权
+我不会利用此权限威胁他人
+我不会随意修改帖子]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于本站用户 yu22c 是冒充者的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/241/1"/>
+        <id>https://notebbs.dynv6.net/d/241/1</id>
+        <updated>2024-04-28T11:07:37+00:00</updated>
+        <content
+        ><![CDATA[经过多个渠道的调查，本站用户 @yu22c-fake 是冒充用户，是否是22c故意冒充导致封禁2个iFastNet用户的准确性还有待考察。对于违规行为，我们将进行以下处罚：
+根据规则1.4，封禁30天。
+更改用户名为 yu22c-fake。
+撤销验证成员资格。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[转到 freeflarum.com 的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/230/1"/>
+        <id>https://notebbs.dynv6.net/d/230/1</id>
+        <updated>2024-04-18T09:26:25+00:00</updated>
+        <content
+        ><![CDATA[目前 *.flarum.cloud 已经无法访问，目前网址为：
+https://note.freeflarum.com
+希望互相转告。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[错误修复方法]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/229/1"/>
+        <id>https://notebbs.dynv6.net/d/229/1</id>
+        <updated>2024-04-17T06:19:28+00:00</updated>
+        <content
+        ><![CDATA[最近打不开，我Fixup forum好了。
+]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NoteBBS 聊天室]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/225/1"/>
+        <id>https://notebbs.dynv6.net/d/225/1</id>
+        <updated>2024-04-12T08:49:48+00:00</updated>
+        <content
+        ><![CDATA[IRC
+https://webchat.freenode.net/?chan=#notebbs #notebbs
+规则：
+不得刷屏
+不得发布违法违规内容
+可以进行申诉
+推荐使用自己的用户名作为昵称，如果被冒充可以联系通过本论坛管理员。
+
+注意：有机器人可能会踢人，如果被踢请参考原因或询问我。
+
+Tailchat
+https://nightly.paw.msgbyte.com/invite/eKukIw03
+
+国内Discord的替代品。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[权限变更记录]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/201/1"/>
+        <id>https://notebbs.dynv6.net/d/201/1</id>
+        <updated>2024-04-11T08:25:48+00:00</updated>
+        <content
+        ><![CDATA[所有管理员对用户的权限变更必须在此登记，否则可以警告/取消管理员。
+格式：
+授予 {{用户名}} 的 {{用户组名称}} 权限/用户组
+或者 撤销/取消 {{用户组名称}} 权限/用户组
+封禁 {{用户名称}}
+原因：{{Reason}}]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于本站承认组织的相关列表]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/200/1"/>
+        <id>https://notebbs.dynv6.net/d/200/1</id>
+        <updated>2024-04-11T06:42:11+00:00</updated>
+        <content
+        ><![CDATA[列表
+保护组织
+ndp
+ProtectNote
+
+中立组织
+Chat Chating Club
+Chat Club
+大数组织
+NoteBBS非官方规则督导组
+
+破坏组织
+邪恶组织
+
+毁灭组织
+CleanNote
+越过长城
+111（/chating 破坏）
+Orchid Cleaning Group
+
+相关信息
+修改
+如果需要修改，请您在本讨论区提出建议，经过采纳后可以更改本列表。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[申请贴：验证成员]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/199/1"/>
+        <id>https://notebbs.dynv6.net/d/199/1</id>
+        <updated>2024-04-11T06:33:25+00:00</updated>
+        <content
+        ><![CDATA[基本条件
+不是轰炸机
+不fuckGoogol。
+支持Googol!=Gongxiang01、CleanNote的所有内容。
+
+申请
+至少达到50分即可通过，并且允许使用私密主题申请。验证成员可以免验证码，而且还可以参与部分社区投票或建设。
+有一个本站管理员担保 +30
+有一个本站（讨论区/普通）版主担保 +15
+有一个本站验证成员担保 +5
+加入毁灭组织（包含CleanNote） -4444
+加入被承认的保护组织并有证据证明（如有组织成员列表、有管理成员证明或超过5%的成员承认） +30（权威级再+20）
+加入被承认的中立组织并有证据证明（如有组织成员列表、有管理成员证明或超过5%的成员承认） +10
+保护 note.ms 页面3天，至少2h可用 +15（多一天+5，每天多1h +4）
+在 note.ms 比较活跃 +10
+在 Note.msBBS 因管理员的拒不讲理或诽谤导致臭名昭著 +5
+因辱骂用户而被处3分以上站务警告或封禁且未道歉 -20
+全部承认目前的Note Wiki的内容。+10]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[谣言列表]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/180/1"/>
+        <id>https://notebbs.dynv6.net/d/180/1</id>
+        <updated>2024-04-07T11:52:37+00:00</updated>
+        <content
+        ><![CDATA[请勿恶意传播以下谣言：
+集合A = {Gongxiang01(F/W), Googol, testh, abc, admin(本站)}
+集合A中的任意两个及以上元素是同一个用户/XXX（集合元素）的小号。
+全新 NoteBBS 由 Googol 或其他集合A内元素成员（admin 除外）开设。
+CleanNote 是保护组织。
+Chat Club/ /chating 是冒充性质的页面。
+Googol 在 hcbbs 除了 “Googol”、“Googol唯一小号”、“Googol01” 有其他账号。
+Gongxiang01不是无辜的]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[第一波轰炸机处罚公告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/36/1"/>
+        <id>https://notebbs.dynv6.net/d/36/1</id>
+        <updated>2023-11-25T00:42:15+00:00</updated>
+        <content
+        ><![CDATA[以下是刷帖名单：
+gklgnl
+dyunlo
+twoal
+ydxfhs
+发帖内容为：“你Github还好吗(≧▽≦)/”
+根据相关规定，使用FoF spamblock 插件进行永久封禁+删除全部主题处罚。
+我猜一定是人工发的，因为加验证码了。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[全新 NoteBBS 正式开启]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/3/1"/>
+        <id>https://notebbs.dynv6.net/d/3/1</id>
+        <updated>2023-10-31T03:50:39+00:00</updated>
+        <content
+        ><![CDATA[由于公平论坛的破烂不堪的轰炸机，以及NoteBBS的闭关锁国，我们决定开始出一款新的NoteBBS。我们取得了yu22c授权，开始新的NoteBBS研究。并且通过Bing搜索引擎SEO优化，搜索NoteBBS可以找到我们的全新的NoteBBS。
+
+我们开始兼容公平论坛，但是也要防止轰炸机的出现。我们的工作需要很久很久。但是，我们要阻止轰炸机的注册。
+
+希望您共同帮助我们建设本论坛！
+优点
+无轰炸机
+不暴政
+不乱封禁
+不因反对或支持，就都辱骂一人。
+
+admin
+2023/10/31]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[讨论区规则]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/2/1"/>
+        <id>https://notebbs.dynv6.net/d/2/1</id>
+        <updated>2023-10-31T03:39:21+00:00</updated>
+        <content
+        ><![CDATA[规则
+为了快速的查看本次讨论区规范，我们在这里开始公示。
+
+禁止的
+禁止发布恶意破坏页面的内容，否则处删除。
+禁止恶意辱骂/侮辱/恐吓他人（如声称某人没有母亲），否则处删除，多次可封禁。
+请不要攻击本工具、做出违法行，这将会带来封禁的处罚。
+请勿冒充其他用户，否则将会封禁并且强制更改用户名。
+注册大量小号，不得同时违规，否则均处以封禁处罚。
+站务版是站务重要公告相关的信息，普通用户禁止发帖，否则将被删除。
+多次发布无意义内容可能会警告/封禁，无意义内容指无法理解的内容（如：乱码、胡言乱语（jhwekdnkwebkfjhjg这种内容））。
+除灌水区外禁止非切合主题帖子：
+ 一般内容请发布在灌水区中。
+ 在站务版发帖均可以处以删除处罚，多次发布可短期封禁（至少3天）。
+禁止发布对无辜人群产生不利影响的谣言（如Googol=admin）。
+用户不得利用漏洞使用被系统禁止的用户名，不得使用侮辱性的用户名。
+
+允许的
+用户有举报版主或管理之权力，但举报必须明确。
+封禁用户有申诉之权力，申诉请给 googology@outlook.com 发送主题为“{{用户名}}申诉”的邮件（注意把{{用户名}}改成你的用户名）
+
+管理公告规范
+管理员的公告除特殊说明外，{{NAME}}均需要将{{NAME}}替换成你的NAME。（本条是例外）
+管理员有权创建自己的测试帐号。
+违反规则的用户请在处罚之前给予警告，一再忽略并多次违反规则才应该予以处罚。]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+    
+</feed>

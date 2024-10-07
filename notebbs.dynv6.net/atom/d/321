@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[【违规辱骂言论】这个LOGO是你的吗]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/321" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/321/" />
+    <id>https://notebbs.dynv6.net/atom/d/321</id>
+    <updated>2024-07-16T14:40:53+00:00</updated>
+
+        <entry>
+        <title><![CDATA[【违规辱骂言论】这个LOGO是你的吗]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/321/2"/>
+        <id>https://notebbs.dynv6.net/d/321/2</id>
+        <updated>2024-05-29T09:39:23+00:00</updated>
+        <content
+        ><![CDATA[是yu22c的]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[【违规辱骂言论】这个LOGO是你的吗]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/321/1"/>
+        <id>https://notebbs.dynv6.net/d/321/1</id>
+        <updated>2024-05-29T09:36:14+00:00</updated>
+        <content
+        ><![CDATA[左上角的logo是你的吗，傻逼]]></content>
+        <author>
+            <name><![CDATA[cccc]]></name>
+        </author>
+    </entry>
+    
+</feed>

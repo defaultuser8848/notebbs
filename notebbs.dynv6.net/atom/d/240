@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[admin是谁啊？]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/240" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/240/" />
+    <id>https://notebbs.dynv6.net/atom/d/240</id>
+    <updated>2024-07-16T14:45:13+00:00</updated>
+
+        <entry>
+        <title><![CDATA[admin是谁啊？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/240/2"/>
+        <id>https://notebbs.dynv6.net/d/240/2</id>
+        <updated>2024-04-28T08:17:44+00:00</updated>
+        <content
+        ><![CDATA[不知道，是合作关系。
+在其他平台可以称为 notebbsadmin，或者直接简写为 nadmin]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[admin是谁啊？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/240/1"/>
+        <id>https://notebbs.dynv6.net/d/240/1</id>
+        <updated>2024-04-26T11:49:51+00:00</updated>
+        <content
+        ><![CDATA[感觉很神秘的样子，和Googol什么关系啊？]]></content>
+        <author>
+            <name><![CDATA[fxs]]></name>
+        </author>
+    </entry>
+    
+</feed>

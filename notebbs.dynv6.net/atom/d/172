@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[The Unlimited Note.ms]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/172" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/172/" />
+    <id>https://notebbs.dynv6.net/atom/d/172</id>
+    <updated>2024-07-16T14:50:57+00:00</updated>
+
+        <entry>
+        <title><![CDATA[The Unlimited Note.ms]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/172/1"/>
+        <id>https://notebbs.dynv6.net/d/172/1</id>
+        <updated>2024-03-26T12:49:39+00:00</updated>
+        <content
+        ><![CDATA[https://notes.orga.cat/mnbqd welcome to DDOSing! 🙂]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

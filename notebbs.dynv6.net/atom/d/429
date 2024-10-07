@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Gongxiang01!=Googol]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/429" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/429/" />
+    <id>https://notebbs.dynv6.net/atom/d/429</id>
+    <updated>2024-07-16T14:32:37+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Gongxiang01!=Googol]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/429/2"/>
+        <id>https://notebbs.dynv6.net/d/429/2</id>
+        <updated>2024-06-15T12:58:17+00:00</updated>
+        <content
+        ><![CDATA[Gongxiang01!=Googol]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[Gongxiang01!=Googol]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/429/1"/>
+        <id>https://notebbs.dynv6.net/d/429/1</id>
+        <updated>2024-06-15T12:58:11+00:00</updated>
+        <content
+        ><![CDATA[Gongxiang01!=Googol绝对是真理！]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

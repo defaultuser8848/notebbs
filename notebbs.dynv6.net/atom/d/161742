@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[NeBBs 论坛重新开放！]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161742" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161742/" />
+    <id>https://notebbs.dynv6.net/atom/d/161742</id>
+    <updated>2024-07-16T14:18:20+00:00</updated>
+
+        <entry>
+        <title><![CDATA[NeBBs 论坛重新开放！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161742/3"/>
+        <id>https://notebbs.dynv6.net/d/161742/3</id>
+        <updated>2024-07-01T10:06:21+00:00</updated>
+        <content
+        ><![CDATA[zdfsdf 被封了]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NeBBs 论坛重新开放！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161742/2"/>
+        <id>https://notebbs.dynv6.net/d/161742/2</id>
+        <updated>2024-07-01T09:45:58+00:00</updated>
+        <content
+        ><![CDATA[Googol 是这个吗
+https://suspended-website.com/n/]]></content>
+        <author>
+            <name><![CDATA[zdfsdf]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[NeBBs 论坛重新开放！]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161742/1"/>
+        <id>https://notebbs.dynv6.net/d/161742/1</id>
+        <updated>2024-07-01T07:41:50+00:00</updated>
+        <content
+        ><![CDATA[地址：http://nebbs.42web.io/index.php]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[集合的性质]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/345" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/345/" />
+    <id>https://notebbs.dynv6.net/atom/d/345</id>
+    <updated>2024-07-16T14:39:20+00:00</updated>
+
+        <entry>
+        <title><![CDATA[集合的性质]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/345/2"/>
+        <id>https://notebbs.dynv6.net/d/345/2</id>
+        <updated>2024-06-05T03:52:28+00:00</updated>
+        <content
+        ><![CDATA[通过集合的性质，我们可以快速了解目前的谣言。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[集合的性质]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/345/1"/>
+        <id>https://notebbs.dynv6.net/d/345/1</id>
+        <updated>2024-06-05T03:52:01+00:00</updated>
+        <content
+        ><![CDATA[集合A = {Gongxiang01(F/W), Googol, testh, abc, admin(本站)}
+我们通过集合A来了解集合的性质。
+确定性：集合A所指的用户都是确定的，没有疑义。
+互异性：集合A的所有元素所致的用户均不是同一人
+无序性：无论将本集合怎么排序，集合都是相等的。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

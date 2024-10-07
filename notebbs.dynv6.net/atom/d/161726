@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[都说了多少遍我不是Googol？]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161726" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161726/" />
+    <id>https://notebbs.dynv6.net/atom/d/161726</id>
+    <updated>2024-07-16T14:22:30+00:00</updated>
+
+        <entry>
+        <title><![CDATA[都说了多少遍我不是Googol？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161726/2"/>
+        <id>https://notebbs.dynv6.net/d/161726/2</id>
+        <updated>2024-06-30T01:42:00+00:00</updated>
+        <content
+        ><![CDATA[还有，CleanNote破坏页面还想推卸责任。]]></content>
+        <author>
+            <name><![CDATA[Gongxiang01]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[都说了多少遍我不是Googol？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161726/1"/>
+        <id>https://notebbs.dynv6.net/d/161726/1</id>
+        <updated>2024-06-30T01:39:07+00:00</updated>
+        <content
+        ><![CDATA[所有说我是Googol的言论均为谣言！]]></content>
+        <author>
+            <name><![CDATA[Gongxiang01]]></name>
+        </author>
+    </entry>
+    
+</feed>

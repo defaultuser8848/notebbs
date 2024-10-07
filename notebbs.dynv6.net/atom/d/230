@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[转到 freeflarum.com 的通知]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/230" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/230/" />
+    <id>https://notebbs.dynv6.net/atom/d/230</id>
+    <updated>2024-07-16T14:45:28+00:00</updated>
+
+        <entry>
+        <title><![CDATA[转到 freeflarum.com 的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/230/1"/>
+        <id>https://notebbs.dynv6.net/d/230/1</id>
+        <updated>2024-04-18T09:26:25+00:00</updated>
+        <content
+        ><![CDATA[目前 *.flarum.cloud 已经无法访问，目前网址为：
+https://note.freeflarum.com
+希望互相转告。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

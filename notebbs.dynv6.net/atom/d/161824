@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[关于永久封禁 fdp 的通知]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161824" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161824/" />
+    <id>https://notebbs.dynv6.net/atom/d/161824</id>
+    <updated>2024-07-16T14:04:02+00:00</updated>
+
+        <entry>
+        <title><![CDATA[关于永久封禁 fdp 的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161824/2"/>
+        <id>https://notebbs.dynv6.net/d/161824/2</id>
+        <updated>2024-07-08T04:01:17+00:00</updated>
+        <content
+        ><![CDATA[处罚其踢出 ProtectNote。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[关于永久封禁 fdp 的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161824/1"/>
+        <id>https://notebbs.dynv6.net/d/161824/1</id>
+        <updated>2024-07-08T03:58:16+00:00</updated>
+        <content
+        ><![CDATA[经过检查，发现 fdp 为 CleanNote 的间谍，证据：
+邮箱地址为 fdp@notems.xyz
+恶意公开敏感技术中的一个主题
+
+fxs 也很可能是其间谍！
+
+由于其造成的影响，目前予以永久封禁。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

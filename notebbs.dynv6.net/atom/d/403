@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[警告规则]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/403" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/403/" />
+    <id>https://notebbs.dynv6.net/atom/d/403</id>
+    <updated>2024-07-16T14:36:00+00:00</updated>
+
+        <entry>
+        <title><![CDATA[警告规则]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/403/1"/>
+        <id>https://notebbs.dynv6.net/d/403/1</id>
+        <updated>2024-06-13T02:49:34+00:00</updated>
+        <content
+        ><![CDATA[为了防止他人违反规则，版主及管理需要对违规者进行警告。但是切记尽量保持假定善意，除非其行为明显恶意。
+
+警告表单分为以下信息：
+警告分数：0~5，根据行为的严重程度和次数进行警告。如果轻微行为或者给予提醒请使用0分。
+用户批注：对于警告给予详细信息，必须保持填写。
+管理员批注：给出其计划、原因。以及只想给版主及管理员看的信息，注意不要再警告中写出威胁信息。
+
+警告规则
+对于警告，尽可能让违规者了解到自己违反的规则。
+不得因一个轻微的违规给予过高分数的警告，否则警告作废。
+警告的分数根据警告严重性决定。如果对方屡教不改根据同一违规理由的违规次数递增，但是必须保证对方行为的严重性极高。
+5分警告仅用于极其严重情况，无小号者第一次违规不得使用！
+不得同一次违规给予多个警告，站长团例外。
+管理员批注不得写出辱骂、人身攻击、威胁内容。否则作废。
+
+违规警告处罚
+对于不严重的违规，可以通过其他版主要求此版主撤销警告并重新编写警告理由，或者直接撤销。
+对于多次违反此规则的，版主可按照本规则警告相应版主。
+对于多次恶意违反的，有权限者可以撤销其权限。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

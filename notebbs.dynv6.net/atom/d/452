@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[组织评分机制]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/452" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/452/" />
+    <id>https://notebbs.dynv6.net/atom/d/452</id>
+    <updated>2024-07-16T14:28:47+00:00</updated>
+
+        <entry>
+        <title><![CDATA[组织评分机制]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/452/4"/>
+        <id>https://notebbs.dynv6.net/d/452/4</id>
+        <updated>2024-06-25T08:35:37+00:00</updated>
+        <content
+        ><![CDATA[示例：CleanNote的SCG
+组织评分：保护（-90）、贡献（4）、社区（30）]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[组织评分机制]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/452/3"/>
+        <id>https://notebbs.dynv6.net/d/452/3</id>
+        <updated>2024-06-18T12:50:38+00:00</updated>
+        <content
+        ><![CDATA[如需加入请设置 {{||group-template}} 模板，另外设置参数 protection-score、contribution-score、community-score。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[组织评分机制]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/452/2"/>
+        <id>https://notebbs.dynv6.net/d/452/2</id>
+        <updated>2024-06-18T12:49:43+00:00</updated>
+        <content
+        ><![CDATA[我们正在将此应用到 TiddlyWiki 中。可能 4n0n4me 不知道这个技术。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[组织评分机制]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/452/1"/>
+        <id>https://notebbs.dynv6.net/d/452/1</id>
+        <updated>2024-06-18T12:48:13+00:00</updated>
+        <content
+        ><![CDATA[组织评分（Score Comment in Group，SCG）是一个标准，其可以衡量一个组织的毁灭还是保护。
+保护：在-100~100的整数，表示该组织对页面的保护程度。注意需要根据破坏整体和保护的数量减去毁灭的数量衡量，而不是比例。也是保护活跃度。负数代表毁灭。
+贡献：在0~100的整数，对Note.ms的贡献。需要按照影响评分。
+社区：在0~100的整数，该组织的社区情况。如果该组织没有社区，保持0。
+
+如果有一项完全未知则填0。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

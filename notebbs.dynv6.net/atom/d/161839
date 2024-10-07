@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[网站域名迁址公告]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161839" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161839/" />
+    <id>https://notebbs.dynv6.net/atom/d/161839</id>
+    <updated>2024-07-16T13:56:50+00:00</updated>
+
+        <entry>
+        <title><![CDATA[网站域名迁址公告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161839/6"/>
+        <id>https://notebbs.dynv6.net/d/161839/6</id>
+        <updated>2024-07-13T10:37:42+00:00</updated>
+        <content
+        ><![CDATA[14569 原来也没有]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[网站域名迁址公告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161839/5"/>
+        <id>https://notebbs.dynv6.net/d/161839/5</id>
+        <updated>2024-07-13T10:30:24+00:00</updated>
+        <content
+        ><![CDATA[但是没有 CDN，容易被 DDoS。]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[网站域名迁址公告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161839/4"/>
+        <id>https://notebbs.dynv6.net/d/161839/4</id>
+        <updated>2024-07-11T05:39:20+00:00</updated>
+        <content
+        ><![CDATA[也推荐 https://dynv6.com 这个免费注册域名平台]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[网站域名迁址公告]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161839/1"/>
+        <id>https://notebbs.dynv6.net/d/161839/1</id>
+        <updated>2024-07-11T05:16:29+00:00</updated>
+        <content
+        ><![CDATA[https://note.freeflarum.com 已经成功迁移到 https://notebbs.dynv6.net。请大家访问新的域名，恳请大家能够记住这个域名。
+
+这个域名的迁移也是同时为了防止冒充，出现冒充直接改一个域名解析，冒充就无法进行了。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

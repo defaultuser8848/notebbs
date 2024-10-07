@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[功能升级的通知]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/305" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/305/" />
+    <id>https://notebbs.dynv6.net/atom/d/305</id>
+    <updated>2024-07-16T14:41:22+00:00</updated>
+
+        <entry>
+        <title><![CDATA[功能升级的通知]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/305/1"/>
+        <id>https://notebbs.dynv6.net/d/305/1</id>
+        <updated>2024-05-22T03:58:33+00:00</updated>
+        <content
+        ><![CDATA[管理员和版主可以影藏用户的主题，只有版主和管理员可以查看。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

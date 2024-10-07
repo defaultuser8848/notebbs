@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Dear FreeFlarum]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/346" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/346/" />
+    <id>https://notebbs.dynv6.net/atom/d/346</id>
+    <updated>2024-07-16T14:39:18+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Dear FreeFlarum]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/346/1"/>
+        <id>https://notebbs.dynv6.net/d/346/1</id>
+        <updated>2024-06-05T03:59:34+00:00</updated>
+        <content
+        ><![CDATA[FreeFlarum,
+There is a lot of DDoS, but we have not methods. Why you can't ban DDoS IP address?]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

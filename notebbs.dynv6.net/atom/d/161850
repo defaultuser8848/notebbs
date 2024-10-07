@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[HubUi-X 主题已停止公开代码]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161850" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161850/" />
+    <id>https://notebbs.dynv6.net/atom/d/161850</id>
+    <updated>2024-07-16T13:57:36+00:00</updated>
+
+        <entry>
+        <title><![CDATA[HubUi-X 主题已停止公开代码]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161850/3"/>
+        <id>https://notebbs.dynv6.net/d/161850/3</id>
+        <updated>2024-07-16T12:59:31+00:00</updated>
+        <content
+        ><![CDATA[So why 14569 dog barking? ]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[HubUi-X 主题已停止公开代码]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161850/2"/>
+        <id>https://notebbs.dynv6.net/d/161850/2</id>
+        <updated>2024-07-14T02:15:25+00:00</updated>
+        <content
+        ><![CDATA[现在已经够 5 个 upvote 了，等着添加吧]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[HubUi-X 主题已停止公开代码]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161850/1"/>
+        <id>https://notebbs.dynv6.net/d/161850/1</id>
+        <updated>2024-07-13T13:10:51+00:00</updated>
+        <content
+        ><![CDATA[HubUi-X 主题已打包为扩展，无需使用 Less/CSS 代码，请使用以下命令安装。
+composer require kk14569/flarum-hubui-x
+                    if(window.hljsLoader && !document.currentScript.parentNode.hasAttribute('data-s9e-livepreview-onupdate')) {
+                        window.hljsLoader.highlightBlocks(document.currentScript.parentNode);
+                    }
+                
+在 FreeFlarum 中使用 HubUi-X？
+点亮上箭头以支持添加扩展：https://support.freeflarum.com/d/217]]></content>
+        <author>
+            <name><![CDATA[14569]]></name>
+        </author>
+    </entry>
+    
+</feed>

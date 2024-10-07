@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[cmd的GitHub被盗了？]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161869" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161869/" />
+    <id>https://notebbs.dynv6.net/atom/d/161869</id>
+    <updated>2024-07-16T13:57:17+00:00</updated>
+
+        <entry>
+        <title><![CDATA[cmd的GitHub被盗了？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161869/2"/>
+        <id>https://notebbs.dynv6.net/d/161869/2</id>
+        <updated>2024-07-16T13:13:19+00:00</updated>
+        <content
+        ><![CDATA[can you translate to english?]]></content>
+        <author>
+            <name><![CDATA[ANMPidry]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[cmd的GitHub被盗了？]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161869/1"/>
+        <id>https://notebbs.dynv6.net/d/161869/1</id>
+        <updated>2024-07-16T11:19:52+00:00</updated>
+        <content
+        ><![CDATA[]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

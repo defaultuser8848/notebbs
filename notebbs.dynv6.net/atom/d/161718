@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[站长违规告示板]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161718" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161718/" />
+    <id>https://notebbs.dynv6.net/atom/d/161718</id>
+    <updated>2024-07-16T14:23:14+00:00</updated>
+
+        <entry>
+        <title><![CDATA[站长违规告示板]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161718/2"/>
+        <id>https://notebbs.dynv6.net/d/161718/2</id>
+        <updated>2024-06-28T12:02:03+00:00</updated>
+        <content
+        ><![CDATA[你们也可以举报我]]></content>
+        <author>
+            <name><![CDATA[admin]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[站长违规告示板]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161718/1"/>
+        <id>https://notebbs.dynv6.net/d/161718/1</id>
+        <updated>2024-06-28T11:56:59+00:00</updated>
+        <content
+        ><![CDATA[如果你认为站长违规了，请在此留言，必须包含：
+证据
+相关事实
+站规
+
+我们可能采纳或忽略]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

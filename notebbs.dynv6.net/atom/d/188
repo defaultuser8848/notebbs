@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[前端判断🤣]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/188" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/188/" />
+    <id>https://notebbs.dynv6.net/atom/d/188</id>
+    <updated>2024-07-16T14:48:43+00:00</updated>
+
+        <entry>
+        <title><![CDATA[前端判断🤣]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/188/2"/>
+        <id>https://notebbs.dynv6.net/d/188/2</id>
+        <updated>2024-04-11T05:59:20+00:00</updated>
+        <content
+        ><![CDATA[这个扩展的漏洞吧。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[前端判断🤣]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/188/1"/>
+        <id>https://notebbs.dynv6.net/d/188/1</id>
+        <updated>2024-04-09T14:00:54+00:00</updated>
+        <content
+        ><![CDATA[fuckgoogol注册成功了，你怎么看]]></content>
+        <author>
+            <name><![CDATA[lovegoogol2949]]></name>
+        </author>
+    </entry>
+    
+</feed>

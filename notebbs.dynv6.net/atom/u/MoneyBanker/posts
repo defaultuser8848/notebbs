@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[MoneyBanker]]></title>
+    <subtitle><![CDATA[Latest posts & comments by this user.]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/u/MoneyBanker/posts" rel="self" />
+    <link href="https://notebbs.dynv6.net/u/MoneyBanker/" />
+    <id>https://notebbs.dynv6.net/atom/u/MoneyBanker/posts</id>
+    <updated>2024-07-16T14:47:48+00:00</updated>
+
+        <entry>
+        <title><![CDATA[反CleanNote保证理财]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/266/1"/>
+        <id>https://notebbs.dynv6.net/d/266/1</id>
+        <updated>2024-05-12T12:07:33+00:00</updated>
+        <content
+        ><![CDATA[ 注意：本理财与网站无关！ 
+本理财有1%利息/月，但只有满足以下情况才能获得本金和利息：
+领取日无充分证据表明你支持CleanNote
+本站相关管理还在
+
+注意事项：如果想要进行理财，请转账本账号理财金额（至少100 Note币），后备注“反CleanNote保证理财”，之后在本贴评论“我投资[Note 币数量]，时间为[存期]。”才能成功。
+
+
+注：关于本行为必须保证守信，如果没有守信请艾特@Googol 或者@MoneyBanker]]></content>
+        <author>
+            <name><![CDATA[MoneyBanker]]></name>
+        </author>
+    </entry>
+    
+</feed>

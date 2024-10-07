@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[虚假内容]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/161640" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/161640/" />
+    <id>https://notebbs.dynv6.net/atom/d/161640</id>
+    <updated>2024-07-16T14:30:52+00:00</updated>
+
+        <entry>
+        <title><![CDATA[虚假内容]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161640/2"/>
+        <id>https://notebbs.dynv6.net/d/161640/2</id>
+        <updated>2024-06-23T08:49:53+00:00</updated>
+        <content
+        ><![CDATA[@Anonymous_user 我就问问你，有证据吗*？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[虚假内容]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/161640/1"/>
+        <id>https://notebbs.dynv6.net/d/161640/1</id>
+        <updated>2024-06-23T08:49:39+00:00</updated>
+        <content
+        ><![CDATA[https://bbs.notems.xyz/d/365-zhi-yuan-tie-guan-yu-chu-zhi-12123qwde-te-bie-gong-gao
+
+2024年6月12日，12123qw因为个人原因在Googol论坛中通过中间人向Googol告知了其账号的密码，以期望获得Googol论坛的管理员权限，后在中午将这件事情告知了其同学与同为网站管理员的Anonymous_user（下简称AU），AU在得知此事后立即撤销了其管理员权限并更改了其账号密码，后决定对12123qw进行弹劾。
+
+你有证据吗？？？]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

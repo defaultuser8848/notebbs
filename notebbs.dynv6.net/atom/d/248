@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[速报：2024/5/2 iFastNet FTP和HcBBs]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/248" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/248/" />
+    <id>https://notebbs.dynv6.net/atom/d/248</id>
+    <updated>2024-07-16T14:44:03+00:00</updated>
+
+        <entry>
+        <title><![CDATA[速报：2024/5/2 iFastNet FTP和HcBBs]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/248/1"/>
+        <id>https://notebbs.dynv6.net/d/248/1</id>
+        <updated>2024-05-02T06:43:26+00:00</updated>
+        <content
+        ><![CDATA[目前iFastNet的FTP地址（ftpupload.net）已经被墙，任意地点均无法访问，证据：
+
+另外，HcBBs的CloudFlare就连Edge浏览器都打不开（卡死）。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

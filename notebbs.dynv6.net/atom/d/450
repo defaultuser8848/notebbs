@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Chat Club 外交声明]]></title>
+    <subtitle><![CDATA[这篇帖子的最新回复]]></subtitle>
+    <link href="https://notebbs.dynv6.net/atom/d/450" rel="self" />
+    <link href="https://notebbs.dynv6.net/d/450/" />
+    <id>https://notebbs.dynv6.net/atom/d/450</id>
+    <updated>2024-07-16T14:31:11+00:00</updated>
+
+        <entry>
+        <title><![CDATA[Chat Club 外交声明]]></title>
+        <link rel="alternate" type="text/html" href="https://notebbs.dynv6.net/d/450/1"/>
+        <id>https://notebbs.dynv6.net/d/450/1</id>
+        <updated>2024-06-18T12:05:43+00:00</updated>
+        <content
+        ><![CDATA[/chating 的所有者为 Chat Club，请勿毁灭！Chat Chating Club不要替换，更不要替换为未经授权的聊天室。否则将制裁。]]></content>
+        <author>
+            <name><![CDATA[Googol]]></name>
+        </author>
+    </entry>
+    
+</feed>

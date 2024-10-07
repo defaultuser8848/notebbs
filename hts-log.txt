@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 16 Jul 2024 21:54:14 at https://notebbs.dynv6.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%P0%s%u%I0p3DaK0c5T30R3H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" https://notebbs.dynv6.net/ -O1 "D:\myWebs\notebbs20240716-lite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:54:14	Warning: 	Cache: damaged cache, trying to repair
+21:54:14	Warning: 	Cache: 0 bytes successfully recovered in 0 entries
+21:54:14	Warning: 	Cache: error trying to open the cache
+21:54:14	Warning: 	HTML file (123683 bytes) retransferred due to lack of cache: https://notebbs.dynv6.net/
+21:54:17	Warning: 	HTML file (92478 bytes) retransferred due to lack of cache: https://notebbs.dynv6.net/?page=2
+21:54:58	Warning: 	HTML file (98079 bytes) retransferred due to lack of cache: https://notebbs.dynv6.net/?page=3
+21:55:58	Error: 	"Error when decompressing" (-1) at link https://notebbs.dynv6.net/atom (from https://notebbs.dynv6.net/)
+21:58:06	Warning: 	HTML file (97746 bytes) retransferred due to lack of cache: https://notebbs.dynv6.net/?page=4
+22:00:14	Warning: 	Retry after error -4 (Connect Error) at link https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css (from https://notebbs.dynv6.net/assets/forum.css?v=88d0dd1b)
+22:01:15	Warning: 	Retry after error -4 (Connect Error) at link https://cdn.jsdelivr.net/gh/s9e/hljs-loader@1.0.34/loader.min.js (from https://notebbs.dynv6.net/d/161850)
+22:01:16	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://notebbs.dynv6.net/?page=5
+22:04:07	Warning: 	Retry after error -4 (Connect Error) at link https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css (from https://notebbs.dynv6.net/assets/forum.css?v=88d0dd1b)
+22:05:06	Warning: 	Retry after error -4 (Connect Error) at link https://cdn.jsdelivr.net/gh/s9e/hljs-loader@1.0.34/loader.min.js (from https://notebbs.dynv6.net/d/161850)
+22:08:27	Warning: 	Retry after error -4 (Connect Error) at link https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css (from https://notebbs.dynv6.net/assets/forum.css?v=88d0dd1b)
+22:08:51	Warning: 	Retry after error -4 (Connect Error) at link https://cdn.jsdelivr.net/gh/s9e/hljs-loader@1.0.34/loader.min.js (from https://notebbs.dynv6.net/d/161850)
+22:12:53	Error: 	"Connect Error" (-4) after 3 retries at link https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css (from https://notebbs.dynv6.net/assets/forum.css?v=88d0dd1b)
+22:12:55	Error: 	"Connect Error" (-4) after 3 retries at link https://cdn.jsdelivr.net/gh/s9e/hljs-loader@1.0.34/loader.min.js (from https://notebbs.dynv6.net/d/161850)
+22:27:22	Error: 	"Not Found" (404) at link https://notebbs.dynv6.net/d/161662/18 (from https://notebbs.dynv6.net/d/161656?page=4)
+22:27:22	Error: 	"Not Found" (404) at link https://notebbs.dynv6.net/t/geli (from https://notebbs.dynv6.net/d/161656?page=4)
+22:35:24	Error: 	"Forbidden" (403) at link https://cloudflare.cdnjson.com/images/2024/06/19/imagef44774975a050d20.png (from https://notebbs.dynv6.net/d/458)
+22:39:43	Error: 	"Not Found" (404) at link https://notebbs.dynv6.net/d/link (from https://notebbs.dynv6.net/d/387)
+22:39:56	Error: 	"Not Found" (404) at link https://img.picui.cn/free/2024/06/12/6668846a36e44.jpeg (from https://notebbs.dynv6.net/d/382)
+22:49:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://i.postimg.cc/06kYJg8J/2024-04-12-213414.png (from https://notebbs.dynv6.net/d/210)
+22:52:14	Warning: 	Retry after error -2 (Receive Time Out) at link https://i.postimg.cc/06kYJg8J/2024-04-12-213414.png (from https://notebbs.dynv6.net/d/210)
+22:53:52	Warning: 	Retry after error -4 (Connect Error) at link https://i.postimg.cc/06kYJg8J/2024-04-12-213414.png (from https://notebbs.dynv6.net/d/210)
+22:54:01	Warning: 	Retry after error -5 (Unable to get server's address: 请求的名称有效，但是找不到请求的类型的数据。 ) at link https://forum.litecat.buzz/assets/logo-ipakzyuy.png (from https://notebbs.dynv6.net/d/51)
+22:55:41	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 3 retries at link https://i.postimg.cc/06kYJg8J/2024-04-12-213414.png (from https://notebbs.dynv6.net/d/210)
+22:55:43	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://forum.litecat.buzz/assets/logo-ipakzyuy.png (from https://notebbs.dynv6.net/d/51)
+22:55:46	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://forum.litecat.buzz/assets/logo-ipakzyuy.png (from https://notebbs.dynv6.net/d/51)
+22:55:49	Error: 	"Unable to get server's address: unknown error" (-5) after 3 retries at link https://forum.litecat.buzz/assets/logo-ipakzyuy.png (from https://notebbs.dynv6.net/d/51)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 1 minutes 44 seconds : 1838 links scanned, 1815 files written (143704474 bytes overall) [35775809 bytes received at 9658 bytes/sec], 137763263 bytes transferred using HTTP compression in 1776 files, ratio 20%
+(10 errors, 20 warnings, 0 messages)
